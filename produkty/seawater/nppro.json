@@ -1,0 +1,35 @@
+{
+    "id": "af-pl-nppro-001",
+  
+    "text": "NP Pro – biodegradowalna płynna pożywka węglowa dla bakterii probiotycznych; szybko obniża NO3 i PO4 w akwariach rafowych. Dawkowanie: 1 kropla / 100 l (5 ml / 100 l przy pompie).",
+  
+    "description": "-NP Pro to płynna, biodegradowalna pożywka węglowa przeznaczona do akwariów rafowych. Wspiera namnażanie bakterii probiotycznych (Pro Bio S), które przekształcają nadmiar NO3 i PO4 w cenną biomasę pokarmową dla koralowców. Preparat nie wymaga filtrów fluidyzacyjnych, ogranicza ryzyko glonów i sinic oraz poprawia wybarwienie koralowców.",
+  
+    "slug": "np-pro",
+    "title": "NP Pro – zarządzanie NO3 i PO4",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/metoda-probiotyczna/np-pro/",
+  
+    "lang": "pl",
+    "type": "product",
+    "domain": "Seawater",
+    "category": "Metoda probiotyczna",
+    "product_type": "Supplement",
+  
+    "sizes": [
+      { "volume_ml": 10, "price_pln": 31.50 },
+      { "volume_ml": 50, "price_pln": 87.15 }
+    ],
+  
+    "dosing": {
+      "daily_drop": "1 kropla / 100 l",
+      "daily_pump": "5 ml / 100 l"
+    },
+  
+    "storage": "≤ 24 °C; po otwarciu w lodówce",
+  
+    "compatibility": ["Pro Bio S"],
+  
+    "tags": ["NO3", "PO4", "probiotyczne bakterie", "węgiel", "suplement"],
+    "updated_at": "2025-05-27",
+    "version": 1
+  }

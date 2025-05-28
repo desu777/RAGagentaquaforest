@@ -15,7 +15,9 @@
     "category": "Metoda probiotyczna",
     "product_type": "Bacteria culture",
   
-    "price_pln": 46.20,
+    "sizes": [
+      { "package": "standard", "price_pln": 46.20 }
+    ],
   
     "dosing": {
       "daily": "1 łyżeczka / 100 l"
@@ -27,4 +29,4 @@
     "tags": ["NO3", "PO4", "probiotyczne bakterie", "węgiel", "liofilizat"],
     "updated_at": "2025-05-27",
     "version": 1
-  }
+}

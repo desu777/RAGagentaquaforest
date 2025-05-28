@@ -29,7 +29,8 @@
     "storage": "Temperatura pokojowa; wstrząsnąć przed użyciem",
     "compatibility": ["Pro Bio S", "AF Vitality", "AF Amino Mix"],
   
-    "tags": ["NO3", "PO4", "NO2", "organic carbon", "suplement"],
+    "tags": ["NO3", "PO4", "NO2", "organic carbon", "supplement"],
     "updated_at": "2025-05-27",
     "version": 1
 }
+

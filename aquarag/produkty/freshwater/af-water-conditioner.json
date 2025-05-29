@@ -1,0 +1,16 @@
+{
+    "id": "af-water-conditioner-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Water Conditioner – uzdatniacz wody z witaminami i koloidem ochronnym",
+    "query_text": "AF Water Conditioner uzdatnianie wody wodociągowa chlor metale ciężkie witaminy koloid ochronny śluz skóra płetwy regeneracja układ odpornościowy żelazo biodostępne rośliny transport ryb podmiana wody nowy zbiornik 10ml 100L witaminy B 125ml 250ml 500ml 2000ml",
+    "full_content": "AF Water Conditioner to preparat do uzdatniania wody wodociągowej z dodatkiem witamin i koloidu ochronnego. Błyskawicznie przygotowuje wodę wodociągową do bezpośredniego użycia w akwarium. DZIAŁANIE: AF Water Conditioner redukuje poziom niebezpiecznego dla ryb chloru, wiąże i neutralizuje metale ciężkie. Powoduje, że zawarte w wodzie związki np. żelazo stają się biodostępne dla roślin. OCHRONA RYB: Podczas transportu ryb często dochodzi do uszkodzeń skóry, płetw i zmniejszenia warstwy śluzu. Dzięki zawartości koloidu ochronnego, który zastępuje naturalny śluz, skóra ryb szybciej się regeneruje i jest mniej podatna na urazy i infekcje. Specjalnie dobrana kompozycja witamin z grupy B dodatkowo wzmacnia układ odpornościowy ryb i wspomaga ich regenerację. SPOSÓB UŻYCIA: 10 ml AF Water Conditioner na 100 l wody wodociągowej. Stosować podczas każdorazowej podmiany wody, przy tworzeniu nowego zbiornika oraz podczas transportu ryb. PRZECHOWYWANIE: Produkt przeznaczony wyłącznie do akwarystyki. Chronić przed światłem słonecznym. Przechowywać w temperaturze pokojowej w szczelnie zamkniętym opakowaniu, poza zasięgiem dzieci. ROZMIARY: 125ml, 250ml, 500ml, 2000ml.",
+    "domain": "freshwater",
+    "category": "water_parameters",
+    "intent": ["water_conditioning", "fish_care", "tank_setup", "water_changes"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/freshwater/utrzymanie-parametrow-wody/af-water-conditioner/",
+    "tags": ["uzdatniacz_wody", "woda_wodociągowa", "chlor", "metale_ciężkie", "witaminy_B", "koloid_ochronny", "śluz", "skóra_ryb", "płetwy", "regeneracja", "układ_odpornościowy", "żelazo_biodostępne", "transport_ryb", "podmiana_wody", "nowy_zbiornik", "10ml", "100L", "125ml", "250ml", "500ml", "2000ml"],
+    "related_items": ["af-life-essence", "water-testing-kits", "fish-transport", "tank-maintenance", "plant-fertilizers"],
+    "updated_at": "2025-05-29"
+}

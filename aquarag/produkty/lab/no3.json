@@ -1,0 +1,16 @@
+{
+    "id": "lab-no3-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "NO3 – źródło czystych azotanów dla prawidłowego wzrostu koralowców",
+    "query_text": "NO3 azotany suplement podnoszący poziom zbyt niskie stężenie spowolniony wzrost koralowce dużo koralowców mało ryb stosunek azotu fosforu 16:1 PO4 1ml 0.5mg/l 100L 1-4 mg/l ppm wydajny system filtracji nutrienty",
+    "full_content": "NO3 to źródło czystych azotanów, których odpowiedni poziom jest niezbędny do prawidłowego wzrostu koralowców. W zamkniętym systemie akwariowym często dochodzi do zachwiania parametrów. Wydajny system filtracji lub przedawkowanie środków obniżających nutrienty może powodować drastyczną redukcję poziomu azotanów. Ich zbyt niskie stężenie w wodzie morskiej może spowodować spowolniony wzrost koralowców. AF NO3+ to produkt podnoszący poziom azotanów w akwariach morskich. Problem zbyt niskiego NO3 najczęściej dotyka akwariów z dużą liczbą koralowców, przy jednoczesnej niewielkiej liczbie ryb. AF NO3+ to źródło czystych azotanów, których odpowiedni poziom jest niezbędny do prawidłowego wzrostu koralowców. Stężenie azotanów jest mocno uzależnione od poziomu fosforanów w wodzie. Przed przystąpieniem do podniesienia poziomu NO3 w akwarium, należy sprawdzić stężenie PO4. W akwarium morskim stosunek azotu do fosforu powinien wynosić 16:1. Utrzymanie go w takich proporcjach, pozwala na zachowanie odpowiedniej równowagi chemicznej w zbiorniku i uchronienie go przed wzmożonym rozwojem glonów. AF NO3+ to produkt linii Aquaforest Lab stworzonej dla akwarystów, którzy chcą mieć pełną kontrolę nad parametrami panującymi w ich zbiorniku. Przed zastosowaniem zalecamy zbadanie zarówno poziomu NO3, jak i PO4 oraz stopniowe dozowanie aż do uzyskania pożądanego poziomu azotanów. DOZOWANIE: 1 ml AF NO3+ dodany do 100 l wody w akwarium podnosi poziom azotanów o 0,5 mg/l (ppm). Maksymalna zalecana dawka dzienna wynosi 1 ml/100 l wody. Optymalna wartość NO3 w akwarium morskim wynosi 1-4 mg/l (ppm). Sprawdzaj często poziom azotanów i dozuj AF NO3+ tylko, kiedy jest zbyt niski. Upewnij się, że poziom fosforanów jest właściwy i używasz dokładnego testu. Rozmiar: 200 ml.",
+    "domain": "lab",
+    "category": "parameters",
+    "intent": ["nutrient_supplementation", "coral_growth", "water_parameters", "troubleshooting", "nutrient_balance"],
+    "difficulty": "advanced",
+    "url": "https://aquaforest.eu/pl/produkty/lab/mikroelementy/no3/",
+    "tags": ["NO3", "azotany", "1ml_0.5mg/l", "1-4_mg/l_optymalny", "1ml_maksymalnie", "stosunek_16:1", "N:P_ratio", "PO4_sprawdzenie", "dużo_koralowców_mało_ryb", "wydajny_system", "nutrienty", "spowolniony_wzrost", "200ml"],
+    "related_items": ["po4", "af-np-pro", "pro-bio-s", "test-pro", "icp-test-1"],
+    "updated_at": "2025-05-29"
+}

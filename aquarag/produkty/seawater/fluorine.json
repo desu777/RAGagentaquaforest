@@ -1,0 +1,16 @@
+{
+    "id": "fluorine-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Fluorine – suplement fluoru wzmacniający wybarwienie SPS",
+    "query_text": "Fluorine fluor suplement mikroelement kalcyfikacja szkielet koralowce SPS niebieskie białe wybarwienie fluorescencja fluorek sodu wapnia 1 kropla 100L 0.06 ppm 1.3 mg/l potas jod 50ml",
+    "full_content": "Fluorine to suplement zawierający wysoko skoncentrowany fluor. Zrównoważona suplementacja fluorem skutecznie wzmacnia niebieskie i białe ubarwienie koralowców SPS. PRZEZNACZENIE: Fluor jest jednym z głównych mikroelementów zawartych w wodzie morskiej. W zamkniętym systemie akwariowym odpieniacz i media filtracyjne usuwają z wody pokłady fluoru, dlatego konieczna jest jego suplementacja. Fluor uczestniczy w procesie kalcyfikacji oraz wspomaga budowę tkanki szkieletowej. Fluorek sodu i fluorek wapnia są budulcami szkieletów koralowców, dlatego suplementacja fluoru jest w akwarium rafowym konieczna. Dzięki zrównoważonej suplementacji fluoru można skutecznie wzmocnić niebieskie i białe wybarwienie koralowców SPS, a także podkreślić fluorescencję większości koralowców. Zawiera śladowe ilości potasu i jodu. DAWKOWANIE: 1 kropla na 100 l wody dziennie. 1 ml Fluorine (~15 kropli) w 100 l wody podnosi poziom fluoru o 0,06 ppm i jodu o 0,015 mg/l (ppm). Należy pamiętać, że każde akwarium jest inne, a dawkowanie jest zależne od obsady koralowców i indywidualnego zapotrzebowania. Zalecany poziom fluoru w akwarium rafowym to około 1.3 mg/l (ppm). ROZMIAR: 50ml.",
+    "domain": "seawater",
+    "category": "supplements",
+    "intent": ["water_parameters", "coral_care", "color_enhancement", "calcification"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/parametry-wody/fluorine/",
+    "tags": ["fluor", "SPS", "niebieskie", "białe", "wybarwienie", "fluorescencja", "1_kropla", "100L", "0.06_ppm", "1.3_mg/L", "50ml"],
+    "related_items": ["component-c", "components-strong", "af-test-i2", "iodine"],
+    "updated_at": "2025-05-29"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "af-marine-flakes-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Marine Flakes – pokarm w płatkach z algami nori",
+    "query_text": "AF Marine Flakes pokarm płatki ryby roślinożerne wszystkożerne algi nori spirulina witaminy minerały białka trawienie odporność wybarwienie karotenoidy superfoods rozwój witalność zdrowie 25g 1-2 razy dziennie",
+    "full_content": "AF Marine Flakes to pokarm stworzony specjalnie dla ryb roślinożernych i wszystkożernych w najpopularniejszej i wygodnej formie płatków z unikalnym dodatkiem alg nori. SKŁADNIKI: Algi nori (5%) bogate w witaminy, minerały i białka kluczowe dla prawidłowego rozwoju i funkcjonowania ryb, spirulina z grupy superfoods o wysokiej zawartości składników odżywczych. KORZYŚCI: Wspomaga naturalne procesy trawienne ryb, wzmacnia układ odpornościowy, przyczynia się do utrzymania zdrowia i witalności, stymuluje wzrost i rozwój, korzystnie wpływa na intensywność wybarwienia dzięki karotenoidy w spirulinie. SKŁAD: Spirulina, produkty zbożowe, białka roślinne, ryby i produkty rybne, mięczaki i skorupiaki, algi nori (5%), olej rybi, drożdże. DODATKI: Wit. A 30000 IU/kg, wit. C 50 mg/kg, wit E 150 mg/kg, wit. D3 2000 IU/kg. SKŁADNIKI ANALITYCZNE: Białko surowe 34.5%, tłuszcz surowy 4%, włókno surowe 3.5%, popiół 6.5%, wilgotność 3%. DAWKOWANIE: 1-2 razy dziennie, podając ilość karmy którą ryby zdołają zjeść w ciągu kilku minut. SPECYFIKACJA: Opakowanie 25g, płatki jako najpopularniejsza forma pokarmu.",
+    "domain": "seawater",
+    "category": "feeds",
+    "intent": ["feeding", "nutrition", "fish_care", "color_enhancement"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/pokarmy-i-suplementacja/af-marine-flakes/",
+    "tags": ["pokarm", "płatki", "ryby", "nori", "spirulina", "roślinożerne", "wszystkożerne", "witaminy", "wybarwienie", "25g", "karotenoidy"],
+    "related_items": ["af-algae-feed", "af-liquid-vege", "af-vitality"],
+    "updated_at": "2025-05-28"
+}

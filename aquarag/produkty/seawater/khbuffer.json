@@ -1,0 +1,16 @@
+{
+    "id": "kh-buffer-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "KH Buffer – środek do utrzymywania stałego poziomu twardości węglanowej",
+    "query_text": "KH Buffer twardość węglanowa alkalinity stabilizacja pH nitryfikacja 6.5-8.5 dKH 80g 1000ml RODI 100ml 2.6 dKH 10g 3.3 dKH 0.5 dKH dobę Calcium Magnesium Reef Mineral Salt 1200g 5000g proszek",
+    "full_content": "KH Buffer to środek do utrzymywania stałego poziomu twardości węglanowej w akwariach rafowych. PRZEZNACZENIE: Środek do utrzymania stałej twardości węglanowej w akwariach rafowych. Odpowiedni poziom twardości węglanowej zapewnia stabilizację pH i łatwe jego kontrolowanie. Spadek stężenia węglanów w akwarium może całkowicie zatrzymać proces nitryfikacji. Zalecany poziom kH w akwariach rafowych wynosi 6,5-8,5 dKH. DAWKOWANIE: Należy rozpuścić 80 g w 1000 ml wody RODI. Dawkowanie należy ustalić na podstawie testów wody i dziennej konsumpcji koralowców. Przed użyciem preparatu zalecane jest zmierzenie stężenia KH. 100 ml roztworu KH Buffer podnosi poziom KH o 2,6 dKH w 100 l wody. Nadaje się do doraźnego stosowania w celu jednorazowego podniesienia poziomu KH. 10 g KH Buffer w 100 l wody podnosi o ok. 3,3 dKH (Alk. 1,18 meg/l). WAŻNE INFORMACJE: Nie zalecamy podnoszenia poziomu KH o więcej niż 0,5 dKH na dobę. W celu utrzymania równowagi jonowej i stałych parametrów zalecamy stosować także Calcium, Magnesium oraz Reef Mineral Salt. ROZMIARY: 1200g, 5000g.",
+    "domain": "seawater",
+    "category": "water_parameters",
+    "intent": ["water_parameters", "ph_regulation", "coral_care", "maintenance"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/parametry-wody/kh-buffer/",
+    "tags": ["KH", "twardość_węglanowa", "pH", "80g", "1000ml", "RODI", "2.6_dKH", "3.3_dKH", "6.5-8.5_dKH", "0.5_dKH", "1200g", "5000g"],
+    "related_items": ["alkalinity-test-kit", "calcium", "magnesium", "reef-mineral-salt", "af-test-kh"],
+    "updated_at": "2025-05-29"
+}

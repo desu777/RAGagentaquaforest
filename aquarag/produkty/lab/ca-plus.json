@@ -1,0 +1,16 @@
+{
+    "id": "lab-ca-plus-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Ca Plus – wysoce skoncentrowana formuła wapnia dla koralowców",
+    "query_text": "Ca Plus wapń calcium skoncentrowana formuła niedobory nagłe spadki poziom kalcyfikacja szkielety koralowce wzrost 10ml 20mg/l 100L 380-460 mg/l KH Plus Buffer magmez przyswajalną formą makroelement",
+    "full_content": "Ca Plus to wysoce skoncentrowana formuła stworzona z myślą o uzupełnianiu niedoborów i nagłych spadków poziomu wapnia. Ca Plus został stworzony z myślą o wyrównywaniu nagłych spadków i niedoborów wapnia. Dzięki zawartości wapnia w najbardziej przyswajalnej formie, zapewnia łatwe podniesienie jego poziomu w akwarium. Wapń jest niezbędny koralowcom do budowy szkieletów, a jego braki mogą skutkować znacznym zahamowaniem bądź zatrzymaniem wzrostu. Ca Plus znacznie ułatwia kalcyfikację i umożliwia koralowcom prawidłowy rozwój. Skuteczność suplementacji Ca Plus zależy od odpowiedniego poziomu KH, dlatego zaleca się równoległe stosowanie produktów podnoszących twardość węglanową (KH Plus lub KH Buffer). DOZOWANIE: 10 ml roztworu podnosi poziom Ca o 20 mg/l (ppm) w 100 l wody. Maksymalna bezpieczna dawka dzienna wynosi 10 ml na 100 litrów wody. Jeżeli wymagana jest większa dawka, rozbij ją na kilka dni. Poziom wapnia w akwarium rafowym powinien wynosić ok. 380-460 mg/l (ppm). Przed próbą podniesienia lub skorygowania poziomu wapnia i zasadowości, zalecamy upewnić się, że poziom magnezu mieści się w zalecanym zakresie. Dostępne rozmiary: 1000 ml, 2000 ml.",
+    "domain": "lab",
+    "category": "parameters",
+    "intent": ["calcium_supplementation", "coral_health", "water_parameters", "troubleshooting", "growth_enhancement"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/produkty/lab/makroelementy/ca-plus_/",
+    "tags": ["Ca_Plus", "wapń", "calcium", "10ml_20mg/l", "380-460_mg/l", "10ml_maksymalnie", "kalcyfikacja", "szkielety", "koralowce", "KH_zależność", "1000ml", "2000ml", "skoncentrowana", "przyswajalny"],
+    "related_items": ["kh-plus", "kh-buffer", "mg-plus", "component-123", "reef-salt"],
+    "updated_at": "2025-05-29"
+}

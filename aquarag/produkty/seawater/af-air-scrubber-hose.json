@@ -1,0 +1,16 @@
+{
+    "id": "af-air-scrubber-hose-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Air Scrubber Hose – elastyczny wąż silikonowy",
+    "query_text": "AF Air Scrubber Hose wąż silikonowy elastyczny akcesorium wymiana części zamienne 1 metr 10mm średnica zewnętrzna 8mm wewnętrzna montaż połączenie",
+    "full_content": "AF Air Scrubber Hose to elastyczny wąż silikonowy dedykowany do stosowania z AF Air Scrubber. Łatwy w użyciu i bardzo wytrzymały. SPECYFIKACJA: Długość 1 metr, średnica zewnętrzna 10mm, średnica wewnętrzna 8mm, grubość ścianki 2mm. ZASTOSOWANIE: Połączenie AF Air Scrubber z odpieniaczem, wymiana standardowego węża, zapewnienie elastycznego połączenia między urządzeniami. MATERIAŁ: Wysokiej jakości silikon odporny na działanie wody morskiej i ozonu.",
+    "domain": "seawater",
+    "category": "accessories",
+    "intent": ["maintenance", "replacement", "setup"],
+    "difficulty": "beginner",
+    "url":"https://aquaforest.eu/pl/produkty/seawater/wyposazenie-akwarium/af-air-scrubber-hose/",
+    "tags": ["wąż", "hose", "silikonowy", "Air_Scrubber", "akcesorium", "1m", "10mm", "części_zamienne"],
+    "related_items": ["af-air-scrubber"],
+    "updated_at": "2025-05-28"
+  }

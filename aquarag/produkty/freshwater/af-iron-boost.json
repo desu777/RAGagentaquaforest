@@ -1,0 +1,17 @@
+{
+    "id": "af-iron-boost-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Iron Boost – nawóz żelazowy dla roślin wodnych",
+    "query_text": "AF Iron Boost żelazo nawóz rośliny wodne chlorofil fotosynteza chelat Fe2+ chloroza żółknięcie liści deficyt niedobór 0.1-1mg/l 0.4mg/l makro mikro elementy pH 1ml 100L tygodniu zeolit węgiel 125ml 250ml 500ml 2000ml",
+    "full_content": "AF Iron Boost to profesjonalny suplement łatwo przyswajalnego żelaza dla roślin akwariowych. ZNACZENIE ŻELAZA: Żelazo bierze udział w różnorodnych procesach metabolicznych, a przede wszystkim odgrywa ważną rolę podczas syntezy chlorofilu — zielonego barwnika. Od jego obecności zależy wydajność fotosyntezy. PROBLEM: Absorpcja żelaza jest uzależniona od zawartości makro i mikroelementów, odczynu pH oraz samej formy żelaza. Częstym problemem w akwariach jest deficyt żelaza, gdyż jego postać jest nieprzyswajalna przez rośliny. Niedobór żelaza prowadzi do zaniku chlorofilu, a w konsekwencji rozwoju chlorozy objawiającej się żółknięciem i martwicą liści. SKŁAD: Zawiera skoncentrowaną dawkę łatwo przyswajalnego chelatu żelaza Fe2+ dla roślin akwariowych. DAWKOWANIE: Zalecany poziom żelaza w akwarium to 0,4-1 mg na litr wody. Przy odpowiednim poziomie żelaza: 1 ml na 100L wody raz w tygodniu. W celu uzupełnienia niedoborów można dozować większe ilości, regularnie badając zawartość żelaza w wodzie. 1ml w 10L wody podniesie poziom Fe o 0,4 mg/l. WSPÓŁPRACA: Zaleca się równoległe stosowanie z produktami AF Micro i AF Macro. UWAGI: Absorbenty takie jak zeolit i/lub węgiel mogą zmniejszać skuteczność preparatu. Optymalne stężenie żelaza w wodzie akwariowej powinno wynosić 0,1-1 mg/l. ROZMIARY: 125ml, 250ml, 500ml, 2000ml. PRZECHOWYWANIE: Chronić przed światłem słonecznym, przechowywać w temperaturze pokojowej w szczelnie zamkniętym opakowaniu, poza zasięgiem dzieci.",
+    "domain": "freshwater",
+    "category": "supplements",
+    "intent": ["plant_care", "nutrition", "growth", "troubleshooting"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/produkty/freshwater/suplementy-i-nawozy/af-iron-boost/",
+    "tags": ["żelazo", "Fe", "chelat", "Fe2+", "chlorofil", "fotosynteza", "chloroza", "żółknięcie", "liście", "makro", "mikro", "0.4mg/l", "1mg/l", "1ml", "100L", "tygodniowo", "zeolit", "węgiel", "125ml", "250ml", "500ml", "2000ml"],
+    "related_items": ["af-micro", "af-macro", "af-test-fe", "af-carbon", "plant-fertilizers"],
+    "updated_at": "2025-05-29"
+}
+

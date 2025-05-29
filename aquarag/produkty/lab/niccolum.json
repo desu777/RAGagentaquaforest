@@ -1,0 +1,16 @@
+{
+    "id": "lab-niccolum-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Niccolum – suplement niklu dla metabolizmu azotu i żelaza",
+    "query_text": "Niccolum suplement mikroelement nikiel podnoszący poziom niezbędny mikroorganizmy metabolizm azotu żelaza osłabiony metabolizm niedobór życie mikroorganizmów 1ml 0.001mg/l 100L 0.001-0.01 mg/l ppm potrzebny życie",
+    "full_content": "Niccolum to suplement podnoszący poziom niklu – pierwiastka niezbędnego dla wszystkich mikroorganizmów. Wspomaga metabolizm azotu i żelaza. Suplement zawiera skoncentrowany nikiel. Nikiel jest potrzebny do życia większości mikroorganizmów, a jego niedobór skutkuje osłabionym metabolizmem azotu i żelaza. DOZOWANIE: 1 ml produktu podnosi poziom niklu o 0.001 mg/l (ppm) w 100 litrach wody. Zalecany poziom niklu w wodzie akwariowej to 0.001 – 0.01 mg/l (ppm). Maksymalna bezpieczna dawka dzienna wynosi 2 ml na 100 litrów wody. Jeżeli wymagana jest większa dawka, rozbij ją na kilka dni. Dawkowanie powinno być ustalone na podstawie konsumpcji mikroelementów w akwarium. Każde akwarium jest inne, a dawkowanie jest zależne od obsady koralowców i indywidualnego zapotrzebowania. Zarówno niedobór, jak i nadmiar mikroelementów wpływa niekorzystnie na kondycję mieszkańców akwarium, dlatego dozowanie preparatu należy dobrać i modyfikować na podstawie regularnych testów wody Aquaforest Lab. Rozmiar: 200 ml.",
+    "domain": "lab",
+    "category": "trace_elements",
+    "intent": ["microorganism_support", "nitrogen_metabolism", "iron_metabolism", "trace_supplementation", "bacterial_health"],
+    "difficulty": "advanced",
+    "url": "https://aquaforest.eu/pl/produkty/lab/mikroelementy/niccolum/",
+    "tags": ["Niccolum", "mikroelement", "nikiel", "mikroorganizmy", "metabolizm_azotu", "metabolizm_żelaza", "osłabiony_metabolizm", "niezbędny_życie", "1ml_0.001mg/l", "0.001-0.01_mg/l", "2ml_maksymalnie", "200ml"],
+    "related_items": ["molybdenum", "manganum", "ferrum", "chromium", "components-pro", "af-bio-sand"],
+    "updated_at": "2025-05-29"
+}

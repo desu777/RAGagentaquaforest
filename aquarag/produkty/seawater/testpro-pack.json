@@ -1,0 +1,16 @@
+{
+    "id": "testpro-pack-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "TestPro Pack – zestaw testów Ca, KH i Mg",
+    "query_text": "TestPro Pack zestaw testy Ca KH Mg wapń alkalinity magnez 400-450 mg/l 6.5-8.0 dKH 1260-1460 mg/l 55-65 testów 78-100 testów 55-60 testów monitorowanie parametry woda kropelkowe",
+    "full_content": "TestPro Pack to wielopak testów kropelkowych do określania poziomów najważniejszych parametrów, takich jak Ca, KH i Mg. SKŁAD ZESTAWU: Zestaw testów kropelkowych do określania poziomów najważniejszych parametrów takich jak Ca, KH oraz Mg. Aquaforest TestPro Calcium przeznaczony jest do szybkiego pomiaru stężenia wapnia w akwarium morskim. Wapń odgrywa istotną rolę w procesach biologicznych zapewniając zrównoważony wzrost i rozwój organizmów. W akwarium morskim bardzo ważne jest stałe monitorowanie stężenia wapnia, magnezu i twardości węglanowej (inaczej zasadowości). Stężenie wapnia w naturalnej wodzie morskiej może wynosić 400-450 mg/l (ppm). Test wystarczy na wykonanie 55-65 oznaczeń stężenia wapnia w akwarium. Aquaforest TestPro Alkalinity przeznaczony jest do szybkiego pomiaru twardości węglanowej, inaczej zasadowości w akwarium morskim. W akwarium morskim bardzo ważne jest stałe monitorowanie stężenia wapnia, magnezu i twardości węglanowej (inaczej zasadowości). Zalecany poziom KH w akwarium morskim to 6.5 – 8.0 dKH. Test wystarczy na wykonanie 78-100 oznaczeń twardości węglanowej w akwarium. Aquaforest TestPro Magnesium przeznaczony jest do szybkiego pomiaru stężenia magnezu w akwarium morskim. Magnez odgrywa istotną rolę w procesach biologicznych, biorąc udział w budowie szkieletu korali twardych oraz chemicznych zapewniając pojemność buforową i zapobiegając nadmiernemu wytrącaniu się wapnia oraz wodorowęglanów w wodzie. W akwarium morskim bardzo ważne jest stałe monitorowanie stężenia wapnia, magnezu i twardości węglanowej. Stężenie magnezu w naturalnej wodzie morskiej może wynosić 1260-1460 mg/l (ppm). Test wystarczy na wykonanie 55-60 oznaczeń stężenia magnezu w akwarium, w zakresie zaznaczonym w tabeli. BEZPIECZEŃSTWO: Trzymać z dala od dzieci. Produkt wyłącznie do użytku w akwariach. Nie nadaje się do spożycia przez ludzi. Przechowywać w chłodnym, suchym miejscu z dala od bezpośredniego światła. ROZMIAR: 1 szt.",
+    "domain": "seawater",
+    "category": "tests",
+    "intent": ["water_parameters", "monitoring", "maintenance", "coral_care"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/testy-wody/testpro-pack/",
+    "tags": ["zestaw", "Ca", "KH", "Mg", "400-450_mg/L", "6.5-8.0_dKH", "1260-1460_mg/L", "55-65_testów", "78-100_testów", "55-60_testów"],
+    "related_items": ["calcium-test-kit", "alkalinity-test-kit", "magnesium-test-kit", "calcium", "kh-buffer", "magnesium"],
+    "updated_at": "2025-05-29"
+}

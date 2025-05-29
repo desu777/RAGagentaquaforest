@@ -1,0 +1,16 @@
+{
+    "id": "garlic-essence-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Garlic Essence – naturalny suplement z ekstraktu czosnku dla ryb",
+    "query_text": "Garlic Essence czosnek suplement ryby witaminy omega-3 olej rybny naturalny wyciąg odporność kuracja rekonwalescencja kwarantanna regeneracja gojenie ran układ krwionośny 10ml 50ml",
+    "full_content": "Garlic Essence to pokarm uzupełniający, łączący w sobie witaminy, kwasy omega-3 oraz naturalny wyciąg z czosnku, tworząc kompleksowe wsparcie układu odpornościowego ryb akwariowych. PRZEZNACZENIE: Stanowi skuteczne narzędzie zarówno do codziennego wspomagania diety ryb, jak i w trakcie kuracji, rekonwalescencji czy okresie kwarantanny. Dzięki unikalnej formule opartej na naturalnych składnikach, Garlic Essence wspiera profilaktykę zdrowia, wspomagając ich ogólną kondycję. Jego składniki odżywcze, w tym witaminy i kwasy omega-3, pełnią istotną rolę w utrzymaniu zdrowego rozwoju ryb. Składniki tego produktu, takie jak wyciąg z czosnku, oleje roślinne i tran, podkreślają jego naturalne podejście do wspierania zdrowia ryb akwariowych. Garlic Essence to kompleksowy suplement, który nie tylko zaspokaja codzienne potrzeby ryb, ale także może pełnić kluczową rolę w dbaniu o ich zdrowie. Oferuje kompleksowe wsparcie, zgodne z naturalnymi potrzebami ryb akwariowych. CECHY: Środek zawierający witaminy, kwasy omega-3 oraz naturalny wyciąg z czosnku, wzbogaca codzienną dietę ryb, skuteczny w okresie kwarantanny, składniki to wyciąg z czosnku, oleje roślinne i tran, pozytywnie wpływa na układ krwionośny, poprawia tempo regeneracji i gojenia się ran. ROZMIARY: 10ml, 50ml.",
+    "domain": "universal",
+    "category": "supplements",
+    "intent": ["fish_care", "health", "immunity", "quarantine"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/pokarmy-i-suplementacja/garlic-essence/",
+    "tags": ["czosnek", "naturalny", "omega-3", "witaminy", "odporność", "kwarantanna", "regeneracja", "gojenie", "10ml", "50ml"],
+    "related_items": ["fish-v", "af-vitality", "af-recover"],
+    "updated_at": "2025-05-29"
+}

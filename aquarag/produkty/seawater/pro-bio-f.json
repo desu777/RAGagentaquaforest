@@ -1,0 +1,16 @@
+{
+    "id": "pro-bio-f-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Pro Bio F – bakterie probiotyczne z pożywką do mniejszych zbiorników",
+    "query_text": "Pro Bio F bakterie probiotyczne liofilizowane pożywka namnażanie mniejsze zbiorniki VSV węgiel rozkład masa organiczna klarowność podłoże azotany fosforany nutrienty 1 łyżeczka 100L dziennie 25g",
+    "full_content": "Pro Bio F to unikalna kompozycja liofilizowanych bakterii probiotycznych i pożywki ułatwiającej ich namnażanie. PRZEZNACZENIE: Preparat zawiera unikalną kompozycję liofilizowanych bakterii probiotycznych oraz pożywkę ułatwiającą ich namnażanie. Pro Bio F poleca się szczególnie do mniejszych zbiorników, w których nie ma możliwości zainstalowania filtrów z polimerami, bądź jest to znacznie utrudnione. Może zastąpić podawanie VSV lub innych źródeł węgla. Unikalna kompozycja specjalnie dobranych szczepów bakterii probiotycznych została opracowana w celu przyspieszenia rozkładu masy organicznej. Poprawia klarowność wody i sprzyja oczyszczaniu podłoża. Stosowanie Pro Bio F pośrednio wpływa na redukcję poziomów azotanów i fosforanów w wodzie akwariowej. Utrzymywanie nutrientów na odpowiednio niskim poziomie zapewnia koralowcom zrównoważone warunki życia oraz doskonałe wybarwienie. DAWKOWANIE: 1 łyżeczka na 100 l wody dziennie. BEZPIECZEŃSTWO: Produkt przeznaczony wyłącznie do akwarystyki. Przechowywać w chłodnym miejscu z dala od światła. Chronić przed dziećmi. ROZMIAR: 25g.",
+    "domain": "seawater",
+    "category": "bacteria",
+    "intent": ["water_parameters", "maintenance", "filtration", "nutrient_control"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/metoda-probiotyczna/pro-bio-f/",
+    "tags": ["bakterie_probiotyczne", "liofilizowane", "pożywka", "mniejsze_zbiorniki", "VSV", "węgiel", "rozkład", "klarowność", "azotany", "fosforany", "1_łyżeczka", "100L", "25g"],
+    "related_items": ["pro-bio-s", "bio-s", "-np-pro", "probiotic-reef-salt"],
+    "updated_at": "2025-05-29"
+}

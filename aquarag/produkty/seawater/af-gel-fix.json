@@ -1,0 +1,16 @@
+{
+    "id": "af-gel-fix-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Gel Fix – klej żelowy do mocowania koralowców",
+    "query_text": "AF Gel Fix klej żelowy koralowce szczepki mocowanie precyzyjne gęsty konsystencja szybkowiążący 10 sekund nietoksyczny bezpieczny zwierzęta morskie podstawki skały małe elementy ekspresowe trwałe klejenie aquascaping",
+    "full_content": "AF Gel Fix to szybkowiążący żel zaprojektowany do ekspresowego oraz trwałego klejenia koralowców, w szczególności ich szczepek. WŁAŚCIWOŚCI: Bardzo gęsty klej żelowy do precyzyjnego mocowania koralowców, dedykowany do precyzyjnego klejenia niewielkich elementów, gęsta konsystencja zapewnia łatwe przyklejanie szczepek do podstawek lub skał, wiąże w 10 sekund. BEZPIECZEŃSTWO: Nietoksyczny i bezpieczny dla zwierząt morskich, całkowicie bezpieczny dla akwarium rafowego. ZASTOSOWANIE: Mocowanie szczepek koralowców, klejenie małych elementów w aquascaping, precyzyjne prace przy aranżacji. SPECYFIKACJA: Opakowanie 2×20g, szybkie wiązanie w 10 sekund, gęsta konsystencja. INSTRUKCJA UŻYCIA: Wstrząsnąć przed użyciem, nanieść niewielką ilość AF Gel Fix na powierzchnię do której chcemy przykleić szczepkę, natychmiast przykleić ją w wyznaczone miejsce.",
+    "domain": "seawater",
+    "category": "aquascaping",
+    "intent": ["coral_mounting", "aquascaping", "repair", "frag_placement"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/aquascaping/af-gel-fix/",
+    "tags": ["klej", "żel", "10_sekund", "koralowce", "szczepki", "nietoksyczny", "precyzyjny", "gęsty", "2x20g"],
+    "related_items": ["af-frag-rocks", "af-mini-rocks", "af-plug-rocks"],
+    "updated_at": "2025-05-28"
+  }

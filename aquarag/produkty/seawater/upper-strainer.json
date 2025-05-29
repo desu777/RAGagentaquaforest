@@ -1,0 +1,16 @@
+{
+    "id": "upper-strainer-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Upper Strainer – wymienne sitko do reaktorów mediów",
+    "query_text": "Upper Strainer sitko filtr górny reaktory media Aquaforest wymienne części zamienne akcesorium AF110 AF130 AF90",
+    "full_content": "Upper Strainer to wymienne sitko do reaktorów mediów Aquaforest. PRZEZNACZENIE: Górny filtr dedykowany najwyższej jakości reaktorom mediów Aquaforest. ZASTOSOWANIE: Część zamienna do reaktorów mediów Aquaforest, zapobiega przedostawaniu się medium filtracyjnego do wody, zapewnia prawidłową cyrkulację wody w reaktorze, górne sitko filtracyjne. KOMPATYBILNOŚĆ: Dedykowany do reaktorów mediów Aquaforest. ROZMIAR: 1 sztuka w opakowaniu.",
+    "domain": "universal",
+    "category": "accessories",
+    "intent": ["maintenance", "replacement", "filtration"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/wyposazenie-akwarium/upper-strainer/",
+    "tags": ["sitko", "strainer", "górny", "wymienne", "reaktor", "media", "części_zamienne", "akcesorium"],
+    "related_items": ["bottom-strainer", "af90-media-reactor", "af110-media-reactor", "af130-media-reactor"],
+    "updated_at": "2025-05-29"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "af-liquid-vege-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Liquid Vege – płynny pokarm roślinny dla ryb i koralowców",
+    "query_text": "AF Liquid Vege płynny pokarm roślinny ryby roślinożerne koralowce mrożonki naturalne składniki algi nori szpinak składniki mineralne wapń magnez fosfor żelazo potas jod dieta uzupełnienie przeciwutleniacz 250ml małe porcje dziennie lodówka",
+    "full_content": "AF Liquid Vege to płynny pokarm dla ryb roślinożernych i koralowców, doskonała alternatywa dla mrożonek. WŁAŚCIWOŚCI: Roślinny pokarm stworzony z naturalnych składników najwyższej jakości, bogata formuła i zawartość alg nori, doskonale uzupełnia dietę w składniki mineralne takie jak wapń, magnez, fosfor, żelazo, potas i jod. SKŁAD: Szpinak, algi morskie, woda, sól, przeciwutleniacz. SPECYFIKACJA: Pojemność 250ml. DAWKOWANIE: Karmić małymi porcjami raz dziennie, wstrząsnąć przed użyciem. PRZECHOWYWANIE: Po otwarciu przechowywać w lodówce. KORZYŚCI: Naturalne składniki najwyższej jakości, bogate źródło składników mineralnych, idealne dla ryb roślinożernych.",
+    "domain": "universal",
+    "category": "feeds",
+    "intent": ["feeding", "nutrition", "fish_care", "coral_care", "plant_diet"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/pokarmy-i-suplementacja/af-liquid-vege/",
+    "tags": ["pokarm", "płynny", "roślinny", "nori", "algi", "szpinak", "minerały", "250ml", "mrożonki", "wapń", "magnez"],
+    "related_items": ["af-algae-feed", "af-liquid-artemia", "af-color-up"],
+    "updated_at": "2025-05-28"
+  }

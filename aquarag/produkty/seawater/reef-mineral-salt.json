@@ -1,0 +1,16 @@
+{
+    "id": "reef-mineral-salt-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Reef Mineral Salt – sole mineralne bez chlorku sodu dla równowagi jonowej",
+    "query_text": "Reef Mineral Salt sole mineralne równowaga jonowa chlorek sodu NaCl Balling magnez wapń potas brom fluor bar jod mikroelementy 25g 1000ml RODI Calcium KH Buffer Magnesium reguła Dittmara 800g 5000g",
+    "full_content": "Reef Mineral Salt to sole mineralne zapewniające optymalne warunki i równowagę jonową. Sól wolna od chlorku sodu (NaCl). PRZEZNACZENIE: Środek do utrzymania stałego poziomu minerałów w akwariach rafowych. Stosowanie Reef Mineral Salt jest jednym z najważniejszych elementów w trakcie suplementacji chlorku wapnia i wodorowęglanu sodu, (np. podczas stosowania Metody Ballinga). Brak suplementacji Reef Mineral Salt prowadzi do niebezpiecznych niedoborów minerałów. Długotrwałe braki mikro i makroelementów skutkują drastycznym spowolnieniem wzrostu i niewłaściwym wybarwieniem koralowców. SKŁAD: Sól bez soli, czyli sól morska pozbawiona chlorku sodu (NaCl). W skład soli bez soli wchodzą wszystkie podstawowe składniki soli morskiej takie jak: Magnez, Wapń, Potas, Brom, Fluor, Bar, Jod oraz pozostałe mikroelementy. DZIAŁANIE: Zadaniem podawania roztworu soli bez soli jest utrzymanie równych stosunków wszystkich soli zawartych w wodzie morskiej zgodnie z regułą Dittmara mówiącej o tym, że główne składniki wody morskiej mają zawsze ten sam, stały stosunek bez względu na szerokość geograficzną. Podczas stosowania chlorku wapnia i wodorowęglanu sodu powstaje jako produkt uboczny chlorek sodu (NaCl), co zaburza naturalne proporcje składników wody morskiej. DAWKOWANIE: Rozpuścić 25 g w 1000 ml wody RODI. W celu utrzymania równowagi jonowej i odpowiednich parametrów wody należy stosować także: Calcium, KH Buffer oraz Magnesium. Reef Mineral Salt można przygotować jako jeden roztwór razem z Calcium lub Magnesium. Roztwór Reef Mineral Salt należy dawkować w takich samych ilościach jak roztwory Calcium oraz KH Buffer, których to dawki należy ustalić na podstawie testów wody i dziennej konsumpcji koralowców. Należy pamiętać o tym, że stosowanie Reef Mineral Salt nie zastępuje koniecznych przy prowadzeniu akwarium morskiego podmian wody. ROZMIARY: 800g, 5000g.",
+    "domain": "seawater",
+    "category": "water_parameters",
+    "intent": ["water_parameters", "dosing", "system_balance", "coral_care"],
+    "difficulty": "expert",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/parametry-wody/reef-mineral-salt/",
+    "tags": ["Reef_Mineral_Salt", "sól_bez_soli", "Balling", "równowaga_jonowa", "25g", "1000ml", "RODI", "reguła_Dittmara", "NaCl", "800g", "5000g"],
+    "related_items": ["calcium", "kh-buffer", "magnesium", "component-123", "components-strong"],
+    "updated_at": "2025-05-29"
+}

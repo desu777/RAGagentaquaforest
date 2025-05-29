@@ -1,0 +1,16 @@
+{
+    "id": "af-silicone-lubricant-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Silicone Lubricant – silikonowy smar hydrauliczny",
+    "query_text": "AF Silicone Lubricant smar silikonowy hydrauliczny uszczelki filtry kubełkowe pompy obiegowe reaktory serwisowanie konserwacja żywotność parcenie bezpieczny ryby koralowce parametry wody 10ml osprzęt akwarystyczny",
+    "full_content": "AF Silicone Lubricant to wydajny smar silikonowy najwyższej jakości przeznaczony do zastosowania w akwarystyce. PRZEZNACZENIE: Filtry kubełkowe, pompy obiegowe, reaktory i inne sprzęty akwarystyczne wymagają okresowego serwisowania, zabezpiecza uszczelki przed parceniem, wydłuża ich żywotność i dodatkowo uszczelnia miejsce łączenia podzespołów. KORZYŚCI: Chroni uszczelki przed uszkodzeniem które może skutkować kosztowną naprawą lub wymianą sprzętu, umożliwia bezproblemową pracę urządzenia przez długi czas, w 100% bezpieczny dla ryb, koralowców i wszelkich innych organizmów wodnych, nie zmienia parametrów wody i nie wydziela szkodliwych związków. SPECYFIKACJA: Opakowanie 10ml, produkt stworzony specjalnie do zastosowania w akwarystyce, w wygodnym opakowaniu. UŻYCIE: Prosty w użyciu przy okresowym serwisowaniu osprzętu akwarystycznego, wystarczy posmarować uszczelki by wydłużyć ich żywotność i zabezpieczyć przed nadmierną eksploatacją, ciągły kontakt z wodą i nieprzerwana praca wpływają na stan uszczelnień. ZASTOSOWANIE: Do smarowania uszczelnień w filtrach, pompach, reaktorach i innym sprzęcie akwarystycznym podczas serwisowania.",
+    "domain": "universal",
+    "category": "accessories",
+    "intent": ["maintenance", "equipment_care", "repair"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/wyposazenie-akwarium/af-silicone-lubricant/",
+    "tags": ["smar", "silikonowy", "uszczelki", "filtry", "pompy", "reaktory", "serwisowanie", "konserwacja", "10ml", "bezpieczny"],
+    "related_items": ["af-media-bag", "af-media-sock"],
+    "updated_at": "2025-05-28"
+}

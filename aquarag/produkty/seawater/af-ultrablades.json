@@ -1,0 +1,16 @@
+{
+    "id": "af-ultrablades-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Ultrablades – wymienne ostrza do magnetycznych czyszczaków",
+    "query_text": "AF Ultrablades ostrza wymienne magnetyczne czyszczące Ultrascrape L XL stal nierdzewna ostre wymiana części zamienne skuteczność wytrzymałość długowieczność woda słodka słona szkło zarysowania szyna mocowanie",
+    "full_content": "AF Ultrablades to wymienne ostrza do AF Ultrascrape L/AF Ultrascrape XL będące doskonałym wyborem dla osób chcących przywrócić swojemu czyścikowi pierwotną skuteczność. WŁAŚCIWOŚCI: Wykonane ze stali nierdzewnej wpływającej na długotrwałą i bezpieczną dla podwodnego życia pracę, materiały dobrane tak by zapewnić maksymalną odporność na działanie zarówno wody słodkiej jak i słonej, pozostawione w wodzie nie rdzewieją oraz nie tępią się, utrzymują swoją efektywność przez bardzo długi czas. SPECYFIKACJA: Opakowanie 1 sztuka, ostrza zamienne do AF Ultrascrape L/AF Ultrascrape XL, najwyższa jakość wykonania, duża powierzchnia czynna, wysoka skuteczność. WYMIANA: Bardzo prosta wymiana nie wymagająca większej ingerencji w budowę czyścika, ostrza mocowane w specjalnie przygotowanej szynie, z której w prosty sposób wysuniemy stare ostrze i zastąpimy nowym, zaleca się regularną wymianę gdy zauważymy zmniejszoną skuteczność czyścika. BEZPIECZEŃSTWO: Bezpieczne dla ryb i koralowców, bezpieczne dla szkła - nie powodują jego zarysowań, odporne na działanie wody słodkiej i słonej. KORZYŚCI: Przywracają pierwotną skuteczność czyścika, choć ostrza Aquaforest cechuje duża wytrzymałość i długowieczność, po dłuższym czasie mogą stracić efektywność.",
+    "domain": "universal",
+    "category": "accessories",
+    "intent": ["maintenance", "replacement", "cleaning"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/wyposazenie-akwarium/af-ultrablades/",
+    "tags": ["ostrza", "wymienne", "Ultrascrape", "L", "XL", "stal_nierdzewna", "czyszczak", "magnetyczny", "części_zamienne", "szkło"],
+    "related_items": ["af-ultrascrape-l", "af-ultrascrape-xl"],
+    "updated_at": "2025-05-28"
+}

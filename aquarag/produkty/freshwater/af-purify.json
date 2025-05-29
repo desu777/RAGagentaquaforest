@@ -1,0 +1,16 @@
+{
+    "id": "af-purify-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Purify – preparat leczniczy przeciw infekcjom bakteryjnym i grzybiczym",
+    "query_text": "AF Purify układ odpornościowy infekcje bakteryjne grzybicze pasożyty jednokomórkowe ospa rybia pleśniawka rekonwalescencja karmienie ryb kwarantanna terapeutyczny 1ml 10L 27-30°C napowietrzanie chlor tlen filtr węglowy wybarwiające dekoracje żwir 50ml",
+    "full_content": "AF Purify to profesjonalny preparat do akwariów słodkowodnych wzmacniający układ odpornościowy podczas infekcji bakteryjnych i grzybiczych, ale także pasożytów jednokomórkowych. PRZEZNACZENIE: AF Purify jest dedykowany szczególnie dla akwariów, które zmagają się z problemem ospy rybiej. AF Purify może być stosowany również podczas rekonwalescencji pleśniawki. Zawiera specjalistyczne związki wspomagające karmienie ryb. SPOSÓB UŻYCIA: Zalecana kąpiel w zbiorniku kwarantannowym lub innym akwarium terapeutycznym (7-14 dni) – 1ml na 10L wody. Po trzech dniach należy wymienić 20% wody i uzupełnić formułę – 0,5ml na 10L wody. Cały cykl należy powtórzyć jeszcze 2 razy. WARUNKI: Zalecana temperatura kąpieli to 27-30°C. Podczas stosowania produktu ważne jest napowietrzanie wody. Nie mieszać z chlorem lub tlenem. ZAKOŃCZENIE KURACJI: Pod koniec kuracji należy wymienić 50% wody i umieścić filtr węglowy AF na koszu. UWAGI: Kąpiel należy przeprowadzać w zbiorniku kwarantannowym również ze względu na silne właściwości wybarwiające. Produkt może zabarwić dekoracje, żwir i inne elementy wyposażenia akwarium. ROZMIAR: 50ml.",
+    "domain": "freshwater",
+    "category": "treatments",
+    "intent": ["fish_care", "treatment", "troubleshooting"],
+    "difficulty": "expert",
+    "url": "https://aquaforest.eu/pl/produkty/freshwater/utrzymanie-parametrow-wody/af-purify/",
+    "tags": ["leczenie", "ospa_rybia", "pleśniawka", "infekcje_bakteryjne", "grzybicze", "pasożyty", "kwarantanna", "terapeutyczny", "1ml", "10L", "27-30°C", "napowietrzanie", "filtr_węglowy", "wybarwiające", "50ml"],
+    "related_items": ["af-carbon", "quarantine-tanks", "af-life-essence", "fish-medications"],
+    "updated_at": "2025-05-29"
+}

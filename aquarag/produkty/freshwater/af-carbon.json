@@ -1,0 +1,16 @@
+{
+    "id": "af-carbon-freshwater-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Carbon – węgiel aktywowany parą wodną dla akwariów słodkowodnych",
+    "query_text": "AF Carbon węgiel aktywowany parowo granulat wysokiej jakości fosforany substancje chemiczne klarowność wody porowatość adsorpcja metale ciężkie leki 72 godziny kosz filtra dojrzewanie leczenie ryb 600L 1000ml",
+    "full_content": "AF Carbon to aktywowany parowo granulat wysokiej jakości węgla dla akwariów słodkowodnych. TECHNOLOGIA: Dzięki najnowszej technologii nie oddaje fosforanów do wody. Wiąże i usuwa niepożądane w akwariach związki chemiczne, dzięki czemu poprawia klarowność wody. WŁAŚCIWOŚCI: Wysoka porowatość i duża powierzchnia adsorpcyjna gwarantują skuteczne usuwanie zanieczyszczeń, metali ciężkich i pozostałości leków. ZASTOSOWANIE: Sprawdza się doskonale po zakończeniu leczenia ryb, w przypadku dostania się do zbiornika niepożądanych substancji i w trakcie dojrzewania akwarium. DAWKOWANIE: Umieścić w koszu filtra na 72 godziny. AF Carbon może usuwać z wody niezbędne składniki – nie zaleca się długotrwałego stosowania produktu. WYDAJNOŚĆ: 600L. ROZMIAR: 1000ml.",
+    "domain": "freshwater",
+    "category": "media",
+    "intent": ["filtration", "water_parameters", "maintenance", "treatment"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/freshwater/utrzymanie-parametrow-wody/af-carbon/",
+    "tags": ["węgiel_aktywowany", "parowo", "granulat", "fosforany", "klarowność", "metale_ciężkie", "leki", "72_godziny", "kosz_filtra", "dojrzewanie", "leczenie", "600L", "1000ml"],
+    "related_items": ["af-anti-phosphate", "af-media-reactor", "af-easy-gloss", "filter-media"],
+    "updated_at": "2025-05-29"
+}

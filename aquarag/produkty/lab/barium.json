@@ -1,0 +1,16 @@
+{
+    "id": "lab-barium-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Barium – skuteczny suplement baru dla koralowców SPS",
+    "query_text": "Barium suplement mikroelement bar koralowce SPS ślady naturalna woda morska 0.005mg 100L ICP-OES testy laboratoryjnie dawkowanie 0.001-0.04 mg/l ppm 2ml maksymalna dawka dzienna 200ml mikroelementy niedobory kondycja",
+    "full_content": "Barium to skuteczny suplement baru opracowany w celu stworzenia koralowcom warunków niemal identycznych z naturalną wodą morską. MIKROELEMENTY: Mikroelementy występujące naturalnie w wodzie morskiej to pierwiastki, które pomimo występowania w śladowych ilościach, mają ogromny wpływ na życie mieszkańców raf koralowych. Niedobory mikroelementów szybko prowadzą do widocznych negatywnych zmian w kondycji koralowców, dlatego oprócz regularnych podmian wody warto zadbać o dodatkową suplementację. DZIAŁANIE BARU: Pomimo że nie zbadano dokładnego wpływu baru na kondycję koralowców SPS, badania pokazują, że jest on szybko i regularnie konsumowany przez mieszkańców akwarium. W mocno obsadzonych akwariach, szczególnie zdominowanych przez koralowce SPS zaleca się suplementację baru w oparciu o wyniki testów wody. ZALETY: Pomaga w utrzymaniu właściwego stężenia baru, opracowany dla warunków identycznych z naturalnymi, szczególnie polecany w zbiornikach o dużej konsumpcji mikroelementów, produkt testowany laboratoryjnie, stworzony na podstawie wieloletnich doświadczeń akwarystycznych. DOZOWANIE: 1ml zwiększa poziom baru o 0,005 mg/l (ppm) w 100 litrach wody. Zalecany poziom baru w wodzie akwariowej wynosi 0,001-0,04 mg/l (ppm). Maksymalna bezpieczna dawka dzienna wynosi 2ml na 100 litrów wody. Jeśli potrzebujesz większej dawki, podziel ją na kilka dni. Zalecane dawkowanie w oparciu o wyniki testów ICP-OES. Dawkowanie powinno opierać się na zużyciu mikroelementów. Każde akwarium jest inne, a ostateczna dawka zależy od obsady koralowców i indywidualnych potrzeb. Zarówno niedobór jak i nadmiar mikroelementów będzie miał wpływ na mieszkańców, dlatego dawkowanie powinno być dobierane na podstawie regularnych testów wody Aquaforest Lab.",
+    "domain": "lab",
+    "category": "trace_elements",
+    "intent": ["sps_coral_care", "trace_supplementation", "water_chemistry", "coral_health", "laboratory_precision"],
+    "difficulty": "advanced",
+    "url": "https://aquaforest.eu/pl/produkty/lab/mikroelementy/barium/",
+    "tags": ["Barium", "mikroelement", "bar", "SPS", "koralowce", "ślady", "naturalna_woda", "ICP-OES", "testy_laboratoryjne", "0.005mg_100L", "0.001-0.04_mg/l", "2ml_maksymalnie", "200ml", "konsumpcja", "suplementacja", "66_15_zł", "dawkowanie_precyzyjne"],
+    "related_items": ["borium", "iodum", "molybdenum", "ca-plus", "component-123", "af-vitality", "reef-salt"],
+    "updated_at": "2025-05-29"
+}

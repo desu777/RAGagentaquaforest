@@ -1,0 +1,16 @@
+{
+    "id": "af-clear-boost-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Clear Boost – środek klarujący wodę w akwarium",
+    "query_text": "AF Clear Boost klarowanie woda zmętnienie zanieczyszczenia krystalicznie czysta aquascaping białe zabarwienie filtry mechaniczne bezpieczny ryby rośliny 1ml 10L kilka godzin 125ml 250ml 500ml błyskawicznie",
+    "full_content": "AF Clear Boost to specjalistyczna mieszanka przeznaczona do oczyszczania wody w akwariach słodkowodnych. DZIAŁANIE: Usuwa zanieczyszczenia powodujące zmętnienie wody. Szybko i skutecznie usuwa niepożądane zmętnienia i sprawia, że woda staje się krystalicznie czysta. Preparat jest całkowicie bezpieczny dla mieszkańców akwarium i nie szkodzi rybom, roślinom ani innym zwierzętom wodnym. PROCES: Po dozowaniu może wystąpić krótkotrwałe białe zabarwienie wody, co oznacza, że cząsteczki brudu gromadzą się w większe. W ten sposób zgromadzone zanieczyszczenia będą szybciej usuwane z wody. AQUASCAPING: Doskonały wybór dla osób zainteresowanych aquascapingiem. Dzięki swoim właściwościom, przyspiesza proces klarowania wody. Pozwala to znacznie szybciej cieszyć się efektami swojej pracy. Efekty działania tego produktu można zaobserwować już po kilku godzinach. WŁAŚCIWOŚCI: Usuwa zmętnienie wody, wspomaga proces filtracji, całkowicie bezpieczny dla wszystkich mieszkańców akwarium, brak negatywnego wpływu na parametry akwarium, bardzo szybki czas działania. DAWKOWANIE: 1 ml na 10 litrów wody w akwarium. Po usunięciu zmętnienia zalecamy wyczyszczenie wkładów filtra mechanicznego. ROZMIARY: 125ml, 250ml, 500ml. PRZECHOWYWANIE: W suchym i chłodnym miejscu, niedostępnym dla dzieci.",
+    "domain": "freshwater",
+    "category": "parameters",
+    "intent": ["maintenance", "setup", "troubleshooting", "aquascaping"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/freshwater/utrzymanie-parametrow-wody/af-clear-boost/",
+    "tags": ["klarowanie", "zmętnienie", "krystalicznie_czysta", "aquascaping", "białe_zabarwienie", "filtry_mechaniczne", "bezpieczny", "1ml", "10L", "kilka_godzin", "125ml", "250ml", "500ml"],
+    "related_items": ["af-easy-gloss", "mechanical-filters", "aquascaping-tools", "filter-media"],
+    "updated_at": "2025-05-29"
+}

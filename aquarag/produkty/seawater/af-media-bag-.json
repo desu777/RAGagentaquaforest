@@ -1,0 +1,16 @@
+{
+    "id": "af-media-bag-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Media Bag – mały worek na media filtracyjne",
+    "query_text": "AF Media Bag worek media filtracyjne siatka siatkowy przepływ woda złoże filtracja wymiary 9.5cm 4.8cm wytrzymały optymalny filtr akcesorium",
+    "full_content": "AF Media Bag to mały worek na media filtracyjne wykonany z wytrzymałej siatki zapewniającej optymalny przepływ wody przez media filtracyjne. WŁAŚCIWOŚCI: Wytrzymała siatka na media filtracyjne gwarantująca odpowiedni przepływ wody przez złoże, optymalny przepływ wody przez media filtracyjne, łatwy w użyciu i czyszczeniu. SPECYFIKACJA: Wymiary 9,5 cm x 4,8 cm, opakowanie 1 sztuka. ZASTOSOWANIE: Umieszczanie różnych mediów filtracyjnych w filtrze, organizacja przestrzeni filtracyjnej, łatwa wymiana mediów filtracyjnych, zapobieganie rozpraszaniu się drobnych mediów w akwarium.",
+    "domain": "seawater",
+    "category": "accessories",
+    "intent": ["maintenance", "setup", "filtration"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/wyposazenie-akwarium/af-media-bag/",
+    "tags": ["worek", "media", "filtracyjne", "siatka", "przepływ", "9_5cm", "4_8cm", "filtracja", "akcesorium"],
+    "related_items": ["af-carbon", "af-zeolite", "af-phosphate-minus"],
+    "updated_at": "2025-05-28"
+}

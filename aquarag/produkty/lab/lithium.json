@@ -1,0 +1,16 @@
+{
+    "id": "lab-lithium-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Lithium – suplement litu do precyzyjnej regulacji parametrów wody",
+    "query_text": "Lithium suplement mikroelement lit precyzyjna regulacja parametrów woda akwarium naturalnie występuje woda morska konsumpcja zużywany regularnie organizmy morskie warunki naturalne 1ml 0.01mg/l 100L 0.15-0.20 mg/l",
+    "full_content": "Lithium to suplement litu do precyzyjnej regulacji parametrów wody w akwarium. Suplement zawiera skoncentrowany lit. Pomimo że wpływ litu na funkcjonowanie organizmów morskich pozostaje nieznany, to jego pokłady są regularnie zużywane w akwarium. Pierwiastek ten naturalnie występuje w wodzie morskiej, dlatego w celu zapewnienia mieszkańcom akwarium warunków jak najbardziej zbliżonych do naturalnych, należy go regularnie dozować do akwarium. DOZOWANIE: 1 ml produktu podnosi poziom litu o 0.01 mg/l w 100 litrach wody. Zalecany poziom litu w wodzie akwariowej to 0.15 – 0.20 mg/l. Maksymalna bezpieczna dawka dzienna wynosi 4 ml na 100 litrów wody. Jeżeli wymagana jest większa dawka, rozbij ją na kilka dni. Dawkowanie powinno być ustalone na podstawie konsumpcji litu w akwarium. Każde akwarium jest inne, a dawkowanie jest zależne od obsady koralowców i indywidualnego zapotrzebowania. Zarówno niedobór, jak i nadmiar mikroelementów wpływa niekorzystnie na kondycję mieszkańców akwarium, dlatego dozowanie preparatu należy dobrać i modyfikować na podstawie regularnych testów wody Aquaforest Lab. Rozmiar: 200 ml.",
+    "domain": "lab",
+    "category": "trace_elements",
+    "intent": ["trace_supplementation", "water_chemistry", "natural_conditions", "laboratory_precision"],
+    "difficulty": "professional",
+    "url": "https://aquaforest.eu/pl/produkty/lab/mikroelementy/lithium/",
+    "tags": ["Lithium", "mikroelement", "lit", "precyzyjna_regulacja", "naturalnie_występuje", "konsumpcja_zużycie", "warunki_naturalne", "1ml_0.01mg/l", "0.15-0.20_mg/l", "4ml_maksymalnie", "200ml", "wpływ_nieznany", "organizmy_morskie"],
+    "related_items": ["chromium", "cobaltum", "barium", "components-pro", "icp-test-1", "component-123"],
+    "updated_at": "2025-05-29"
+}

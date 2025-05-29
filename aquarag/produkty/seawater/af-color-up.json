@@ -1,0 +1,16 @@
+{
+    "id": "af-color-up-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Color Up – pokarm wzmacniający kolory ryb",
+    "query_text": "AF Color Up pokarm ryby kolory wybarwienie karotenoidy granulat 3mm naturalne składniki białko kwasy tłuszczowe witaminy wzrost odporność błonnik trawienie układ pokarmowy ekstrakt papryki 100g opakowanie kilka razy dziennie małe porcje",
+    "full_content": "AF Color Up to pokarm w formie granulatu wzmacniający kolory ryb akwariowych. Stworzony z naturalnych składników, zawiera karotenoidy stymulujące intensywność barw. DZIAŁANIE: Stymuluje i utrzymuje intensywność kolorów ryb, wpływa na wzrost i odporność, wzmacnia pracę układu pokarmowego, reguluje procesy trawienne dzięki zawartości błonnika, nie rozpada się w wodzie. SKŁAD: Naturalne składniki - ryby i produkty rybne, mięczaki i skorupiaki, produkty pochodzenia roślinnego, ekstrakt z papryki 4200 mg/kg jako źródło karotenoidów, zboża, roślinne ekstrakty białkowe, glony, drożdże. WARTOŚCI ODŻYWCZE: Białko surowe 46%, tłuszcz surowy 6%, włókno surowe 2,5%, wilgotność 8%, popiół surowy 8,5%, fosfor 0,8%, witamina A 21000 IU/kg, witamina D3 1250 IU/kg, witamina E 80 mg/kg, witamina C 3000 mg/kg, żelazo 21 mg/kg, cynk 6 mg/kg. SPECYFIKACJA: Wielkość granulatu 3mm, opakowanie 100g, suchy granulat dla ryb ozdobnych. DAWKOWANIE: Podawać kilka razy dziennie w małych porcjach, dla najlepszego odżywienia zalecane podawanie na przemian z innymi pokarmami Aquaforest. PRZECHOWYWANIE: W suchym i chłodnym miejscu z dala od dzieci, wyłącznie do akwarystyki, nie nadaje się do spożycia przez ludzi.",
+    "domain": "universal",
+    "category": "feeds",
+    "intent": ["feeding", "nutrition", "color_enhancement", "fish_care"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/pokarmy-i-suplementacja/af-color-up/",
+    "tags": ["pokarm", "ryby", "kolory", "wybarwienie", "karotenoidy", "granulat", "3mm", "100g", "białko", "papryka", "naturalne"],
+    "related_items": ["af-algae-feed", "af-calanidae-clip", "af-vitality"],
+    "updated_at": "2025-05-28"
+  }

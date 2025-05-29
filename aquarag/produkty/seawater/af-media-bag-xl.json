@@ -1,0 +1,16 @@
+{
+    "id": "af-media-bag-xl-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Media Bag XL – duży worek na media filtracyjne",
+    "query_text": "AF Media Bag XL duży worek media filtracyjne siatka siatkowy przepływ woda złoże filtracja wymiary 30.5cm 10cm wytrzymały optymalny filtr akcesorium",
+    "full_content": "AF Media Bag XL to duży worek na media filtracyjne wykonany z wytrzymałej siatki zapewniającej optymalny przepływ wody przez media filtracyjne. WŁAŚCIWOŚCI: Wytrzymała siatka na media filtracyjne gwarantująca odpowiedni przepływ wody przez złoże, optymalny przepływ wody przez media filtracyjne, łatwy w użyciu i czyszczeniu, większa pojemność niż standardowy worek. SPECYFIKACJA: Wymiary 30,5 cm x 10 cm, opakowanie 1 sztuka. ZASTOSOWANIE: Umieszczanie większych ilości mediów filtracyjnych w filtrze, organizacja przestrzeni filtracyjnej w dużych systemach, łatwa wymiana mediów filtracyjnych, zapobieganie rozpraszaniu się drobnych mediów w akwarium.",
+    "domain": "seawater",
+    "category": "accessories",
+    "intent": ["maintenance", "setup", "filtration"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/wyposazenie-akwarium/af-media-bag-xl/",
+    "tags": ["worek", "XL", "duży", "media", "filtracyjne", "siatka", "przepływ", "30_5cm", "10cm", "filtracja", "akcesorium"],
+    "related_items": ["af-media-bag", "af-carbon", "af-zeolite"],
+    "updated_at": "2025-05-28"
+}

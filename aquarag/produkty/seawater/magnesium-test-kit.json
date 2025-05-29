@@ -1,0 +1,17 @@
+{
+    "id": "magnesium-test-kit-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Magnesium Test Kit – szybki test do pomiaru stężenia magnezu",
+    "query_text": "Magnesium Test Kit magnez test szybki pomiar akwarium morskie 1260-1460 mg/l ppm 55-60 testów reagent A B C D fiolka strzykawka monitorowanie parametry wody szkielet korali buforowa pojemność",
+    "full_content": "Magnesium Test Kit to szybki test do pomiaru stężenia magnezu. Odczynniki do wykonania ok. 55-60 oddzielnych testów. OPIS: Aquaforest TestPro Magnesium przeznaczony jest do szybkiego pomiaru stężenia magnezu w akwarium morskim. Magnez odgrywa istotną rolę w procesach biologicznych, biorąc udział w budowie szkieletu korali twardych oraz chemicznych zapewniając pojemność buforową i zapobiegając nadmiernemu wytrącaniu się wapnia oraz wodorowęglanów w wodzie. W akwarium morskim bardzo ważne jest stałe monitorowanie stężenia wapnia, magnezu i twardości węglanowej. Stężenie magnezu w naturalnej wodzie morskiej może wynosić 1260-1460 mg/l (ppm). Test wystarczy na wykonanie 55-60 oznaczeń stężenia magnezu w akwarium, w zakresie zaznaczonym w tabeli. SKŁAD ZESTAWU: Butelka z reagentem A – Mg 2 x 10 ml, butelka z reagentem B – Mg 10 ml, pojemnik z reagentem C – Mg, butelka z reagentem D – Mg 50 ml, fiolka, strzykawka 3 ml, strzykawka 1 ml, końcówka do strzykawki, łyżeczka do dozowania, certyfikat jakości, instrukcja obsługi. ZASTOSOWANIE: Szybki i dokładny pomiar poziomu magnezu w akwarium morskim, monitorowanie parametrów wody niezbędnych dla zdrowia koralowców, kontrola procesów buforowych. ZALECANE WARTOŚCI: Mg 1260-1460 mg/l (ppm) w naturalnej wodzie morskiej. ROZMIAR: 1 sztuka zestawu.",
+    "domain": "seawater",
+    "category": "tests",
+    "intent": ["water_parameters", "monitoring", "maintenance", "coral_care"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/testy-wody/magnesium-test-kit/",
+    "tags": ["test", "magnez", "Mg", "1260-1460_mg/L", "55-60_testów", "reagent", "fiolka", "strzykawka", "monitorowanie"],
+    "related_items": ["magnesium", "mg-plus", "af-test-ca", "alkalinity-test-kit", "component-123"],
+    "updated_at": "2025-05-29"
+    
+}

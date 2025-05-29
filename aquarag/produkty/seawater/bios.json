@@ -1,34 +1,16 @@
 {
-    "id": "af-pl-bios-001",
-  
-    "text": "Bio S – wyselekcjonowane bakterie nitryfikacyjne; skraca dojrzewanie akwarium i usuwa amoniak / NO2. Dawkowanie: 1 kropla / 100 l przez 14 dni.",
-  
-    "description": "Bio S to specjalistyczna formuła zawierająca szczepy Nitrospirae i Nitrobacteraceae, które przyspieszają cykl azotowy. Eliminuje amoniak i azotyny, zasiedla media filtracyjne, poprawia klarowność wody oraz wspomaga oczyszczanie podłoża. Zalecany w pierwszych dniach po starcie zbiornika oraz po podmianach wody. Przed użyciem wstrząsnąć. Nie dokręcać nakrętki zbyt mocno, aby nie uszkodzić opakowania.",
-  
-    "slug": "bio-s",
-    "title": "Bio S – bakterie nitryfikacyjne",
-    "url": "https://aquaforest.eu/pl/produkty/seawater/metoda-probiotyczna/bio-s/",
-  
+    "id": "bio-s-001",
+    "content_type": "product",
     "lang": "pl",
-    "type": "product",
-    "domain": "Seawater",
-    "category": "Bakterie",
-    "product_type": "Bacteria culture",
-  
-    "sizes": [
-      { "volume_ml": 10,  "price_pln": 31.50 },
-      { "volume_ml": 50,  "price_pln": 87.15 }
-    ],
-  
-    "dosing": {
-      "startup": "1 kropla / 100 l codziennie przez 14 dni",
-      "maintenance": "po podmianach wody lub wg potrzeb"
-    },
-  
-    "storage": "Wstrząsnąć przed użyciem; przechowywać w temperaturze pokojowej",
-    "compatibility": ["Pro Bio S", "metoda probiotyczna"],
-  
-    "tags": ["amoniak", "NO2", "nitryfikacja", "bakterie", "supplement"],
-    "updated_at": "2025-05-27",
-    "version": 1
-}
+    "title": "Bio S – bakterie nitryfikacyjne przyspieszające dojrzewanie",
+    "query_text": "Bio S bakterie nitryfikacyjne dojrzewanie akwarium amoniak azotyny Nitrospirae Nitrobacteraceae cykl azotowy nitryfikacja media filtracyjne klarowność wody osady 1 kropla 100L codziennie 2 tygodnie 10ml 50ml",
+    "full_content": "Bio S to bakterie nitryfikacyjne przyspieszające dojrzewanie. Zawiera specjalnie wyselekcjonowane szczepy bakterii. OPIS: Specjalistyczna formuła opracowana w celu szybkiej i skutecznej eliminacji związków amoniaku i azotu z akwarium. Bio S zawiera specjalnie dobrane szczepy bakterii tworzących środowisko idealne do namnażania odpowiedzialnych za cykl azotowy bakterii z rodziny Nitrospirae oraz Nitrobacteraceae. NITRYFIKACJA: W procesie nitryfikacji bakterie usuwają z wody toksyczne dla ryb substancje takie jak amoniak i azotyny. Bio S jest zalecany szczególnie w pierwszych dniach po założeniu akwarium w celu rozpoczęcia i przyspieszenia procesu nitryfikacji. Bio S doskonale sprawdza się jako środek do zasiedlania mediów filtracyjnych w nowo założonych akwariach. W dojrzałych akwariach przyspiesza rozkład resztek pokarmu, a także innych związków organicznych oraz osadów. Poprawia klarowność wody i sprzyja oczyszczaniu podłoża. Bio S można z powodzeniem stosować również w zbiornikach, w których system filtracji oparty jest na bakteriach probiotycznych. DAWKOWANIE: 1 kropla na 100 l wody codziennie przez pierwsze 2 tygodnie. W funkcjonującym akwarium Bio S można stosować po podmianach wody. Wstrząsnąć przed użyciem. Nakrętek nie należy dokręcać zbyt mocno, może to skutkować pęknięciem lub uszkodzeniem opakowania. ROZMIARY: 10ml, 50ml.",
+    "domain": "seawater",
+    "category": "bacteria",
+    "intent": ["startup", "maintenance", "water_parameters", "filtration"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/metoda-probiotyczna/bio-s/",
+    "tags": ["bakterie", "nitryfikacyjne", "cykl_azotowy", "amoniak", "azotyny", "1_kropla", "100L", "2_tygodnie", "10ml", "50ml", "dojrzewanie"],
+    "related_items": ["pro-bio-s", "af-bio-sand", "af-nitraphos-minus", "-np-pro"],
+    "updated_at": "2025-05-29"
+  }

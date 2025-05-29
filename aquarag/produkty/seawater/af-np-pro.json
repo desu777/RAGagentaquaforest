@@ -1,0 +1,17 @@
+{
+    "id": "af-np-pro-001", 
+    "content_type": "product",
+    "lang": "pl",
+    "title": "-NP Pro – pożywka dla bakterii probiotycznych",
+    "query_text": "-NP Pro azotany fosforany NO3 PO4 bakterie probiotyczne Pro Bio S dawkowanie koralowce akwarium rafowe redukcja obniżenie pożywka węgiel polimery glony sinice wybarwienie",
+    "full_content": "-NP Pro to pożywka dla bakterii probiotycznych do akwariów rafowych. Zawiera biodegradowalne płynne polimery - doskonałe źródło węgla dla bakterii probiotycznych. Pozytywnie wpływa na rozkład masy organicznej i redukuje niepożądane NO3 i PO4. Nie wymaga specjalistycznych filtrów przepływowych. KORZYŚCI: Przyspiesza rozwój bakterii probiotycznych, usuwa szkodliwe azotany i fosforany z wody, zapobiega utracie koloru koralowców (brązowienie przy wysokich NO3), redukuje rozwój glonów i sinic, w połączeniu z Pro Bio S przekształca NO3/PO4 w pokarm dla koralowców. DAWKOWANIE: Standardowe 1 kropla na 100L dziennie, pompy dozujące 5ml/100L dziennie, zalecane z Pro Bio S dla najlepszej skuteczności. PRZECHOWYWANIE: W lodówce jeśli temperatura >24°C, nie dokręcać śruby zbyt mocno. DOSTĘPNE POJEMNOŚCI: 10ml, 50ml, 2000ml.",
+    "domain": "seawater",
+    "category": "probiotics", 
+    "intent": ["water_parameters", "maintenance", "coral_care"],
+    "difficulty": "intermediate",
+    "url":"https://aquaforest.eu/pl/produkty/seawater/metoda-probiotyczna/np-pro/",
+    "tags": ["NO3", "PO4", "azotany", "fosforany", "probiotyki", "bakterie", "koralowce", "Pro_Bio_S", "glony"],
+    "related_items": ["pro-bio-s", "af-test-no3", "af-test-po4"],
+    "updated_at": "2025-05-28"
+  }
+  

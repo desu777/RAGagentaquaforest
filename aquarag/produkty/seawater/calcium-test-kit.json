@@ -1,0 +1,16 @@
+{
+    "id": "calcium-test-kit-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Calcium Test Kit – test poziomu wapnia w akwarium morskim",
+    "query_text": "Calcium Test Kit wapń calcium test szybki pomiar akwarium morskie 400-450 mg/l ppm 55-65 testów reagent A-Ca B-Ca C-Ca fiolka strzykawka monitorowanie parametry wody proces biologiczny wzrost rozwój",
+    "full_content": "Calcium Test Kit to test pozwalający na szybkie zmierzenie poziomu wapnia. Pozwala na wykonanie 55-65 testów poziomu wapnia. OPIS: Aquaforest TestPro Calcium przeznaczony jest do szybkiego pomiaru stężenia wapnia w akwarium morskim. Wapń odgrywa istotną rolę w procesach biologicznych zapewniając zrównoważony wzrost i rozwój organizmów. W akwarium morskim bardzo ważne jest stałe monitorowanie stężenia wapnia, magnezu i twardości węglanowej (inaczej zasadowości). Stężenie wapnia w naturalnej wodzie morskiej może wynosić 400-450 mg/l (ppm). Test wystarczy na wykonanie 55-65 oznaczeń stężenia wapnia w akwarium, w zakresie zaznaczonym w tabeli. SKŁAD ZESTAWU: Pojemnik z reagentem A–Ca, butelka z reagentem B–Ca 30 ml, butelka z reagentem C–Ca 50 ml, fiolka, strzykawka 3 ml, strzykawka 1 ml, strzykawka 1 ml z niebieskim paskiem, końcówka do strzykawki, łyżeczka do dozowania, certyfikat jakości, instrukcja obsługi. ZASTOSOWANIE: Szybki i dokładny pomiar poziomu wapnia w akwarium morskim, monitorowanie parametrów wody niezbędnych dla zdrowia koralowców, kontrola procesu kalcyfikacji. ZALECANE WARTOŚCI: Ca 400-450 mg/l (ppm) w naturalnej wodzie morskiej. ROZMIAR: 1 sztuka zestawu.",
+    "domain": "seawater",
+    "category": "tests",
+    "intent": ["water_parameters", "monitoring", "maintenance", "coral_care"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/testy-wody/calcium-test-kit/",
+    "tags": ["test", "wapń", "calcium", "Ca", "400-450_mg/L", "55-65_testów", "reagent", "fiolka", "strzykawka", "monitorowanie"],
+    "related_items": ["calcium", "ca-plus", "af-test-mg", "alkalinity-test-kit", "kh-buffer"],
+    "updated_at": "2025-05-29"
+}

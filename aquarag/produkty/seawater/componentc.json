@@ -1,0 +1,17 @@
+{
+    "id": "component-c-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Component C – suplement jodu i fluoru do akwarium morskiego",
+    "query_text": "Component C jod fluor suplement mikroelementy kalcyfikacja wybarwienie koralowce SPS niebieskie fioletowe białe 5ml 100L tygodniowo 20ml KH Buffer Balling 250ml 2000ml",
+    "full_content": "Component C to preparat przeznaczony do uzupełniania niewielkich niedoborów jodu i fluoru w akwarium morskim. PRZEZNACZENIE: Component C przeznaczony jest do uzupełniania niewielkich niedoborów jodu i fluoru w akwarium morskim. W zamkniętym systemie akwariowym odpieniacz i media filtracyjne usuwają z wody pokłady tych pierwiastków, dlatego konieczna jest ich suplementacja. W akwarium morskim jod odpowiada za ogólne funkcjonowanie komórek i transfer składników odżywczych pomiędzy nimi, fluor natomiast uczestniczy w procesie kalcyfikacji oraz wspomaga budowę tkanki szkieletowej. Stosowanie Component C pozwala na utrzymanie zawartości jodu i fluoru w wodzie na poziomie identycznym jak w naturalnej wodzie morskiej. Ze względu na doskonałą równowagę pomiędzy zawartością jodu i fluoru Component C wzmacnia wybarwienie koralowców twardych. Znacząco wpływa na intensywność barw niebieskich i fioletowych, a także podkreśla białe wybarwienie u koralowców SPS. Bezpieczne stężenie preparatu minimalizuje szanse na przedawkowanie mikroelementów, dzięki czemu Component C mogą stosować również początkujący akwaryści. DAWKOWANIE: W akwariach z obsadą mieszaną 5 ml na 100 l wody raz w tygodniu. Wielkość dawki można również dostosować do konsumpcji wapnia w akwarium – 1 ml na każde 20 ppm/100 l wody. W przypadku prowadzenia akwarium metodą Ballinga – 20 ml/1 l roztworu KH Buffer. Stosując Components A, B, C należy zachować 5-minutową przerwę pomiędzy poszczególnymi dawkami. Nie mieszać i nie przechowywać komponentów w jednym pojemniku. BEZPIECZEŃSTWO: Produkt przeznaczony wyłącznie do akwarystyki. Przechowywać w chłodnym miejscu z dala od światła oraz dzieci. ROZMIARY: 250ml, 2000ml.",
+    "domain": "seawater",
+    "category": "supplements",
+    "intent": ["water_parameters", "coral_care", "color_enhancement", "calcification"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/parametry-wody/component-c/",
+    "tags": ["Component_C", "jod", "fluor", "SPS", "wybarwienie", "kalcyfikacja", "5ml", "100L", "tygodniowo", "Balling", "250ml", "2000ml"],
+    "related_items": ["component-a", "component-b", "component-123", "kh-buffer", "component-3-in-1"],
+    "updated_at": "2025-05-29"
+}
+

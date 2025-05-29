@@ -1,0 +1,16 @@
+{
+    "id": "carbon-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Carbon – aktywowany parowo granulat węgla aktywnego",
+    "query_text": "Carbon węgiel aktywny granulat aktywowany parowo zanieczyszczenia klarowność wody substancje barwiące zmętnienie leki fosforany ULNS SPS koralowce 100ml 100L filtr fluidyzacyjny siatka 500L/h 4 tygodnie 250ml 1000ml 5000ml",
+    "full_content": "Carbon to aktywowany parowo granulat węgla aktywnego, natychmiast usuwa zanieczyszczenia z wody. OPIS: Granulat wysokiej jakości węgla aktywnego. Błyskawicznie usuwa z wody zanieczyszczenia, substancje barwiące i powodujące zmętnienie wody, dzięki czemu znacznie poprawia jej klarowność. Jednocześnie usuwa pozostałości po lekach oraz związki akumulujące się w wodzie. AKTYWACJA PAROWA: W przeciwieństwie do dostępnych na rynku preparatów węgla aktywowanego kwasem fosforowym Carbon jest aktywowany parowo, dzięki czemu nie zawiera fosforanów. Produkt skutecznie usuwa wszystkie szkodliwe substancje będące skutkiem \"wojny chemicznej\" między koralowcami, dlatego doskonale sprawdzi się w akwariach z mieszaną obsadą koralowców. Idealnie nadaje się również do akwariów ULNS, bardzo mocno obsadzonych koralowcami SPS. DAWKOWANIE: 100 ml na 100 l wody w akwarium. Produkt może być stosowany zarówno w filtrze fluidyzacyjnym, jak i w siatce filtracyjnej. Przed użyciem Carbon zalecamy przepłukać go w wodzie RODI. Zalecany przepływ przez złoże to 500 l/h. Wkład należy wymieniać co 4 tygodnie. BEZPIECZEŃSTWO: Chronić przed dziećmi. Produkt do użycia tylko w akwarium. Nie nadaje się do spożycia. ROZMIARY: 250ml, 1000ml, 5000ml.",
+    "domain": "seawater",
+    "category": "media",
+    "intent": ["filtration", "water_parameters", "maintenance", "water_clarity"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/parametry-wody/carbon/",
+    "tags": ["węgiel_aktywny", "granulat", "parowo", "100ml", "100L", "4_tygodnie", "500L/h", "ULNS", "SPS", "250ml", "1000ml", "5000ml"],
+    "related_items": ["af110-media-reactor", "af130-media-reactor", "af90-media-reactor", "af-media-sock", "phosphate-minus"],
+    "updated_at": "2025-05-29"
+}

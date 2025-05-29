@@ -1,0 +1,16 @@
+{
+    "id": "alkalinity-test-kit-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Alkalinity Test Kit – test poziomu KH w akwarium morskim",
+    "query_text": "Alkalinity Test Kit KH twardość węglanowa zasadowość test szybki pomiar akwarium morskie 6.5-8.0 dKH 78-100 oznaczeń reagent A-KH B-KH fiolka strzykawka monitorowanie parametry wody",
+    "full_content": "Alkalinity Test Kit to test pozwalający na szybkie zmierzenie poziomu KH. Pozwala na wykonanie 78-100 oznaczeń twardości węglanowej. OPIS: Aquaforest TestPro Alkalinity przeznaczony jest do szybkiego pomiaru twardości węglanowej, inaczej zasadowości w akwarium morskim. W akwarium morskim bardzo ważne jest stałe monitorowanie stężenia wapnia, magnezu i twardości węglanowej (inaczej zasadowości). Zalecany poziom KH w akwarium morskim to 6.5 – 8.0 dKH. Test wystarczy na wykonanie 78-100 oznaczeń twardości węglanowej w akwarium, w zakresie zaznaczonym w tabeli. SKŁAD ZESTAWU: Butelka z reagentem A-KH 10 ml, butelka z reagentem B-KH 50 ml, fiolka, strzykawka 3 ml, strzykawka 1 ml, końcówka do strzykawki, certyfikat jakości, instrukcja obsługi. ZASTOSOWANIE: Szybki i dokładny pomiar twardości węglanowej KH w akwarium morskim, monitorowanie poziomu zasadowości, kontrola parametrów wody niezbędnych dla zdrowia koralowców. ZALECANE WARTOŚCI: KH 6.5 – 8.0 dKH dla akwariów morskich. ROZMIAR: 1 sztuka zestawu.",
+    "domain": "seawater",
+    "category": "tests",
+    "intent": ["water_parameters", "monitoring", "maintenance", "coral_care"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/testy-wody/alkanity-test-kit/",
+    "tags": ["test", "KH", "alkalinity", "twardość_węglanowa", "6_5-8_0_dKH", "78-100_oznaczeń", "reagent", "fiolka", "strzykawka", "monitorowanie"],
+    "related_items": ["af-test-ph", "af-test-ca", "af-test-mg", "af-kh-buffer"],
+    "updated_at": "2025-05-29"
+  }

@@ -1,0 +1,16 @@
+{
+    "id": "phosphate-minus-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Phosphate Minus – medium redukujące fosforany i krzemiany",
+    "query_text": "Phosphate Minus fosforany krzemiany PO4 medium filtr fluidyzacyjny adsorpcja glony cyjanobakterie 25-100ml 100L 400L/h 4 tygodnie brązowy pył RODI płukanie 250ml 1000ml 5000ml",
+    "full_content": "Phosphate Minus redukuje poziom fosforanów i krzemianów w akwariach morskich. Wiąże duże ilości PO4 bez negatywnego wpływu na mieszkańców akwarium. PRZEZNACZENIE: Wydajne medium do filtrów fluidyzacyjnych. Stosowanie zbyt dużej pokarmów i suplementów może być przyczyną zbyt wysokiego poziomu fosforanów. Dzięki unikalnej technologii Phosphate Minus skutecznie zmniejsza poziom fosforanów i krzemianów w akwariach morskich. Zdolności adsorbcyjne umożliwiają wiązanie dużych ilości fosforanów bez negatywnego wpływu na mieszkańców akwarium. Phosphate Minus jest zalecany zarówno w nowych, jak i dojrzałych akwariach. W nowo założonych zbiornikach zapobiega występowaniu wysokich poziomów fosforanów, a w dojrzałych akwariach obniża poziom PO4 i stabilizuje warunki panujące w wodzie. Dzięki zachowaniu równowagi biologicznej w zbiorniku zapobiega powstawaniu niepożądanych glonów i cyjanobakterii. DAWKOWANIE: 25-100 ml na 100 l wody. Phosphate Minus powinien być umieszczony w filtrze fluidyzacyjnym, przy przepływie wody co najmniej 400 l/h. Nadaje się również do użytku w skarpetach filtracyjnych. Phosphate Minus należy wymieniać co 4 tygodnie lub przy znacznym wzroście poziomu fosforanów w wodzie. Krótko po umieszczeniu w systemie filtracyjnym produkt może lekko zabarwić wodę. Phosphate Minus nie należy jednak płukać przed użyciem, brązowy pył jest aktywnym środkiem do usuwania fosforanów i jest niegroźny dla mieszkańców akwarium. Brązowe zabarwienie wody samoistnie ustąpi po krótkim czasie. Płukanie produktu w wodzie RODI obniży jego skuteczność. ROZMIARY: 250ml, 1000ml, 5000ml.",
+    "domain": "seawater",
+    "category": "media",
+    "intent": ["water_parameters", "filtration", "algae_control", "maintenance"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/parametry-wody/phosphate-minus/",
+    "tags": ["fosforany", "PO4", "krzemiany", "medium", "filtr_fluidyzacyjny", "25-100ml", "100L", "400L/h", "4_tygodnie", "brązowy", "nie_płukać", "250ml", "1000ml", "5000ml"],
+    "related_items": ["af110-media-reactor", "af130-media-reactor", "phosphate-test-kit", "-np-pro", "af-media-sock"],
+    "updated_at": "2025-05-29"
+}

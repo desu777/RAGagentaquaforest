@@ -1,0 +1,16 @@
+{
+    "id": "seawater-sponge-set-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Seawater Sponge Set – zestaw gąbek do reaktorów mediów",
+    "query_text": "Seawater sponge set gąbki reaktory media filtry fluidyzacyjne Aquaforest zestaw części zamienne akcesorium wymiana konserwacja",
+    "full_content": "Seawater Sponge Set to zestaw gąbek dedykowanych do filtrów fluidyzacyjnych. PRZEZNACZENIE: Zestaw gąbek dedykowanych do najwyższej jakości reaktorów mediów Aquaforest. ZASTOSOWANIE: Zapewnienie prawidłowej filtracji w reaktorach mediów, wymiana zużytych gąbek, konserwacja sprzętu akwarystycznego, utrzymanie optymalnego przepływu wody przez media filtracyjne. CECHY: Wysokiej jakości materiał, dedykowane do reaktorów Aquaforest, łatwe w wymianie, zapewniają optymalną filtrację. ROZMIAR: 1 szt.",
+    "domain": "universal",
+    "category": "accessories",
+    "intent": ["maintenance", "replacement", "filtration"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/wyposazenie-akwarium/seawater-sponge-set/",
+    "tags": ["gąbki", "zestaw", "reaktor", "media", "filtry_fluidyzacyjne", "części_zamienne", "akcesorium"],
+    "related_items": ["af90-media-reactor", "af110-media-reactor", "af130-media-reactor", "seawater-silicon-gasket"],
+    "updated_at": "2025-05-29"
+}

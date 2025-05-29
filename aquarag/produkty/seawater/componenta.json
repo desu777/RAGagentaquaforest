@@ -1,0 +1,17 @@
+{
+    "id": "component-a-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Component A – preparat do korygowania niedoborów strontu i baru",
+    "query_text": "Component A stront bar mikroelementy akwarium morskie uzupełnianie niedobory pierwiastki śladowe odpieniacz media filtracyjne 5ml 100L raz w tygodniu Balling 20ml 1L wapń koralowce szkielet 250ml 2000ml naturalna woda morska",
+    "full_content": "Component A to preparat przeznaczony do korygowania niewielkich niedoborów strontu i baru w akwariach morskich. PRZEZNACZENIE: Component A przeznaczony jest do uzupełniania niewielkich niedoborów strontu i baru w akwarium morskim. Unikalna formuła preparatu została stworzona w oparciu o proporcje strontu i baru, w jakich naturalnie występują one w wodzie morskiej. W zamkniętym systemie akwariowym odpieniacz i media filtracyjne usuwają z wody pierwiastki śladowe, dlatego konieczna jest ich suplementacja. SUPLEMENTACJA: Dzięki idealnej równowadze pierwiastków Component A pozwala na stworzenie warunków niemal identycznych z panującymi w naturalnej wodzie morskiej. Stront wspomaga budowę tkanki szkieletowej koralowców oraz poprawia przyswajanie przez nie wapnia. Wspiera również wzrost koralowców miękkich. Bezpieczne stężenie preparatu minimalizuje szanse na przedawkowanie mikroelementów, dzięki czemu Component A mogą stosować również początkujący akwaryści. DAWKOWANIE: W akwariach z obsadą mieszaną 5 ml na 100 l wody raz w tygodniu. Wielkość dawki można również dostosować do konsumpcji wapnia w akwarium – 1 ml na każde 20 ppm/100 l wody. W przypadku prowadzenia akwarium metodą Ballinga – 20 ml/1 l roztworu Calcium. Stosując Components A, B, C należy zachować 5-minutową przerwę pomiędzy poszczególnymi dawkami. Nie mieszać i nie przechowywać komponentów w jednym pojemniku. ROZMIARY: 250ml, 2000ml.",
+    "domain": "seawater",
+    "category": "water_parameters",
+    "intent": ["water_parameters", "coral_care", "maintenance", "supplementation"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/parametry-wody/component-a/",
+    "tags": ["Component_A", "stront", "bar", "mikroelementy", "5ml", "100L", "raz_w_tygodniu", "Balling", "20ml", "250ml", "2000ml", "pierwiastki_śladowe"],
+    "related_items": ["component-b", "component-c", "component-123", "calcium", "af-test-ca"],
+    "updated_at": "2025-05-29"
+  }
+  

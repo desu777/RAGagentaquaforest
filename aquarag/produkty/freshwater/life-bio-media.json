@@ -1,0 +1,16 @@
+{
+    "id": "life-bio-media-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Life Bio Media – naturalne biologiczne medium filtracyjne zasiedlone bakteriami",
+    "query_text": "Life Bio Media naturalne biologiczne medium filtracyjne bakterie nitryfikacja dojrzewanie zbiornik nowy akwarium efektywność filtracji proces nitryfikacji natychmiast szczepy bakterii kosz filtra 250ml 100L pół roku wymiana nie przesuszać nie płukać bieżąca woda woda akwariowa 1000ml",
+    "full_content": "Life Bio Media to naturalne, przeznaczone do akwariów słodkowodnych biologiczne medium filtracyjne zasiedlone bakteriami. Ze względu na zawartość specjalnie wyselekcjonowanych szczepów bakterii inicjuje i wspomaga proces nitryfikacji, przez co przyspiesza dojrzewanie zbiornika. Doskonale sprawdzi się jako biologiczne medium filtracyjne w nowo założonych akwariach, zwiększy również efektywność filtracji w funkcjonujących zbiornikach. Dzięki zastosowaniu Life Bio Media proces nitryfikacji rozpoczyna się niemal natychmiast. SPOSÓB UŻYCIA: Zawartość opakowania umieścić w koszu filtra. 250 ml produktu wystarcza na 100 l wody. Co pół roku wymieniać 1/2 wkładu. KONSERWACJA: Podczas czyszczenia i konserwacji filtra nie doprowadzać do przesuszenia, nie płukać pod bieżącą wodą, nie płukać w ciepłej wodzie. Wkład płukać w wodzie akwariowej poza zbiornikiem głównym. ROZMIAR: 1000ml.",
+    "domain": "freshwater",
+    "category": "filtration_media",
+    "intent": ["biological_filtration", "tank_cycling", "bacteria_establishment", "filter_efficiency"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/freshwater/utrzymanie-parametrow-wody/life-bio-media/",
+    "tags": ["biologiczne_medium", "bakterie", "nitryfikacja", "dojrzewanie_zbiornika", "nowy_akwarium", "efektywność_filtracji", "szczepy_bakterii", "natychmiast", "kosz_filtra", "250ml", "100L", "pół_roku", "wymiana_połowy", "nie_przesuszać", "nie_płukać_bieżącą", "woda_akwariowa", "konserwacja", "1000ml"],
+    "related_items": ["af-life-essence", "af-zeolith", "af-carbon", "filter-maintenance", "tank-cycling"],
+    "updated_at": "2025-05-29"
+}

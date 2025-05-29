@@ -1,0 +1,16 @@
+{
+    "id": "af-carbon-boost-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Carbon Boost – suplement węgla dla roślin akwariowych",
+    "query_text": "AF Carbon Boost węgiel rośliny akwariowe suplement CO2 wzrost rozwój nawóz codzienne stosowanie instalacja CO2 związki organiczne pH stabilizacja glony zwalczanie planted tank 1ml 100L 50L 25L 125ml 250ml 500ml 2000ml",
+    "full_content": "AF Carbon Boost to profesjonalny suplement łatwo przyswajalnego węgla przeznaczony dla roślin akwariowych. ZASTOSOWANIE: Nawóz idealny do codziennego stosowania. Może być stosowany zarówno jako główna metoda suplementacji węgla, jak i dodatek wspomagający istniejącą instalację CO2. DZIAŁANIE: Węgiel to podstawowy element budulcowy wszystkich związków organicznych, jest niezbędny dla intensywnego wzrostu roślin, a zbyt mała jego zawartość w wodzie prowadzi do zahamowania wzrostu i rozwoju roślin. Regularne stosowanie AF Carbon Boost dostarcza roślinom odpowiedniej ilości węgla w najbardziej przyswajalnej formie, dzięki czemu skutecznie uzupełnia jego niedobory. KORZYŚCI: Pozwala utrzymać akwarium w dobrej kondycji i zapewnić atrakcyjny, zdrowy wygląd roślin. Dzięki stabilizacji pH AF Carbon Boost jest niezwykle pomocny w zwalczaniu glonów. Szczególnie polecany do zbiorników roślinnych. DAWKOWANIE: W akwarium z małą ilością roślin: 1 ml na 100L wody codziennie; ze średnią ilością roślin: 1 ml na 50L wody codziennie; z dużą ilością roślin: 1 ml na 25L wody codziennie. ROZMIARY: 125ml, 250ml, 500ml, 2000ml. PRZECHOWYWANIE: Chronić przed światłem słonecznym, przechowywać w temperaturze pokojowej w szczelnie zamkniętym opakowaniu, poza zasięgiem dzieci.",
+    "domain": "freshwater",
+    "category": "supplements",
+    "intent": ["plant_care", "growth", "algae_control", "nutrition"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/freshwater/suplementy-i-nawozy/af-carbon-boost/",
+    "tags": ["węgiel", "rośliny", "CO2", "suplement", "nawóz", "wzrost", "pH", "glony", "planted_tank", "1ml", "100L", "50L", "25L", "125ml", "250ml", "500ml", "2000ml", "codziennie"],
+    "related_items": ["af-fertilizer", "af-test-co2", "co2-systems", "plant-fertilizers"],
+    "updated_at": "2025-05-29"
+}

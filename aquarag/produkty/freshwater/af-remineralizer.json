@@ -1,0 +1,16 @@
+{
+    "id": "af-remineralizer-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Remineralizer – płynny mineralizator do wody RO",
+    "query_text": "AF Remineralizer mineralizator woda RO dejonizowana destylowana wapń magnez twardość ogólna węglanowa KH GH stosunek 2:1 jony mineralne stres szok osmotyczny wzrost roślin 1ml 3L KH 2 GH 4 płynna formuła 125ml 250ml 500ml",
+    "full_content": "AF Remineralizer to płynny mineralizator do wody RO zapewniający idealny stosunek KH do GH. PRZEZNACZENIE: Wzbogaca wodę w minerały niezbędne dla roślin i mieszkańców akwarium. Nadaje się do mineralizacji wody RO, dejonizowanej i destylowanej. SKŁAD: Kompleksowa formuła zawiera łatwo przyswajalny wapń i magnez, zwiększa twardość ogólną i węglanową w pożądanym stosunku 2:1. Zawiera wszystkie minerały potrzebne do utrzymania ryb i roślin słodkowodnych w doskonałej kondycji. DZIAŁANIE: Utrzymuje prawidłowy stosunek wapnia i magnezu. Pomaga zapobiegać chorobom spowodowanym zbyt niską zawartością jonów mineralnych w wodzie, chroni ryby przed stresem i szokiem osmotycznym. Płynna formuła zapewnia łatwość użycia i błyskawicznie przygotowuje wodę do użycia w akwarium. WŁAŚCIWOŚCI: Natychmiast mineralizuje wodę, wspomaga wzrost roślin, ustawia idealny stosunek GH do KH. DAWKOWANIE: 1 ml na 3 litry wody podnosi KH o 2, GH o 4. Dobrze wstrząsnąć przed użyciem. Wymieszać z wodą poza akwarium. ROZMIARY: 125ml, 250ml, 500ml.",
+    "domain": "freshwater",
+    "category": "parameters",
+    "intent": ["water_parameters", "setup", "maintenance"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/freshwater/utrzymanie-parametrow-wody/af-remineralizer/",
+    "tags": ["mineralizator", "woda_RO", "dejonizowana", "destylowana", "wapń", "magnez", "KH", "GH", "twardość", "stosunek_2:1", "jony_mineralne", "stres", "szok_osmotyczny", "1ml", "3L", "płynna_formuła", "125ml", "250ml", "500ml"],
+    "related_items": ["af-test-kh", "af-test-gh", "ro-systems", "water-conditioners"],
+    "updated_at": "2025-05-29"
+}

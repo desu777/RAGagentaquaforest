@@ -1,0 +1,16 @@
+{
+    "id": "life-bio-fil-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Life Bio Fil – biologiczne medium filtracyjne z bakteriami",
+    "query_text": "Life Bio Fil medium filtracyjne bakterie nitryfikacja dojrzewanie biologiczne sump przepływ wody 1000ml 400L 6 tygodni 10-20% wymiana populacja bakterii efektywność filtracji 250ml 1200ml 5000ml",
+    "full_content": "Life Bio Fil to medium filtracyjne z zasiedloną populacją pożytecznych bakterii. Wspomaga proces dojrzewania i wzbogaca biologię. DZIAŁANIE: Life Bio Fil to naturalne biologiczne medium filtracyjne. Dzięki zawartości wyselekcjonowanych szczepów bakterii inicjuje i wspomaga proces nitryfikacji, dzięki czemu przyspiesza dojrzewanie. Wkład jest doskonałym biologicznym medium filtracyjnym do nowo założonych akwariów. Sprawdzi się również w funkcjonujących zbiornikach, zwiększając efektywność filtracji. Dzięki zawartości bakterii proces nitryfikacji rozpoczyna się niemal natychmiast – nie trzeba czekać na zasiedlenie medium. ZASTOSOWANIE: Life Bio Fil należy umieścić w sumpie w dobrym przepływie wody. 1000 ml medium należy użyć w akwarium o pojemności 400 l. Co 6 tygodni zalecamy wymienić 10-20% wkładu w celu odświeżenia populacji bakterii. BEZPIECZEŃSTWO: Chronić przed dziećmi. Produkt do użycia tylko w akwarium. Nie nadaje się do spożycia. ROZMIARY: 250ml, 1200ml, 5000ml.",
+    "domain": "seawater",
+    "category": "media",
+    "intent": ["startup", "filtration", "maintenance", "biological_stability"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/parametry-wody/life-bio-fil/",
+    "tags": ["medium_filtracyjne", "bakterie", "nitryfikacja", "dojrzewanie", "sump", "1000ml", "400L", "6_tygodni", "10-20%", "250ml", "1200ml", "5000ml"],
+    "related_items": ["bio-s", "pro-bio-s", "af-bio-sand", "af-media-sock"],
+    "updated_at": "2025-05-29"
+}

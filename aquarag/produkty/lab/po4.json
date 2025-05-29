@@ -1,0 +1,16 @@
+{
+    "id": "lab-po4-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "PO4 – środek podnoszący poziom fosforanów dla koralowców LPS",
+    "query_text": "PO4 fosforany suplement podnoszący poziom niewielka liczba ryb intensywna filtracja zerowy poziom utrudnia obniżenie NO3 stosunek azotu fosforu 16:1 koralowce LPS bielenie wybarwienie zahamowany wzrost 1ml 0.01mg/l 100L 0.03-0.05 mg/l ppm",
+    "full_content": "PO4 to środek podnoszący poziom fosforanów. Produkt przeznaczony przede wszystkim dla właścicieli akwariów z niewielką liczbą ryb lub bardzo intensywną filtracją. Zastosowanie silnych mediów filtracyjnych, środków obniżających nutrienty i odpieniaczy może powodować nagłe obniżenie poziomu fosforanów w akwarium. Zerowy poziom PO4 w akwarium morskim znacznie utrudnia obniżenie NO3, dlatego konieczne jest precyzyjna korekta poziomu wartości fosforanów. AF PO4+ to produkt przeznaczony przede wszystkim dla właścicieli akwariów z niewielką liczbą ryb lub bardzo intensywną filtracją. Mocno wyjałowiona, pozbawiona nutrientów woda powoduje problemy z wybarwieniem koralowców, ich bielenie oraz znacznie zahamowany wzrost. Szczególnie wrażliwe na niskie poziomy nutrientów są koralowce LPS. AF PO4+ umożliwia dokładne korygowanie poziomu fosforanów i szybkie przywrócenie pożądanych wartości. W akwarium morskim stosunek azotu do fosforu powinien wynosić 16:1. AF PO4+ to produkt linii Aquaforest Lab stworzonej dla akwarystów, którzy chcą mieć pełną kontrolę nad parametrami panującymi w ich zbiorniku. Przed zastosowaniem zalecamy zbadanie zarówno poziomu NO3, jak i PO4 oraz stopniowe dozowanie aż do uzyskania pożądanego poziomu fosforanów. DOZOWANIE: 1 ml AF PO4+ dodany do 100 l wody w akwarium podnosi poziom fosforanów o 0,01 mg/l (ppm). Maksymalna zalecana dawka dzienna wynosi 1 ml/100 l wody. Optymalna wartość PO4 w akwarium morskim wynosi 0.03-0.05 mg/l (ppm). Używaj tylko, gdy poziom PO4 jest zbyt niski. Rozmiar: 200 ml.",
+    "domain": "lab",
+    "category": "parameters",
+    "intent": ["nutrient_supplementation", "coral_coloration", "lps_coral_care", "water_parameters", "troubleshooting"],
+    "difficulty": "advanced",
+    "url": "https://aquaforest.eu/pl/produkty/lab/mikroelementy/po4/",
+    "tags": ["PO4", "fosforany", "1ml_0.01mg/l", "0.03-0.05_mg/l_optymalny", "1ml_maksymalnie", "stosunek_16:1", "N:P_ratio", "niewielka_liczba_ryb", "intensywna_filtracja", "koralowce_LPS", "bielenie_problem", "zahamowany_wzrost", "zerowy_PO4_problem", "200ml"],
+    "related_items": ["no3", "af-np-pro", "pro-bio-s", "test-pro", "icp-test-1"],
+    "updated_at": "2025-05-29"
+}

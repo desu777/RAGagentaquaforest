@@ -31,35 +31,14 @@ pip install langchain langchain-openai pinecone-client \
             fastapi uvicorn python-dotenv tiktoken
 echo "OPENAI_API_KEY=…"   > .env
 echo "PINECONE_API_KEY=…" >> .env
-2 │ Metadane v 1 – ręczna baza PL (1 dzień)
-Typ treści	Minimalny schemat metadata (JSON)
-Product	{ "slug","title","url","lang":"pl","type":"product","domain","category","product_type","tags":[],"updated_at","version" }
-FAQ	{ "slug","question","answer","url","lang":"pl","type":"faq","section","tags":[],"updated_at","version" }
-Blog / Guide	{ "slug","title","url","lang":"pl","type":"blog_post"∕"guide","section","author","date","tags":[],"updated_at","version" }
+ide","section","author","date","tags":[],"updated_at","version" }
 
 Zasada: embedujesz tylko text (treść + ewent. tytuł); cała reszta ląduje w metadata.
 
 Przykładowy plik
 data/pl/product/kh-buffer/af-pl-khbuffer-001.json
 
-json
-Kopiuj
-Edytuj
-{
-  "id": "af-pl-khbuffer-001",
-  "text": "KH Buffer – dawkowanie\nKH Buffer należy dozować zgodnie z aktualnym poziomem KH akwarium…",
-  "slug": "kh-buffer",
-  "title": "KH Buffer",
-  "url": "https://aquaforest.eu/pl/product/kh-buffer",
-  "lang": "pl",
-  "type": "product",
-  "domain": "Seawater",
-  "category": "Water treatment",
-  "product_type": "Supplement",
-  "tags": ["KH","buffer"],
-  "updated_at": "2025-05-27",
-  "version": 1
-}
+
 3 │ Skrypt ingest.py – embed → Pinecone (½ dnia)
 Odczytaj wszystkie data/pl/**/*.json.
 

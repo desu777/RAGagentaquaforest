@@ -1,0 +1,16 @@
+{
+    "id": "af-energy-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Energy – koncentrat pokarmowy dla koralowców SPS",
+    "query_text": "AF Energy suplement pokarm koralowce SPS LPS wybarwienie pastelowe zooplankton omega-3 omega-6 witaminy aminokwasy siarczan miedzi zooksantelle intensywne kolory naturalne ekstrakty AF Build pH stabilizacja karmienie nocne zgaszone światło odpieniacz ricordee zoanthusy grzybowieńce",
+    "full_content": "AF Energy to koncentrat wysoko odżywczego pokarmu dla wszystkich rodzajów koralowców, ze szczególnym uwzględnieniem koralowców SPS. Unikalna kompozycja najcenniejszych, naturalnych ekstraktów. SKŁAD: Zawiera nienasycone kwasy tłuszczowe Omega-3, Omega-6, witaminy i aminokwasy, naturalny wyciąg ze specjalnie wyselekcjonowanego zooplanktonu, siarczan miedzi. DZIAŁANIE: Osiąga intensywne wybarwienie koralowców poprzez ograniczenie rozwoju zooksantelli, zwiększa jasne pastelowe wybarwienie u koralowców SPS, siarczan miedzi potrzebny do prawidłowego rozwoju i intensywnego wybarwienia, całkowicie bezpieczny dla organizmów morskich. DAWKOWANIE: 1 kropla na 100L wody co drugi dzień po zgaszeniu świateł, wstrząsnąć przed użyciem, zalecane z AF Build tego samego dnia dla stabilizacji pH ze względu na kwaśny odczyn. KARMIENIE: SPS i LPS karmić nocą przy zgaszonym świetle, zoanthusy i ricordee karmić w dzień, wyłączyć odpieniacz na około godzinę podczas karmienia, dozować bezpośrednio do akwarium. POJEMNOŚCI: 10ml, 50ml. PRZECHOWYWANIE: Po otwarciu w lodówce jeśli temperatura >24°C, nakrętek nie dokręcać zbyt mocno. UWAGI: Rozpocząć od połowy dawki i obserwować reakcję koralowców, zwiększać stopniowo do dawki docelowej, naturalne zmiany zabarwienia i zagęszczenia nie wpływają na jakość.",
+    "domain": "seawater",
+    "category": "supplements",
+    "intent": ["coral_care", "nutrition", "feeding", "color_enhancement"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/pokarmy-i-suplementacja/af-energy/",
+    "tags": ["pokarm", "koralowce", "SPS", "LPS", "wybarwienie", "zooplankton", "omega-3", "siarczan_miedzi", "AF_Build", "nocne_karmienie"],
+    "related_items": ["af-build", "af-amino-mix", "af-vitality"],
+    "updated_at": "2025-05-28"
+  }

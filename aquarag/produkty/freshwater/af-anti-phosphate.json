@@ -1,0 +1,16 @@
+{
+    "id": "af-anti-phosphate-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Anti Phosphate – adsorbent fosforanów dla akwariów słodkowodnych",
+    "query_text": "AF Anti Phosphate fosforany adsorbent słodkowodne cyjanobakterie krasnorosty azotany stosunek NO3 PO4 witaminy mikroelementy Malawi Tanganika przerybie mało roślin 50ml 100L kosz filtra 1000ml eliminacja",
+    "full_content": "AF Anti Phosphate to skuteczny środek eliminujący fosforany z akwarium słodkowodnego bez wpływu na witaminy i makroelementy. PROBLEM: Brak równowagi pomiędzy poziomem azotanów i fosforanów w wodzie akwariowej prowadzi do rozwoju cyjanobakterii i powstawania uciążliwych krasnorostów. DZIAŁANIE: Dzięki unikalnemu składowi AF Anti Phosphate adsorbuje rozpuszczone w wodzie fosforany bez jednoczesnego pochłaniania witamin i ważnych mikroelementów. Utrzymanie równowagi pomiędzy zawartością fosforanów i azotanów w wodzie zapewnia krystalicznie czystą wodę i optymalne warunki do wzrostu i rozwoju roślin. ZASTOSOWANIE: Szczególnie polecany w zbiornikach z małą ilością roślin, przerybionych oraz zbiornikach biotopu Malawi i Tanganika. DAWKOWANIE: Umieścić w koszu filtra dozując 50 ml preparatu na 100 l wody słodkiej. ROZMIAR: 1000ml.",
+    "domain": "freshwater",
+    "category": "media",
+    "intent": ["water_parameters", "algae_control", "filtration", "maintenance"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/freshwater/utrzymanie-parametrow-wody/af-anti-phosphate/",
+    "tags": ["fosforany", "PO4", "cyjanobakterie", "krasnorosty", "azotany", "NO3", "Malawi", "Tanganika", "50ml", "100L", "witaminy", "mikroelementy", "kosz_filtra", "1000ml"],
+    "related_items": ["af-test-po4", "af-test-no3", "af-media-reactor", "af-carbon"],
+    "updated_at": "2025-05-29"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "af-media-sock-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Media Sock – skarpeta na media filtracyjne",
+    "query_text": "AF Media Sock skarpeta media filtracyjne przepływ woda filtracja Carbon Phosphate Minus Zeo Mix Life Bio Fil długość 30.5cm średnica zewnętrzna 10.5cm wewnętrzna 9.3cm 500 mikronów μm",
+    "full_content": "AF Media Sock to skarpeta na media filtracyjne zapewniająca doskonały przepływ wody i pełne wykorzystanie powierzchni filtracyjnej. WŁAŚCIWOŚCI: Doskonały przepływ wody przez media filtracyjne, pełne wykorzystanie wydajności filtracji, optymalne wykorzystanie powierzchni filtracyjnej, łatwy montaż i obsługa. SPECYFIKACJA: Długość 30,5 cm, średnica zewnętrzna 10,5 cm, średnica wewnętrzna 9,3 cm, rozmiar oczek 500 μm. ZASTOSOWANIE: Idealna do stosowania z Carbon, Phosphate Minus, Zeo Mix, Life Bio Fil, montaż różnych mediów filtracyjnych, organizacja przestrzeni filtracyjnej, zapewnienie optymalnego przepływu przez media. KORZYŚCI: Lepsze wykorzystanie mediów filtracyjnych niż tradycyjne worki, równomierny rozkład przepływu wody, łatwa wymiana mediów.",
+    "domain": "seawater",
+    "category": "accessories",
+    "intent": ["maintenance", "setup", "filtration"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/wyposazenie-akwarium/af-media-sock/",
+    "tags": ["skarpeta", "media", "filtracyjne", "500μm", "30_5cm", "10_5cm", "9_3cm", "Carbon", "Phosphate_Minus", "filtracja"],
+    "related_items": ["af-media-bag", "af-media-bag-xl", "af-carbon", "af-phosphate-minus", "af-zeo-mix", "af-life-bio-fil"],
+    "updated_at": "2025-05-28"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "af-filter-floss-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Filter Floss – wata filtracyjna do mechanicznej filtracji",
+    "query_text": "AF Filter Floss wata filtracyjna mechaniczna filtracja detrytus resztki jedzenia odchody włóknina gęsta zwarta zanieczyszczenia czysta woda estetyka sump uniwersalna 20x100cm cięcie dopasowanie azotany amoniak fosforany kontrola parametrów wymiana bezpieczna koralowce ryby",
+    "full_content": "AF Filter Floss to wkład filtracyjny do mechanicznej filtracji, który efektywnie usuwa widoczne zanieczyszczenia wody. DZIAŁANIE: Gęsta i zwarta włóknina wyłapuje wszelkie nieczystości takie jak detrytus, niezjedzone resztki pokarmu i odchody, zapobiega występowaniu uciążliwego pyłu w toni wodnej, kontroluje poziom azotanów, amoniaku i fosforanów przez usuwanie zalegających resztek. SPECYFIKACJA: Wymiary 20 x 100 cm, można dowolnie ciąć i dopasować do systemu filtracji, uniwersalne zastosowanie do każdego rodzaju sumpa, bardzo wydajny i prosty w użyciu. BEZPIECZEŃSTWO: Materiały w 100% bezpieczne dla ryb i koralowców, nie zawiera chemikaliów, nie zmienia parametrów wody. UŻYTKOWANIE: Regularna wymiana wkładu gdy zauważymy zabrudzenia i zmianę koloru włókniny, łatwe dopasowanie do każdego systemu filtracji. KORZYŚCI: Krystalicznie czysta woda, lepsza estetyka zbiornika, większa kontrola nad parametrami wody, uniwersalność zastosowania.",
+    "domain": "universal",
+    "category": "media",
+    "intent": ["mechanical_filtration", "maintenance", "water_clarity", "equipment_care"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/wyposazenie-akwarium/af-filter-floss/",
+    "tags": ["wata_filtracyjna", "filtracja_mechaniczna", "detrytus", "włóknina", "sump", "20x100cm", "uniwersalna", "wymiana", "czysta_woda"],
+    "related_items": ["af-carbon", "af-phosphate-minus", "mechanical-filter-media"],
+    "updated_at": "2025-05-28"
+  }

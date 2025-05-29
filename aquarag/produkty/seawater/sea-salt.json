@@ -1,0 +1,16 @@
+{
+    "id": "sea-salt-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Sea Salt – podstawowa sól morska dla akwariów z rybami",
+    "query_text": "Sea Salt podstawowa sól morska ryby fish-only koralowce miękkie bezkręgowce 345g 10L 30ppt 1.022 SG 24°C 15 minut mniej wymagające ICP-OES 7.5kg 22kg 25kg",
+    "full_content": "Sea Salt to podstawowa sól morska, idealna do akwariów z rybami oraz mniej delikatnymi koralowcami i bezkręgowcami. PRZEZNACZENIE: Aquaforest Sea Salt to produkt najwyższej jakości, stworzony z myślą o zapewnieniu optymalnych warunków życia dla ryb, koralowców i innych bezkręgowców w Twoim akwarium. Formuła soli została opracowana na bazie wieloletnich badań i doświadczeń, a także analiz naturalnej wody morskiej, tak aby jak najbardziej przypominała naturalne środowisko życia podwodnej flory. Aquaforest Sea Salt jest bezpieczna dla ryb i mniej wymagających koralowców, takich jak np. koralowce miękkie. Jest łatwa w rozpuszczaniu i przygotowaniu. Idealnie sprawdza się w tzw. akwariach fish-only, czyli akwariach, w których hodowane są wyłącznie ryby. SPOSÓB UŻYCIA: Zacznij od wody RODI, która powinna mieć temperaturę około 24°C. Dla zasolenia 30 ppt (1,022 S.G.), dodaj około 345 g soli do 10 l wody. Energicznie mieszaj przez około 15 minut, aż sól całkowicie się rozpuści i woda stanie się klarowna. Przed użyciem sprawdź uzyskane zasolenie z pomocą refraktometru. Gotowa słona woda jest gotowa do użycia. Pamiętaj o przechowywaniu soli w suchym i ciemnym miejscu. Po rozpuszczeniu sól należy zużyć w ciągu 3 dni. Parowanie może zmienić parametry wody, dlatego przechowuj świeżo zmieszaną słoną wodę w szczelnie zamkniętym pojemniku, jeśli nie używasz jej od razu. JAKOŚĆ: Produkcja soli odbywa się w UE pod ścisłym nadzorem laboratoryjnym w celu spełnienia najwyższych standardów jakości. Do wytworzenia soli stosowane są najwyższej jakości składniki, wolne od jakichkolwiek zanieczyszczeń, co gwarantuje bezpieczeństwo Twoich zwierząt. Każda partia soli jest poddawana rygorystycznej analizie na dwóch spektrometrach ICP-OES – jeden do badania makroelementów, drugi do badania mikroelementów. Oferując przez to niespotykaną dotąd spójność składu, jakość i bezpieczeństwo. Wyniki analizy są dostępne online dla każdego klienta. Sól jest idealna do akwariów z rybami, prostymi koralowcami i bezkręgowcami, zapewniając im optymalne warunki do życia i rozwoju. ROZMIARY: 7.5kg, 22kg, 25kg.",
+    "domain": "seawater", 
+    "category": "salts",
+    "intent": ["water_preparation", "fish_care", "startup", "basic_setup"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/sole-morskie/sea-salt/",
+    "tags": ["podstawowa", "fish-only", "ryby", "koralowce_miękkie", "345g", "10L", "30ppt", "1.022_SG", "24°C", "15_minut", "3_dni", "7.5kg", "22kg", "25kg"],
+    "related_items": ["reef-salt", "refractometer", "af-test-salinity", "hybrid-pro-salt"],
+    "updated_at": "2025-05-29"
+}

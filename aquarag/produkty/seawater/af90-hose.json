@@ -1,0 +1,17 @@
+{
+    "id": "af90-hose-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF90 Hose – elastyczny wąż silikonowy do reaktora AF 90",
+    "query_text": "AF90 Hose wąż silikonowy elastyczny reaktor AF 90 Media Reactor 1 metr 12mm średnica wewnętrzna 3mm grubość części zamienne akcesorium wytrzymały",
+    "full_content": "AF90 Hose to elastyczny wąż silikonowy dedykowany do filtra AF 90 Media Reactor. PRZEZNACZENIE: Elastyczny wąż silikonowy, dedykowany do filtra AF 90 Media Reactor. SPECYFIKACJA: Długość 1 metr, średnica wewnętrzna 12 mm, grubość 3 mm. WŁAŚCIWOŚCI: Łatwy w użyciu, bardzo wytrzymały, wykonany z wysokiej jakości silikonu odpornego na działanie wody morskiej. ZASTOSOWANIE: Połączenie reaktora AF 90 Media Reactor z systemem filtracji, wymiana standardowego węża, zapewnienie elastycznego połączenia między urządzeniami. ROZMIAR: 1 sztuka w opakowaniu.",
+    "domain": "universal",
+    "category": "accessories",
+    "intent": ["maintenance", "replacement", "setup"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/wyposazenie-akwarium/af90-hose/",
+    "tags": ["wąż", "hose", "silikonowy", "AF90", "reaktor", "1m", "12mm", "3mm", "części_zamienne", "akcesorium"],
+    "related_items": ["af-90-media-reactor", "af110-hose", "af130-hose"],
+    "updated_at": "2025-05-29"
+  }
+  

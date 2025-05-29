@@ -1,0 +1,17 @@
+{
+    "id": "kalkmedia-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "KalkMedia – wkład do reaktorów wapnia z pierwiastkami śladowymi",
+    "query_text": "KalkMedia reaktor wapnia wkład granulacja 5-12mm wapń węglany pierwiastki śladowe pH 6.2-6.5 CO2 koralowce twardość zasadowość RO wypłukać 5kg",
+    "full_content": "KalkMedia to wysokiej jakości wkład do reaktorów wapnia, zaprojektowany specjalnie z myślą o akwariach morskich. PRZEZNACZENIE: Dzięki starannie dobranej granulacji 5-12 mm, KalkMedia nie tylko zapewnia efektywne dostarczanie wapnia i węglanów, ale także zapobiega zatykaniu reaktorów, co gwarantuje długotrwałą, stabilną pracę urządzeń. Produkt wspiera zdrowy wzrost koralowców i innych organizmów morskich, utrzymując optymalne poziomy wapnia, twardości wody oraz zasadowości. KalkMedia to produkt gotowy do użycia, który zawiera nie tylko wapń i węglany, ale także cenne pierwiastki śladowe, niezbędne do prawidłowego funkcjonowania akwarium. CECHY: Bogactwo pierwiastków śladowych: oprócz wapnia i węglanów, KalkMedia dostarcza również inne mikroelementy, wspierające zdrowie i rozwój koralowców. Stabilizacja parametrów wody: regularne stosowanie KalkMedia pozwala utrzymać optymalne poziomy pH i twardości wody, co przekłada się na lepsze warunki dla organizmów morskich. Granulacja 5-12 mm: zapewnia płynny przepływ wody i zapobiega zatykaniu się reaktora, nawet w przypadku intensywnej pracy systemu. SPOSÓB UŻYCIA: Przed użyciem zalecamy wypłukać wkład w wodzie RO. Wsyp wkład KalkMedia do reaktora wapnia, napełniając go zgodnie z instrukcjami producenta reaktora. Podłącz reaktor wapnia i upewnij się, że wszystkie przewody są prawidłowo podłączone oraz zabezpieczone. Monitoruj poziomy CO2, aby zapewnić prawidłowe rozpuszczanie wapnia oraz stabilne parametry chemiczne wody. Optymalne pH w reaktorze powinno wynosić między 6,2 a 6,5, co umożliwia efektywne uwalnianie wapnia i węglanów. BEZPIECZEŃSTWO: Produkt przeznaczony do akwarystyki. Trzymać poza zasięgiem dzieci. ROZMIAR: 5kg.",
+    "domain": "seawater",
+    "category": "media",
+    "intent": ["water_parameters", "coral_care", "calcium_reactor", "maintenance"],
+    "difficulty": "expert",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/parametry-wody/kalkmedia/",
+    "tags": ["reaktor_wapnia", "granulacja_5-12mm", "wapń", "węglany", "pierwiastki_śladowe", "pH_6.2-6.5", "CO2", "RO_wypłukać", "5kg"],
+    "related_items": ["calcium-reactor", "af-test-ca", "af-test-kh", "co2-regulator"],
+    "updated_at": "2025-05-29"
+}
+

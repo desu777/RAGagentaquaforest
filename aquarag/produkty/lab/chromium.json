@@ -1,0 +1,16 @@
+{
+    "id": "lab-chromium-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Chromium – precyzyjny suplement chromu dla organizmów morskich",
+    "query_text": "Chromium suplement mikroelement chrom precyzyjny naturalny związek woda morska organizmy morskie konsumpcja regularne dozowanie 1ml 0.0005mg/l 100L 0.0001-0.0004 mg/l ppm testy laboratoryjne ICP-OES",
+    "full_content": "Chromium to precyzyjny suplement chromu. Naturalny związek wody morskiej. Jest szybko zużywany przez organizmy morskie, dlatego powinien być regularnie uzupełniany. Suplement zawiera skoncentrowany chrom. Pierwiastek ten naturalnie występuje w wodzie morskiej. W zamkniętym systemie akwariowym jest jednak szybko konsumowany przez organizmy morskie, dlatego zaleca się jego regularne dozowanie. W celu utrzymania prawidłowych parametrów wody stężenie chromu powinno być systematycznie badane. DOZOWANIE: 1 ml produktu podnosi poziom chromu o 0.0005 mg/l (ppm) w 100 litrach wody. Zalecany poziom chromu w wodzie akwariowej to 0.0001 – 0.0004 mg/l (ppm). Maksymalna bezpieczna dawka dzienna wynosi 1 ml na 100 litrów wody. Jeżeli wymagana jest większa dawka, rozbij ją na kilka dni. Dawkowanie powinno być ustalone na podstawie konsumpcji chromu w akwarium. Każde akwarium jest inne, a dawkowanie jest zależne od obsady koralowców i indywidualnego zapotrzebowania. Zarówno niedobór, jak i nadmiar mikroelementów wpływa niekorzystnie na kondycję mieszkańców akwarium, dlatego dozowanie preparatu należy dobrać i modyfikować na podstawie regularnych testów wody Aquaforest Lab. Rozmiar: 200 ml.",
+    "domain": "lab",
+    "category": "trace_elements",
+    "intent": ["trace_supplementation", "water_chemistry", "coral_health", "laboratory_precision"],
+    "difficulty": "advanced",
+    "url": "https://aquaforest.eu/pl/produkty/lab/mikroelementy/chromium/",
+    "tags": ["Chromium", "mikroelement", "chrom", "precyzyjny", "1ml_0.0005mg/l", "0.0001-0.0004_mg/l", "1ml_maksymalnie", "200ml", "konsumpcja", "organizmy_morskie", "testy_laboratoryjne", "naturalna_woda"],
+    "related_items": ["barium", "borium", "bromium", "iodum", "molybdenum", "component-123"],
+    "updated_at": "2025-05-29"
+}

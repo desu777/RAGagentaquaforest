@@ -1,0 +1,16 @@
+{
+    "id": "af-perfect-water-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Perfect Water – gotowa woda morska do podmian",
+    "query_text": "AF Perfect Water gotowa woda morska cotygodniowe podmiany mikroelementy wzrost wybarwienie koralowce idealne parametry naturalne oczyszczanie zbalansowanie 10% tygodniowo 20L zalewanie nowe akwarium bez zanieczyszczeń",
+    "full_content": "AF Perfect Water to woda morska o idealnych parametrach przeznaczona do cotygodniowych podmian lub zalewania nowego akwarium. WŁAŚCIWOŚCI: Tworzy koralowcom środowisko życia niemal identyczne z naturalnym, pozbawiona wszelkich zanieczyszczeń, regularne stosowanie sprzyja naturalnemu oczyszczaniu akwarium, w szybki i łatwy sposób uzupełnia wszystkie istotne mikroelementy. KORZYŚCI: Dzięki zawartym mikroelementom zapewnia prawidłowy wzrost i wybarwienie koralowców, najprostszy i najskuteczniejszy sposób zbalansowania parametrów akwarium, oczyszcza z niepożądanych związków, tworzy idealne warunki do życia mieszkańców akwarium. SPECYFIKACJA: Opakowanie 20L, gotowa do użycia woda morska o idealnych parametrach. DAWKOWANIE: Zalecane podmiany w ilości 10% objętości akwarium tygodniowo. PRZECHOWYWANIE: Po otwarciu zużyć w ciągu 5 dni, chronić przed dziećmi, produkt wyłącznie do użytku w akwarium.",
+    "domain": "seawater",
+    "category": "water_parameters",
+    "intent": ["maintenance", "water_parameters", "coral_care", "setup"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/parametry-wody/af-perfect-water/",
+    "tags": ["woda_morska", "podmiana", "mikroelementy", "parametry", "koralowce", "10%", "20L", "gotowa", "cotygodniowe", "zalewanie"],
+    "related_items": ["hybrid-pro-salt", "af-test-kh", "af-test-ph"],
+    "updated_at": "2025-05-28"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "nitrate-test-kit-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Nitrate Test Kit – szybki test do pomiaru stężenia azotanów",
+    "query_text": "Nitrate Test Kit azotany NO3 test szybki pomiar akwarium morskie 2-5 mg/l 40 testów reagent A-NO3 B-NO3 fiolka strzykawka glony pokarm rośliny monitorowanie parametry wody",
+    "full_content": "Nitrate Test Kit to szybki test do pomiaru stężenia azotanów. Odczynniki do wykonania 40 testów stężenia azotanów. OPIS: AF Nitrate TestPro przeznaczony jest do szybkiego pomiaru stężenia jonów azotanowych w akwarium morskim. Azotany w zbiornikach wodnych powstają wskutek rozpadu roślin oraz pokarmu. Wysoki poziom tych jonów powoduje wzrost glonów. Optymalny poziom azotanów w akwarium rafowym wynosi 2-5 mg/l. Test wystarczy na wykonanie 40 oznaczeń stężenia azotanów. SKŁAD ZESTAWU: Pojemnik z reagentem A-NO3, butelka z reagentem B-NO3, 1 fiolka pomiarowa z zakrętką, strzykawka – 1 ml, strzykawka – 2 ml, łyżeczka miarowa, instrukcja obsługi, wzornik kolorów. ZASTOSOWANIE: Szybki i dokładny pomiar poziomu azotanów w akwarium morskim, monitorowanie parametrów wody, kontrola wzrostu glonów, ocena jakości wody. ZALECANE WARTOŚCI: NO3 2-5 mg/l w akwarium rafowym. BEZPIECZEŃSTWO: Przechowywać w chłodnym, suchym miejscu z dala od źródeł ciepła i światła. ROZMIAR: 1 szt.",
+    "domain": "seawater",
+    "category": "tests",
+    "intent": ["water_parameters", "monitoring", "maintenance", "algae_control"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/testy-wody/nitrate-test-kit/",
+    "tags": ["test", "azotany", "NO3", "2-5_mg/L", "40_testów", "reagent", "fiolka", "strzykawka", "glony"],
+    "related_items": ["phosphate-test-kit", "-np-pro", "pro-bio-s", "bio-s"],
+    "updated_at": "2025-05-29"
+}

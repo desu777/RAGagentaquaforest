@@ -1,0 +1,16 @@
+{
+    "id": "iron-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Iron – suplement żelaza wzmacniający zielone wybarwienie koralowców",
+    "query_text": "Iron żelazo suplement koralowce ukwiały zielone wybarwienie fotosynteza Acropora SPS 1 kropla 100L 0.006-0.012 mg/l 0.005 ppm 15 kropli 1ml 50ml",
+    "full_content": "Iron to suplement zawierający wysoko skoncentrowane żelazo. Regularna i zbilansowana suplementacja żelazem zapewnia intensywnie zielone wybarwienie koralowców. PRZEZNACZENIE: Żelazo jest ważnym mikroelementem absorbowanym przez koralowce i ukwiały. Regularne i zrównoważone stosowanie Iron pozwala uzyskać intensywne zielone wybarwienie koralowców. Żelazo pełni istotną rolę w procesie fotosyntezy, dlatego jego suplementacja usprawnia proces odżywiania się koralowców. Wspomaga zielone wybarwienie szczególnie u koralowców z rodziny Acropora, a także u innych koralowców SPS. DAWKOWANIE: 1 kropla na 100 litrów wody dziennie. Zalecany poziom żelaza w akwariach rafowych wynosi 0,006–0,012 mg/l (ppm). 1 ml Iron (~15 kropli) w 100 l wody podnosi poziom żelaza o 0,005 ppm (5 µg/l). Należy pamiętać, że każde akwarium jest inne, a dawkowanie jest zależne od obsady koralowców i indywidualnego zapotrzebowania. ROZMIAR: 50ml.",
+    "domain": "seawater",
+    "category": "supplements",
+    "intent": ["water_parameters", "coral_care", "color_enhancement", "photosynthesis"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/parametry-wody/iron/",
+    "tags": ["żelazo", "zielone", "wybarwienie", "fotosynteza", "Acropora", "SPS", "1_kropla", "100L", "0.006-0.012_mg/L", "0.005_ppm", "50ml"],
+    "related_items": ["component-b", "components-strong", "af-test-fe", "kalium"],
+    "updated_at": "2025-05-29"
+}

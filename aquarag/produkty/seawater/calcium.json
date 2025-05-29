@@ -1,0 +1,16 @@
+{
+    "id": "calcium-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Calcium – środek do utrzymywania stałego poziomu wapnia",
+    "query_text": "Calcium wapń utrzymywanie stały poziom regulacja pH akwarium rafowe koralowce algi wapienne 380-460 mg/l 50g 1000ml RODI 100ml 18mg/l CaCl2 KH Buffer Reef Mineral Salt Magnesium 850g 3500g proszek",
+    "full_content": "Calcium to środek do utrzymywania stałego poziomu wapnia i regulacji pH w akwariach rafowych. PRZEZNACZENIE: Środek do utrzymywania stałego poziomu wapnia oraz regulacji pH w akwariach rafowych. W wodzie morskiej stała wartość wapnia jest niezbędna do prawidłowego rozwoju koralowców i alg wapiennych. Zalecany poziom wapnia w akwariach rafowych wynosi 380-460 mg/l (ppm). DAWKOWANIE: Rozpuścić 50 g Calcium w 1000 ml wody RODI. Dawkowanie należy ustalić na podstawie testów wody i dziennej konsumpcji koralowców. Przed użyciem preparatu zalecane jest zmierzenie stężenia wapnia. 100 ml roztworu Calcium podnosi poziom wapnia w 100 l wody o 18 mg/l (ppm). Nadaje się do doraźnego stosowania w celu jednorazowego podniesienia poziomu wapnia. 10 g Calcium w 100 l wody podnosi poziom wapnia o ok. 36 mg/l (ppm). Nie zalecamy podnoszenia poziomu wapnia o więcej niż 20 ppm na dobę. W celu utrzymania równowagi jonowej należy stosować także KH Buffer oraz Reef Mineral Salt. Calcium i Magnesium można łączyć, sporządzając jeden roztwór. SKŁAD I BEZPIECZEŃSTWO: Zawiera CaCl2. Działa drażniąco na oczy. Chronić przed dziećmi. Produkt do użycia tylko w akwarium. Nie nadaje się do spożycia. Stosować ochronę oczu. W PRZYPADKU DOSTANIA SIĘ DO OCZU: Ostrożnie płukać wodą przez kilka minut. Wyjąć soczewki kontaktowe, jeżeli są i można je łatwo usunąć. Nadal płukać. W przypadku utrzymywania się działania drażniącego na oczy: Zasięgnąć porady/zgłosić się pod opiekę lekarza. ROZMIARY: 850g, 3500g.",
+    "domain": "seawater",
+    "category": "water_parameters",
+    "intent": ["water_parameters", "coral_care", "maintenance", "ph_regulation"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/parametry-wody/calcium/",
+    "tags": ["wapń", "calcium", "proszek", "50g", "1000ml", "RODI", "18mg/L", "380-460_ppm", "CaCl2", "850g", "3500g", "pH"],
+    "related_items": ["ca-plus", "af-test-ca", "kh-buffer", "reef-mineral-salt", "magnesium"],
+    "updated_at": "2025-05-29"
+  }

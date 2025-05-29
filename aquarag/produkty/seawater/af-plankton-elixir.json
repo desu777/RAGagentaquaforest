@@ -1,0 +1,16 @@
+{
+    "id": "af-plankton-elixir-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Plankton Elixir – pokarm z kwasami Omega-3 i astaksantyną",
+    "query_text": "AF Plankton Elixir pokarm płynny Omega-3 EPA DHA SDA astaksantyna karotenoidy wybarwienie zooplankton kwasy tłuszczowe nienasycone wzrost rozwój 250ml małe porcje raz dziennie specjalistyczna mieszanka",
+    "full_content": "AF Plankton Elixir to wysoko wydajny pokarm w płynie będący specjalistyczną mieszanką stworzoną z najwyższej jakości składników. SKŁAD: Wysoka zawartość nienasyconych kwasów tłuszczowych Omega-3, EPA, DHA i SDA, astaksantyna i inne naturalne karotenoidy, najwyższej jakości zooplankton. KORZYŚCI: Dzięki wysokiej zawartości nienasyconych kwasów tłuszczowych świetnie poprawia wybarwienie, idealna równowaga składników odżywczych pozwala na zdrowy wzrost, zapewnia optymalny rozwój mieszkańców akwarium. SPECYFIKACJA: Opakowanie 250ml, płynna konsystencja, specjalistyczna mieszanka najwyższej jakości składników. DAWKOWANIE: Zaleca się karmienie małymi porcjami raz dziennie.",
+    "domain": "seawater",
+    "category": "feeds",
+    "intent": ["feeding", "nutrition", "color_enhancement", "growth"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/pokarmy-i-suplementacja/plankton-elixir/",
+    "tags": ["pokarm", "płynny", "Omega-3", "EPA", "DHA", "SDA", "astaksantyna", "karotenoidy", "zooplankton", "wybarwienie", "250ml"],
+    "related_items": ["af-phyto-mix", "af-liquid-rotifers", "af-amino-mix", "af-vitality"],
+    "updated_at": "2025-05-28"
+}

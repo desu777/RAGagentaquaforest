@@ -1,0 +1,16 @@
+{
+    "id": "liquid-foods-pack-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Liquid Foods Pack – zestaw czterech płynnych pokarmów dla akwarium",
+    "query_text": "Liquid Foods Pack zestaw płynne pokarmy Artemia Mysis Vege Phyto Mix zooplankton fitoplankton koralowce ryby LPS czosnek beta-karoten szpinak nori gotowy użycia 4x250ml witaminy minerały",
+    "full_content": "Liquid Foods Pack to kompleksowe rozwiązanie dla potrzeb żywieniowych akwariów: zestaw czterech starannie wyselekcjonowanych płynnych pokarmów dla mieszkańców akwarium. SKŁAD ZESTAWU: Liquid Artemia – poprawia ubarwienie i rozwój zwierząt morskich. Dzięki składowi opartemu na naturalnym zooplanktonie zapewnia doskonałe wchłanianie składników odżywczych. Liquid Mysis – idealny dla ryb i cenny dodatek do diety koralowców LPS, wzbogacony ekstraktem z czosnku w celu wzmocnienia odporności wszystkich organizmów akwariowych. Liquid Vege – Zawiera szpinak i glony nori, doskonale uzupełnia dietę w beta-karoten, witaminy i minerały, takie jak wapń, magnez, fosfor, żelazo, potas i jod. AF Phyto Mix – dedykowany koralowcom miękkim i niefotosyntetyzującym. Produkt łączy w sobie zooplankton i fitoplankton, dostarczając koralowcom wszystkich niezbędnych składników odżywczych. ZALETY: Zestaw pokarmów jest gotowy do użycia zaraz po otwarciu – nie wymaga płukania ani rozmrażania. ROZMIAR: 4×250ml.",
+    "domain": "seawater",
+    "category": "feeds",
+    "intent": ["feeding", "nutrition", "coral_care", "fish_care"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/pokarmy-i-suplementacja/liquid-foods-pack/",
+    "tags": ["zestaw", "płynne_pokarmy", "Artemia", "Mysis", "Vege", "Phyto_Mix", "zooplankton", "fitoplankton", "LPS", "czosnek", "beta-karoten", "4x250ml", "gotowy"],
+    "related_items": ["af-phyto-mix", "liquid-artemia", "liquid-mysis", "af-vitality"],
+    "updated_at": "2025-05-29"
+}

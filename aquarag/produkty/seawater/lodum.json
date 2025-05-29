@@ -1,0 +1,16 @@
+{
+    "id": "iodum-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Iodum – skoncentrowany suplement jodu dla akwariów morskich",
+    "query_text": "Iodum jod suplement koralowce krewetki linienie pigmenty UV ciemnoniebieskie fioletowe komórki transfer składników 1 kropla 100L 0.01 ppm 0.06 ppm poziom naturalny 10ml 50ml",
+    "full_content": "Iodum to skoncentrowany suplement jodu wspierający koralowce, linienie krewetek i utrzymanie naturalnego poziomu jodu w wodzie morskiej. PRZEZNACZENIE: Suplement zawierający skoncentrowany jod. W akwarium morskim jod odpowiada za ogólne funkcjonowanie komórek i transfer składników odżywczych pomiędzy nimi. Jod jest stale zużywany przez mieszkańców akwarium, dlatego bez suplementacji jego poziom w wodzie szybko spada. Jod jest wykorzystywany przez koralowce do syntezy pigmentów, które pozwalają im na przystosowanie się do zmiennych warunków świetlnych i zapewniają ochronę tkanek przed promieniowaniem UV. U koralowców twardych jod zwiększa intensywność koloru ciemnoniebieskiego oraz fioletowego. Odpowiednia zawartość jodu w wodzie morskiej wspomaga linienie krewetek. Regularne stosowanie Iodum pozwala na utrzymanie zawartości jodu w wodzie na poziomie identycznym jak w naturalnej wodzie morskiej. DAWKOWANIE: 1 kropla na 100 l wody dziennie. 1 kropla jodu podnosi jego poziom o 0,01 ppm w 100 l. Zalecany poziom jodu w akwarium rafowym to około 0,06 ppm. BEZPIECZEŃSTWO: Produkt przeznaczony wyłącznie do akwarystyki. Przechowywać w chłodnym miejscu z dala od światła. Chronić przed dziećmi. ROZMIARY: 10ml, 50ml.",
+    "domain": "seawater",
+    "category": "supplements",
+    "intent": ["water_parameters", "coral_care", "color_enhancement", "invertebrate_care"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/parametry-wody/iodum-2/",
+    "tags": ["jod", "koralowce", "krewetki", "linienie", "pigmenty", "UV", "ciemnoniebieskie", "fioletowe", "1_kropla", "100L", "0.01_ppm", "0.06_ppm", "10ml", "50ml"],
+    "related_items": ["component-c", "components-strong", "fluorine", "af-test-i2"],
+    "updated_at": "2025-05-29"
+}

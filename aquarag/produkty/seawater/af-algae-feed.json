@@ -1,0 +1,16 @@
+{
+    "id": "af-algae-feed-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Algae Feed – pokarm na bazie glonów dla ryb",
+    "query_text": "AF Algae Feed pokarm karma ryby roślinożerne wszystkożerne pokolce algi spirulina fitoplankton witamina A immunitet metabolizm trawienie wybarwienie granulat 2.5mm karmnik automatyczny skóra łuski wzrok odżywienie",
+    "full_content": "AF Algae Feed to wysokiej jakości pokarm na bazie glonów dla ryb roślinożernych, wszystkożernych w tym pokolców. Mieszanka alg i spiruliny zawiera wysoki poziom witaminy A. KORZYŚCI: Pozytywny wpływ na układ immunologiczny i metabolizm, wspomaga naturalne procesy trawienia, działa ochronnie na skórę i łuski, wzmacnia wzrok, wzbogacony fitoplanktonem dla szybkiego i zdrowego wzrostu, wpływa na intensywność wybarwienia. SPECYFIKACJA: Wielkość granulatu 2.5mm, miękki granulat, bogaty w witaminy i minerały, nadaje się do karmnika automatycznego. ZASTOSOWANIE: Można dozować ręcznie lub używać z karmnikiem automatycznym, zapewnia idealne odżywienie i wybarwienie ryb roślinożernych i wszystkożernych. PRZECHOWYWANIE: W suchym i chłodnym miejscu, chronić przed dziećmi, wyłącznie do akwarystyki.",
+    "domain": "seawater",
+    "category": "feeds",
+    "intent": ["feeding", "nutrition", "fish_care"],
+    "difficulty": "beginner",
+    "url":"https://aquaforest.eu/pl/produkty/seawater/pokarmy-i-suplementacja/af-algae-feed/",
+    "tags": ["pokarm", "ryby", "algi", "spirulina", "granulat", "witamina_A", "roślinożerne", "pokolce", "karmnik", "wybarwienie"],
+    "related_items": ["af-phyto-mix", "af-vitality", "feeder-automatic"],
+    "updated_at": "2025-05-28"
+  }

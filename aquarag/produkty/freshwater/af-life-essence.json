@@ -1,0 +1,16 @@
+{
+    "id": "af-life-essence-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Life Essence – bakterie nitryfikacyjne dla akwariów słodkowodnych",
+    "query_text": "AF Life Essence bakterie nitryfikacyjne Nitrospirae Nitrobacter amoniak toksyczne związki cykl azotowy nowe akwarium dojrzewanie flora bakteryjna czyszczenie filtra leczenie ryb 10ml 100L 2 tygodnie podmiana wody 125ml 250ml 500ml 2000ml",
+    "full_content": "AF Life Essence to wysokiej jakości środek zawierający bakterie nitryfikacyjne z rodziny Nitrospirae oraz Nitrobacter. DZIAŁANIE: Specjalnie wyselekcjonowane szczepy bakterii przyspieszają usuwanie amoniaku i innych toksycznych związków organicznych. Zalecany do nowo założonych akwariów w celu rozpoczęcia cyklu azotowego i stworzenia biologicznie przyjaznego środowiska dla mieszkańców akwarium. ZASTOSOWANIE: Świetnie sprawdzi się również podczas regularnych podmian wody w celu zachowania równowagi biologicznej. Zastosowanie AF Life Essence przy starcie akwarium znacznie przyspiesza proces jego dojrzewania. AF Life Essence doskonale sprawdzi się jako uzupełnienie flory bakteryjnej po czyszczeniu filtra oraz leczeniu ryb silnymi preparatami bakteriobójczymi. DAWKOWANIE: 10 ml na 100L wody dziennie przez pierwsze 2 tygodnie. Wstrząśnij przed użyciem. Dodatkowa dawka jest zalecana po utracie ryb, przy wzroście populacji oraz podczas cotygodniowej podmiany wody. ROZMIARY: 125ml, 250ml, 500ml, 2000ml. PRZECHOWYWANIE: W chłodnym miejscu z dala od światła.",
+    "domain": "freshwater",
+    "category": "bacteria",
+    "intent": ["startup", "maintenance", "water_parameters", "troubleshooting"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/freshwater/utrzymanie-parametrow-wody/af-life-essence/",
+    "tags": ["bakterie_nitryfikacyjne", "Nitrospirae", "Nitrobacter", "amoniak", "cykl_azotowy", "nowe_akwarium", "dojrzewanie", "flora_bakteryjna", "czyszczenie_filtra", "leczenie_ryb", "10ml", "100L", "2_tygodnie", "125ml", "250ml", "500ml", "2000ml"],
+    "related_items": ["af-bio-sand", "af-test-nh3", "af-test-no2", "af-test-no3", "bio-s"],
+    "updated_at": "2025-05-29"
+}

@@ -1,0 +1,17 @@
+{
+    "id": "af-build-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Build – suplement przyspieszający kalcyfikację koralowców",
+    "query_text": "AF Build wapń węgiel kalcyfikacja koralowce twarde SPS LPS pH stabilizacja wzrost jodki węglan wapnia dawkowanie 1 kropla 100L karmienie nocne Energy odpieniacz glony sinice patogeny klarowność wody temperatura 24°C lodówka",
+    "full_content": "AF Build to suplement przyspieszający wchłanianie wapnia i węgla niezbędnych do rozwoju koralowców twardych. Stabilizuje pH i poprawia wzrost koralowców w akwarium rafowym. DZIAŁANIE: Przyspiesza absorpcję wapnia i węgla dla kalcyfikacji, podnosi i stabilizuje poziom pH w zakresie optymalnym dla koralowców, poprawia klarowność wody, zmniejsza ilość glonów niższego rzędu, hamuje rozwój patogennych sinic, zapobiega niekorzystnym wahaniom pH podczas intensywnego karmienia. SKŁAD: Zawiera jodki i węglan wapnia. DAWKOWANIE: 1 kropla na 100L wody dziennie po zgaszeniu oświetlenia, wstrząsnąć przed użyciem, można łączyć z AF Energy podczas intensywnego karmienia koralowców. KARMIENIE: SPS i LPS karmić nocą przy zgaszonym świetle, zoanthusy i ricordee karmić w dzień, wyłączyć odpieniacz na około godzinę podczas karmienia, dozować bezpośrednio do akwarium. PRZECHOWYWANIE: Po otwarciu w lodówce jeśli temperatura przekracza 24°C, nakrętek nie dokręcać zbyt mocno. POJEMNOŚCI: 10ml, 50ml. UWAGI: Rozpocząć od połowy dawki i obserwować reakcję koralowców, zwiększać stopniowo do dawki docelowej, każde akwarium jest inne i może wymagać indywidualnego dawkowania.",
+    "domain": "seawater",
+    "category": "supplements",
+    "intent": ["coral_care", "growth", "water_parameters", "feeding"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/pokarmy-i-suplementacja/af-build/",
+    "tags": ["wapń", "węgiel", "kalcyfikacja", "pH", "koralowce_twarde", "SPS", "LPS", "jodki", "węglan_wapnia", "Energy", "wzrost"],
+    "related_items": ["af-energy", "af-amino-mix", "af-vitality", "af-test-ph", "af-test-ca"],
+    "updated_at": "2025-05-28"
+  }
+  

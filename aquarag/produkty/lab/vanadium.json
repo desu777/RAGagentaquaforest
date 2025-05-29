@@ -1,0 +1,16 @@
+{
+    "id": "lab-vanadium-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Vanadium – suplement wanadu dla aktywacji enzymów i mineralizacji szkieletu",
+    "query_text": "Vanadium suplement mikroelement wanad aktywuje enzymy metabolizm węglowodanów mineralizacja szkieletu regularnie zużywany mieszkańcy akwarium warunki naturalne aktywator enzymów 1ml 0.001mg/l 100L 0.001-0.0025 mg/l ppm",
+    "full_content": "Vanadium to suplement wanadu, który aktywuje enzymy i bierze udział w metabolizmie węglowodanów i mineralizacji szkieletu. Suplement zawiera skoncentrowany wanad. Wanad jest ważnym aktywatorem enzymów, uczestniczy również w metabolizmie węglowodanów oraz mineralizacji szkieletów. Pierwiastek ten jest regularnie zużywany przez mieszkańców akwarium, dlatego w celu zapewnienia warunków jak najbardziej zbliżonych do naturalnych, należy go systematycznie dozować do akwarium. DOZOWANIE: 1 ml produktu zwiększa poziom wanadu o 0.001 mg/l (ppm) w 100 litrach wody. Zalecany poziom wanadu w wodzie akwariowej to 0.001 – 0.0025 mg/l (ppm). Maksymalna bezpieczna dawka dzienna wynosi 1 ml na 100 litrów wody. Jeżeli wymagana jest większa dawka, rozbij ją na kilka dni. Dawkowanie powinno być ustalone na podstawie konsumpcji mikroelementów w akwarium. Każde akwarium jest inne, a dawkowanie jest zależne od obsady koralowców i indywidualnego zapotrzebowania. Zarówno niedobór, jak i nadmiar mikroelementów wpływa niekorzystnie na kondycję mieszkańców akwarium, dlatego dozowanie preparatu należy dobrać i modyfikować na podstawie regularnych testów wody Aquaforest Lab. Rozmiar: 200 ml.",
+    "domain": "lab",
+    "category": "trace_elements",
+    "intent": ["enzyme_activation", "carbohydrate_metabolism", "skeletal_mineralization", "trace_supplementation", "metabolic_support"],
+    "difficulty": "advanced",
+    "url": "https://aquaforest.eu/pl/produkty/lab/mikroelementy/vanadium/",
+    "tags": ["Vanadium", "mikroelement", "wanad", "aktywator_enzymów", "metabolizm_węglowodanów", "mineralizacja_szkieletu", "regularnie_zużywany", "1ml_0.001mg/l", "0.001-0.0025_mg/l", "1ml_maksymalnie", "200ml", "warunki_naturalne"],
+    "related_items": ["manganum", "molybdenum", "ferrum", "strontium", "components-pro", "ca-plus"],
+    "updated_at": "2025-05-29"
+}

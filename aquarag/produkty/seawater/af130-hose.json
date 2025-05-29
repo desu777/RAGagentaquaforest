@@ -1,0 +1,16 @@
+{
+    "id": "af130-hose-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF130 Hose – elastyczny wąż silikonowy do reaktora AF 130",
+    "query_text": "AF130 Hose wąż silikonowy elastyczny reaktor AF 130 Media Reactor 1 metr 23mm średnica wewnętrzna 3mm grubość części zamienne akcesorium wytrzymały",
+    "full_content": "AF130 Hose to elastyczny wąż silikonowy dedykowany do reaktora AF 130 Media Reactor. Łatwy w użyciu i bardzo wytrzymały. PRZEZNACZENIE: Elastyczny wąż silikonowy dedykowany do filtra AF 130 Media Reactor. SPECYFIKACJA: Długość 1 metr, średnica wewnętrzna 23 mm, grubość 3 mm. WŁAŚCIWOŚCI: Łatwy w użyciu, bardzo wytrzymały, wykonany z wysokiej jakości silikonu odpornego na działanie wody morskiej. ZASTOSOWANIE: Połączenie reaktora AF 130 Media Reactor z systemem filtracji, wymiana standardowego węża, zapewnienie elastycznego połączenia między urządzeniami. ROZMIAR: 1 sztuka w opakowaniu.",
+    "domain": "universal",
+    "category": "accessories",
+    "intent": ["maintenance", "replacement", "setup"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/wyposazenie-akwarium/af130-hose/",
+    "tags": ["wąż", "hose", "silikonowy", "AF130", "reaktor", "1m", "23mm", "3mm", "części_zamienne", "akcesorium"],
+    "related_items": ["af-130-media-reactor"],
+    "updated_at": "2025-05-29"
+}

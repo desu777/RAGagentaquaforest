@@ -1,0 +1,16 @@
+{
+    "id": "lab-kh-plus-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "KH Plus – środek podnoszący twardość węglanową i stabilizujący pH",
+    "query_text": "KH Plus środek podnoszący poziom KH twardość węglanowa zasadowość niedobory nagłe spadki równowaga jonowa pH stabilny jony węglanowe szkielety koralowce 10ml 0.5dKH 100L 6.5-8.5 dKH magnez",
+    "full_content": "KH Plus to środek podnoszący poziom KH. Zaprojektowany do zarządzania niedoborami i nagłymi spadkami zasadowości. Wysoko skoncentrowany roztwór podnoszący twardość węglanową w akwariach morskich. KH Plus został stworzony z myślą o wyrównywaniu nagłych spadków twardości węglanowej i przywróceniu równowagi jonowej w akwarium. Odpowiednia wartość jonów węglanowych w akwarium morskim jest koralowcom niezbędna do budowy szkieletów i zdrowego rozwoju. Dzięki obecności jonów węglanowych możliwe jest utrzymanie pH na stabilnym poziomie. DOZOWANIE: 10 ml roztworu podnosi twardość węglanową o 0,5 dKH w 100 l wody. Maksymalna dzienna dawka roztworu to 10 ml na 100 l wody. Twardość KH w akwarium rafowym powinna wynosić ok. 6,5-8,5 dKH. Nie podnosić twardości węglanowej o więcej niż 0.5 dKH na 24 godziny. Przed próbą podniesienia lub skorygowania poziomu wapnia i zasadowości, zalecamy upewnić się, że poziom magnezu mieści się w zalecanym zakresie. Maksymalna bezpieczna dawka dzienna wynosi 10 ml na 100 litrów wody. Jeżeli wymagana jest większa dawka, rozbij ją na kilka dni. Dostępne rozmiary: 1000 ml, 2000 ml.",
+    "domain": "lab",
+    "category": "parameters",
+    "intent": ["water_parameters", "coral_health", "ph_stabilization", "troubleshooting", "alkalinity_management"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/produkty/lab/makroelementy/kh-plus_/",
+    "tags": ["KH_Plus", "twardość_węglanowa", "zasadowość", "10ml_0.5dKH", "6.5-8.5_dKH", "10ml_maksymalnie", "równowaga_jonowa", "stabilizacja_pH", "jony_węglanowe", "szkielety_koralowce", "magnez_zależność", "1000ml", "2000ml", "0.5dKH_24h"],
+    "related_items": ["ca-plus", "mg-plus", "kh-buffer", "components-pro", "component-123"],
+    "updated_at": "2025-05-29"
+}

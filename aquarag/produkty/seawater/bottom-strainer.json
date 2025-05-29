@@ -1,0 +1,16 @@
+{
+    "id": "bottom-strainer-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Bottom Strainer – wymienny filtr do reaktorów z mediami",
+    "query_text": "Bottom Strainer wymienny filtr reaktory media Aquaforest dolny filtr części zamienne akcesorium reaktor mediów AF110 AF130 AF90",
+    "full_content": "Bottom Strainer to wymienny filtr do reaktorów z mediami. PRZEZNACZENIE: Dolny filtr dedykowany do reaktorów mediów Aquaforest. ZASTOSOWANIE: Część zamienna do reaktorów mediów Aquaforest, zapobiega przedostawaniu się medium filtracyjnego do wody, zapewnia prawidłową cyrkulację wody w reaktorze. KOMPATYBILNOŚĆ: Dedykowany do reaktorów mediów Aquaforest. ROZMIAR: 1 sztuka w opakowaniu.",
+    "domain": "universal",
+    "category": "accessories",
+    "intent": ["maintenance", "replacement", "filtration"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/wyposazenie-akwarium/bottom-strainer/",
+    "tags": ["filtr", "strainer", "wymienny", "reaktor", "media", "części_zamienne", "dolny", "akcesorium"],
+    "related_items": ["af90-media-reactor", "af110-media-reactor", "af130-media-reactor"],
+    "updated_at": "2025-05-29"
+  }

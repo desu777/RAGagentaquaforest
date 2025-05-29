@@ -1,0 +1,16 @@
+{
+    "id": "af-tiny-fish-feed-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Tiny Fish Feed – pokarm dla małych ryb i narybku",
+    "query_text": "AF Tiny Fish Feed pokarm małe ryby narybek wysokobiałkowy wzrost odporność granulki 1mm tapioka układ sercowo-naczyniowy mięśniowy nerwowy tłuszcze oleje zwierzęce wady rozwojowe karmidła automatyczne 120g kilka razy dziennie witaminy minerały",
+    "full_content": "AF Tiny Fish Feed to podstawowy, zbilansowany pokarm dla niedużych ryb morskich w postaci drobnych granulek wielkości 1mm. WŁAŚCIWOŚCI: Wysokobiałkowy pokarm stymuluje prawidłowy wzrost oraz buduje odporność, zmniejsza ryzyko pojawienia się wad rozwojowych, zawartość tapioki wspomaga prawidłowe funkcjonowanie układu sercowo-naczyniowego, mięśniowego i nerwowego, zawiera wysokiej jakości tłuszcze i oleje zwierzęce. KORZYŚCI: Wzmacnia układ odpornościowy, wspiera wszystkie procesy fizjologiczne oraz inne ważne funkcje organizmu, pełnowartościowy i łatwo przyswajalny skład, bogaty we wspierające zdrowie i odporność witaminy i minerały, może stanowić podstawę diety, stworzony z naturalnych składników, dopasowany do karmideł automatycznych. SPECYFIKACJA: Wielkość granulatu 1mm, opakowanie 120g, miękkie granulki dla drobnych ryb ozdobnych. SKŁADNIKI: Ryby i pochodne ryb, białko roślinne, tapioka, olej rybny, przeciwutleniacze. DODATKI: Wit. A 20000 IU/kg, wit. C 800 mg/kg, wit. E 320 mg/kg, wit. D3 1800 IU/kg, żelazo 46 mg/kg, jod 2 mg/kg, miedź 4 mg/kg, mangan 29 mg/kg, cynk 96 mg/kg. SKŁADNIKI ANALITYCZNE: Białko surowe 44%, tłuszcz surowy 12,8%, włókno surowe 1,2%, popiół surowy 6%, wilgotność 29,2%. DAWKOWANIE: Podawać kilka razy dziennie w małych porcjach, zaleca się podawanie na przemian z innymi pokarmami Aquaforest.",
+    "domain": "seawater",
+    "category": "feeds",
+    "intent": ["feeding", "nutrition", "fish_care", "growth"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/pokarmy-i-suplementacja/af-tiny-fish-feed/",
+    "tags": ["pokarm", "małe_ryby", "narybek", "1mm", "wysokobiałkowy", "tapioka", "granulki", "120g", "odporność", "wzrost", "automatyczne"],
+    "related_items": ["af-protein-power", "af-marine-mix-s", "af-marine-flakes"],
+    "updated_at": "2025-05-28"
+}

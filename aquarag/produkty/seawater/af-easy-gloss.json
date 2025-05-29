@@ -1,0 +1,16 @@
+{
+    "id": "af-easy-gloss-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Easy Gloss – nietoksyczny środek do czyszczenia szkła akwarium",
+    "query_text": "AF Easy Gloss czyszczenie szkło akwarium nietoksyczny bezpieczny ryby koralowce plamy solanka kamień osad smugi lavenda zapach rozpylacz butelka morskie słodkowodne tłuste zacieki ręcznik papierowy polerowanie 200ml",
+    "full_content": "AF Easy Gloss to nietoksyczny i skuteczny środek do czyszczenia szkła akwariowego z przyjemnym zapachem lawendy. Radzi sobie z najbardziej uporczywymi zabrudzeniami na szybach zbiornika. DZIAŁANIE: W akwarium morskim usuwa tłuste zacieki powstające od solanki, w akwarium słodkowodnym usuwa uporczywy kamienny osad, pozwala na perfekcyjne oczyszczenie szyb bez pozostawiania smug, skutecznie usuwa plamy pozostawione po słonej wodzie. BEZPIECZEŃSTWO: Skład w 100% bezpieczny dla ryb i koralowców, nie wpływa negatywnie na kondycję i zdrowie zwierząt, może być bezpiecznie używany w każdym typie akwariów, można używać bez obaw o dostanie się szkodliwych substancji do odpieniacza, przetestowany laboratoryjnie. SPECYFIKACJA: Pojemność 200ml, wygodna butelka z rozpylaczem, przyjemny lawendowy zapach, wydajny i efektywny. SPOSÓB UŻYCIA: Spryskać ręcznik papierowy środkiem AF Easy Gloss, wyczyścić powierzchnię szkła, po skończonej pracy wypolerować akwarium suchym ręcznikiem. PRZECHOWYWANIE: W chłodnym miejscu z daleka od dzieci.",
+    "domain": "universal",
+    "category": "equipment",
+    "intent": ["maintenance", "cleaning", "equipment_care"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/wyposazenie-akwarium/af-easy-gloss/",
+    "tags": ["czyszczenie", "szkło", "nietoksyczny", "solanka", "kamień", "smugi", "lavenda", "rozpylacz", "200ml", "bezpieczny"],
+    "related_items": ["af-air-scrubber", "glass-cleaner-tools"],
+    "updated_at": "2025-05-28"
+  }

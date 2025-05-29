@@ -1,0 +1,16 @@
+{
+    "id": "kh-pro-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "KH Pro – wysoce skoncentrowany preparat przywracający twardość węglanową",
+    "query_text": "KH Pro skoncentrowany twardość węglanowa alkalinity potas nagłe zmiany awaryjne szybkie działanie 5ml 0.5 dKH 100L 10ml 1mg/l potasu zaawansowani akwaryści 1000ml 2000ml",
+    "full_content": "KH Pro to wysoce skoncentrowany preparat, który szybko przywraca twardość węglanową w akwarium. PRZEZNACZENIE: Stworzyliśmy wysoce skoncentrowany preparat KH Pro, aby łatwo i skutecznie przywracać prawidłową twardość węglanową (KH) w akwariach morskich, dając pewność, że akwarium jest w doskonałym stanie. KH Pro został opracowany jako bardziej skoncentrowana, skuteczna wersja popularnego preparatu KH Plus Lab. KH Pro zapewnia jeszcze silniejsze działanie, oferując natychmiastową poprawę parametrów wody, co ma kluczowe znaczenie w sytuacjach awaryjnych, takich jak nagłe zmiany składu chemicznego wody. Dzięki innowacyjnej formule, KH Pro nie tylko skutecznie podnosi poziom KH, ale także wzbogaca wodę w potas, niezbędny dla zdrowego wzrostu i rozwoju koralowców i innych organizmów morskich. Każde 10 ml produktu na 100 litrów wody podnosi poziom potasu o 1 mg/l, przyczyniając się do utrzymania optymalnych warunków w akwarium i wspierając naturalne procesy biologiczne. KH Pro jest przeznaczony dla zaawansowanych akwarystów, którzy potrzebują szybkich i skutecznych rozwiązań do zarządzania parametrami wody w swoich zbiornikach. Produkt idealnie nadaje się do stosowania zarówno w dużych zbiornikach, jak i mniejszych ekosystemach akwariowych, w których stabilność parametrów wody ma kluczowe znaczenie dla zdrowia i dobrego samopoczucia organizmów morskich. Dodatkowo, ze względu na wysokie stężenie, pozwala na przechowywanie mniejszej liczby pojemników, oszczędzając miejsce wokół akwarium. KORZYŚCI: Szybkie działanie: natychmiastowe uzupełnienie twardości węglanowej w sytuacjach awaryjnych, wzbogacenie w potas: dodatkowy potas wspiera zdrowy wzrost koralowców, precyzyjne dozowanie: 5 ml KH Pro na 100 litrów wody zwiększa KH o 0,5 dKH, bezpieczeństwo: zalecane dozowanie minimalizuje ryzyko szoku dla organizmów morskich. DAWKOWANIE: Aby uniknąć szoku dla organizmów morskich, nie należy zwiększać twardości węglanowej o więcej niż 0,5 dKH w ciągu 24 godzin. ROZMIARY: 1000ml, 2000ml.",
+    "domain": "seawater",
+    "category": "water_parameters", 
+    "intent": ["emergency_dosing", "water_parameters", "coral_care", "expert_care"],
+    "difficulty": "expert",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/parametry-wody/kh-pro/",
+    "tags": ["KH_Pro", "skoncentrowany", "potas", "5ml", "0.5_dKH", "10ml", "1mg/L", "awaryjne", "zaawansowani", "1000ml", "2000ml"],
+    "related_items": ["kh-plus", "kh-buffer", "alkalinity-test-kit", "kalium", "af-test-kh"],
+    "updated_at": "2025-05-29"
+}

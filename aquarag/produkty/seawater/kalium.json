@@ -1,0 +1,16 @@
+{
+    "id": "kalium-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Kalium – suplement potasu wspomagający wybarwienie koralowców",
+    "query_text": "Kalium potas suplement neurologiczne koralowce miękkie SPS różowe czerwone wybarwienie zeolity transport składników 1 kropla 100L 1.86 ppm 360-380 mg/l 15 kropli 50ml",
+    "full_content": "Kalium to suplement potasu wspomagający wybarwienie. Potas jest odpowiedzialny za funkcje neurologiczne koralowców. PRZEZNACZENIE: Suplement zawierający wysoko skoncentrowany potas. Potas jest ważnym elementem odpowiadającym za prawidłowość funkcji neurologicznych. U koralowców miękkich, potas bierze udział w transporcie składników odżywczych. U koralowców SPS niedobór tego cennego pierwiastka objawia się wyblakłym kolorem różowym i czerwonym. Stosowanie w akwarium mediów filtracyjnych opartych na zeolitach może prowadzić do niedoboru potasu. Regularne i zrównoważone stosowanie Kalium pozwala na utrzymanie odpowiedniego poziomu potasu oraz skutkuje wzmocnieniem czerwonego i różowego wybarwienia koralowców SPS. Zalecany poziom potasu w akwarium rafowym wynosi 360-380 mg/l. DAWKOWANIE: 1 kropla na 100 litrów wody dziennie. 1 ml Kalium (~15 kropli) w 100 l wody podnosi poziom potasu o 1,86 ppm. Należy pamiętać, że każde akwarium jest inne, a dawkowanie jest zależne od obsady koralowców i indywidualnego zapotrzebowania. ROZMIAR: 50ml.",
+    "domain": "seawater",
+    "category": "supplements",
+    "intent": ["water_parameters", "coral_care", "color_enhancement"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/parametry-wody/kalium/",
+    "tags": ["potas", "SPS", "różowe", "czerwone", "wybarwienie", "neurologiczne", "zeolity", "1_kropla", "100L", "1.86_ppm", "360-380_mg/L", "50ml"],
+    "related_items": ["components-strong", "component-b", "af-test-k", "iron"],
+    "updated_at": "2025-05-29"
+}

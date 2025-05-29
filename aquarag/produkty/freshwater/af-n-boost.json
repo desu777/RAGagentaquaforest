@@ -1,0 +1,16 @@
+{
+    "id": "af-n-boost-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF N Boost – nawóz azotowy dla roślin wodnych",
+    "query_text": "AF N Boost azot nawóz rośliny wzrost system korzeniowy zielone wybarwienie liści makroelement krzewienie chloroza żółknięcie brunatnienie nadmiar wybujały wzrost ciemnozielony delikatny azotany amonowe 10-20mg/l 10ml 100L 10mg/l AF Micro PO4 K Boost AF Macro 125ml 250ml 500ml 2000ml",
+    "full_content": "AF N Boost to profesjonalny suplement łatwo przyswajalnego azotu dla roślin akwariowych. ZNACZENIE AZOTU: Azot to jeden z najważniejszych makroelementów potrzebny roślinom. Obecność azotu decyduje o wzroście rośliny, jej krzewieniu i zielonym wybarwieniu liści. Bardzo ważna jest prawidłowa suplementacja azotu, gdyż zarówno niedobór, jak i nadmiar może być szkodliwy dla roślin. NIEDOBÓR: Niedobór azotu powoduje zahamowanie wzrostu, chlorozę i żółknięcie liści, a w dalszym stadium ich brunatnienie. NADMIAR: Nadmiar objawia się wybujałym wzrostem, zmianą koloru liści na ciemnozielony, a przy tym roślina jest bardzo delikatna i staje się mniej odporna na urazy mechaniczne. OPTYMALNE POZIOMY: Odpowiedni poziom azotanów w akwarium roślinnym powinien wynosić 10-20 mg/l. Azot pobierany jest przez rośliny głównie w formie azotanowej i amonowej. SKŁAD: AF N Boost zawiera mineralne formy azotu, które doskonale przyswajane są przez rośliny akwariowe. DAWKOWANIE: 10 ml rozpuszczony w 100L wody podnosi poziom azotanów o 10 mg/l. 1ml w 10L wody podniesie poziom NO3 o 10 mg/l. WSPÓŁPRACA: Zaleca się równoległe stosowanie z produktami AF Micro, AF PO4 Boost i AF K Boost. Pomimo suplementowania AF Macro może dojść do zwiększonego zapotrzebowania na azot, w tej sytuacji również zalecamy stosowanie AF N Boost. UWAGI: W przypadku intensywnej suplementacji azotu zaleca się przeprowadzanie regularnych testów wody. Nie należy stosować z innymi preparatami zawierającymi azot ze względu na ryzyko przenawożenia roślin oraz zakwitu glonów. ROZMIARY: 125ml, 250ml, 500ml, 2000ml.",
+    "domain": "freshwater",
+    "category": "supplements",
+    "intent": ["plant_care", "nutrition", "growth", "troubleshooting"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/produkty/freshwater/suplementy-i-nawozy/af-n-boost/",
+    "tags": ["azot", "NO3", "azotany", "nawóz", "wzrost", "system_korzeniowy", "zielone_wybarwienie", "krzewienie", "chloroza", "żółknięcie", "brunatnienie", "10-20mg/l", "10ml", "100L", "10mg/l", "AF_Micro", "PO4_Boost", "K_Boost", "AF_Macro", "125ml", "250ml", "500ml", "2000ml"],
+    "related_items": ["af-micro", "af-po4-boost", "af-k-boost", "af-macro", "af-test-no3", "plant-fertilizers"],
+    "updated_at": "2025-05-29"
+}

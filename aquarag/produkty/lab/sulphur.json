@@ -1,0 +1,16 @@
+{
+    "id": "lab-sulphur-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Sulphur – skuteczny suplement siarki dla zdrowego wzrostu i wybarwienia",
+    "query_text": "Sulphur suplement siarka czwarty najbardziej rozpowszechniony pierwiastek woda morska zdrowy wzrost żywe ubarwienie intensywne wybarwienie procesy metaboliczne stale konsumowana monitorowany 10ml 4mg/l 100L 740-990 mg/l ppm",
+    "full_content": "Sulphur to skuteczny suplement siarki zapewniający koralowcom zdrowy wzrost i żywe ubarwienie. Siarka jest czwartym najbardziej rozpowszechnionym pierwiastkiem występującym w wodzie morskiej. Prawidłowe wartości tego pierwiastka zapewniają koralowcom zdrowy wzrost i intensywne wybarwienie. Badania wskazują, że niedobory tego pierwiastka mogą pogorszyć procesy metaboliczne organizmów żywych. Siarka jest stale konsumowana w zamkniętym systemie akwariowym i jej poziom powinien być regularnie monitorowany. DOZOWANIE: 10 ml produktu podnosi poziom siarki o 4 mg/l (ppm) w 100 litrach wody. Zalecany poziom siarki w wodzie akwariowej to 740-990 mg/l (ppm). Maksymalna bezpieczna dawka dzienna wynosi 30 ml na 100 litrów wody. Jeżeli wymagana jest większa dawka, rozbij ją na kilka dni. Rozmiar: 1000 ml.",
+    "domain": "lab",
+    "category": "trace_elements",
+    "intent": ["coral_coloration", "growth_enhancement", "metabolic_support", "trace_supplementation", "coral_health"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/produkty/lab/mikroelementy/sulphur/",
+    "tags": ["Sulphur", "siarka", "czwarty_rozpowszechniony", "zdrowy_wzrost", "żywe_ubarwienie", "intensywne_wybarwienie", "procesy_metaboliczne", "stale_konsumowana", "10ml_4mg/l", "740-990_mg/l", "30ml_maksymalnie", "1000ml", "regularnie_monitorowany"],
+    "related_items": ["strontium", "kalium", "mg-plus", "components-pro", "component-123", "af-vitality"],
+    "updated_at": "2025-05-29"
+}

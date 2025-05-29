@@ -1,0 +1,17 @@
+{
+    "id": "af-air-scrubber-001",
+    "content_type": "product",
+    "lang": "pl", 
+    "title": "AF Air Scrubber – stabilizacja pH w akwarium",
+    "query_text": "AF Air Scrubber pH stabilizacja podnoszenie CO2 dwutlenek węgla odpieniacz wahania KH kalcyfikacja koralowce dzienne nocne fotosynteza jesień zima akryl reaktor nawilżenie gąbki medium filtracyjne",
+    "full_content": "AF Air Scrubber to urządzenie do stabilizacji pH w akwarium rafowym poprzez usuwanie CO2 z powietrza zasysanego przez odpieniacz. Rozwiązuje problem dziennych wahań pH spowodowanych zmianami stężenia dwutlenku węgla w powietrzu domowym. DZIAŁANIE: Podnosi pH o 0.2-0.4 do zakresu 8.0-8.4, stabilizuje poziom pH w dzień i w nocy, zapobiega nagłym skokom dKH, poprawia kalcyfikację koralowców. TECHNOLOGIA: Innowacyjna konstrukcja z trzema nawilżonymi gąbkami w podstawie poprawiającymi wydajność medium, system smart-twist dla łatwego dostępu, medium zmieniające kolor sygnalizuje czas wymiany. SPECYFIKACJA: Pojemność 2.3L, wysokość 35.5cm + 3.5cm przyłącza, szerokość 15.5cm, złącze 10mm dla odpieniaczey, wykonane z białego i transparentnego akrylu. UŻYTKOWANIE: Rekomendowane z medium AF -CO2 Media, gąbki zawsze mokre w wodzie RO, wymiana medium przed całkowitą zmianą koloru, efekt widoczny po kilku dniach. UWAGI: Medium sprzedawane osobno, pomiary pH o stałej porze, rękawiczki przy wymianie, dobra wentylacja.",
+    "domain": "seawater",
+    "category": "equipment", 
+    "intent": ["water_parameters", "maintenance", "coral_care"],
+    "difficulty": "intermediate",
+    "url":"https://aquaforest.eu/pl/produkty/seawater/wyposazenie-akwarium/af-air-scrubber/",
+    "tags": ["pH", "CO2", "stabilizacja", "odpieniacz", "KH", "kalcyfikacja", "Air_Scrubber", "medium", "reaktor"],
+    "related_items": ["af-co2-media", "af-test-ph", "af-test-kh"],
+    "updated_at": "2025-05-28"
+  }
+  

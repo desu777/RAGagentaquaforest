@@ -1,0 +1,16 @@
+{
+    "id": "af-vege-strength-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Vege Strength – pokarm roślinny z wysoką zawartością błonnika",
+    "query_text": "AF Vege Strength pokarm roślinny ryby bezkręgowce granulki 1.5mm błonnik spirulina kryl kalmary trawienie wybarwienie wzrost odporność perystaltyka jelit 100g większe gatunki roślinożerne wszystkożerne",
+    "full_content": "AF Vege Strength to pokarm roślinny dla ryb i bezkręgowców. Łatwo przyswajalny, z wysoką zawartością błonnika i dodatkiem spiruliny. OPIS: Pokarm w formie granulek o średnicy 1,5 mm, dedykowana dla większych gatunków roślinożernych i wszystkożernych ryb. Łatwo przyswajalny, roślinny pokarm o wysokiej zawartości błonnika, nie wywołuje dolegliwości trawiennych i wpływa korzystnie na perystaltykę jelit. SPIRULINA: Dodatkowo, pokarm zawiera spirulinę – superfoods znanego z wysokiej zawartości składników odżywczych, które: stymulują wzrost i rozwój, wzmacniają system odpornościowy. KRYL: Zawarty w pokarmie kryl pobudza procesy trawienia oraz przyczynia się do intensyfikacji wybarwienia. Naturalne białko pozyskane z krylu i kalmarów, zapewnia silny wzrost, a witaminy i minerały takie jak: wapń, magnez, fosfor, żelazo, potas i jod wspierają odporność. SPECYFIKACJA: Rozmiar granulek 1,5 mm, opakowanie 100g. CECHY: Roślinny pokarm o wysokiej zawartości błonnika, wpływa korzystnie na perystaltykę jelit, stymuluje wzrost i rozwój, wzmacnia system odpornościowy, dzięki zawartości krylu, pobudza procesy trawienia oraz przyczynia się do intensyfikacji barw. DAWKOWANIE: Podawać kilka razy dziennie w małych porcjach. Aby zapewnić rybom najlepsze odżywianie, zaleca się podawanie AF Vege Strength naprzemiennie z innymi mieszankami paszowymi marki Aquaforest. SKŁADNIKI: Mączka zbożowa, soja, drożdże, kryl, kalmary, tłuszcze roślinne, spirulina, przeciwutleniacz. DODATKI: Wit. E 130 mg/kg, wit. C 100 mg/kg, wit. A 10000 IU/kg, wit. D3 1300 UI/kg. SKŁADNIKI ANALITYCZNE: Białko surowe 37,0%, tłuszcz surowy 6,0%, włókno surowe 1,8%, wilgotność 10,0%, popiół surowy 10,1%, fosfor 1,4%. PRZECHOWYWANIE: Produkt przeznaczony wyłącznie do użytku w akwariach. Nie nadaje się do spożycia przez ludzi. Przechowywać w suchym i chłodnym miejscu, z dala od dzieci.",
+    "domain": "universal",
+    "category": "feeds",
+    "intent": ["feeding", "nutrition", "fish_care", "growth", "digestion"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/pokarmy-i-suplementacja/af-vege-strength/",
+    "tags": ["pokarm", "roślinny", "granulki", "1_5mm", "błonnik", "spirulina", "kryl", "kalmary", "100g", "trawienie", "wybarwienie", "większe_gatunki"],
+    "related_items": ["af-vege-clip", "af-marine-mix-s", "af-protein-power"],
+    "updated_at": "2025-05-29"
+  }

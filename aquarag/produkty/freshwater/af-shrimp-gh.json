@@ -1,0 +1,16 @@
+{
+    "id": "af-shrimp-gh-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Shrimp GH+ – profesjonalny preparat do mineralizacji wody RO dla krewetek",
+    "query_text": "AF Shrimp GH+ mineralizacja woda RO krewetki Bee Cristal naturalne składniki minerały żelazo wapń magnez potas twardość GH KH dejonizowana destylowana wylinki rozmnażanie pancerz 3ml 5L GH5 125ml 250ml osad butelka",
+    "full_content": "AF Shrimp GH+ to profesjonalny preparat do mineralizacji wody RO, przeznaczony specjalnie do hodowli krewetek, zwłaszcza gatunków Bee i Cristal. SKŁAD I DZIAŁANIE: Dzięki zastosowaniu naturalnych składników wzbogaca wodę we wszystkie niezbędne dla mieszkańców akwarium minerały i gwarantuje idealne parametry wody. Unikalna formuła została wzbogacona o żelazo. Uzupełnia wodę w wapń, magnez i potas w idealnych proporcjach. MECHANIZM: Produkt zwiększa twardość całkowitą (GH), pozostawiając niezmienioną twardość węglanową (KH). Mineralizuje wodę RO, dejonizowaną i destylowaną, zapewnia niezbędne minerały i gwarantuje doskonałe parametry wody. KORZYŚCI: Zapobiega nieodpowiednim poziomom pierwiastków, które mogłyby prowadzić do poważnych problemów z wylinką i rozmnażaniem krewetek. Płynna forma zapewnia łatwe i wygodne stosowanie. Doskonały dobór składników sprawia, że woda jest idealnie czysta, bez zamglenia i białego zabarwienia. Gwarantuje zdrowy wzrost krewetek i prawidłowe wylinki. Odpowiednia mineralizacja wody pozwala krewetkom pobierać wszystkie niezbędne minerały bezpośrednio z wody, w tym wapń niezbędny do budowy i utwardzania pancerza. SPOSÓB UŻYCIA: Dla GH 5 – 3 ml na 5 l wody. Wymieszać z wodą poza akwarium. Po wymieszaniu woda jest natychmiast gotowa do użycia. UWAGI: Ze względu na wysoką zawartość minerałów na dnie butelki może pojawić się osad, co jest całkowicie naturalne i nie oznacza wady produktu. Osad nie wpływa również na klarowność wody używanej w akwarium. ROZMIARY: 125ml, 250ml.",
+    "domain": "freshwater",
+    "category": "water_parameters",
+    "intent": ["shrimp_care", "water_preparation", "mineralization"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/produkty/freshwater/utrzymanie-parametrow-wody/af-shrimp-gh/",
+    "tags": ["krewetki", "Bee", "Cristal", "mineralizacja", "woda_RO", "twardość_GH", "żelazo", "wapń", "magnez", "potas", "wylinki", "rozmnażanie", "pancerz", "3ml", "5L", "GH5", "osad", "naturalne", "125ml", "250ml", "dejonizowana", "destylowana"],
+    "related_items": ["shrimp-tanks", "ro-water", "water-mineralizers", "shrimp-breeding"],
+    "updated_at": "2025-05-29"
+}

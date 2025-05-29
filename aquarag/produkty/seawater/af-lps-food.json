@@ -1,0 +1,17 @@
+{
+    "id": "af-lps-food-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF LPS Food – pokarm granulowany dla koralowców LPS",
+    "query_text": "AF LPS Food pokarm koralowce LPS granulki białko kwasy tłuszczowe odżywcze wzrost rozwój zmętnienie wody łyżeczka 100L nocne karmienie polipy wysunięte bezpośrednio nad koralowcami obserwacja reakcji przedawkowanie dawka docelowa 30g",
+    "full_content": "AF LPS Food to pokarm w granulkach dedykowany szczególnie dla koralowców LPS. Bogaty w białko oraz wysoko odżywcze kwasy tłuszczowe, które są niezbędne dla prawidłowego wzrostu i rozwoju koralowców. WŁAŚCIWOŚCI: Pokarm w granulkach stworzony specjalnie dla koralowców LPS, bogaty w białko i wysoce odżywcze kwasy tłuszczowe, nie powoduje zmętnienia wody, zapewnia prawidłowy wzrost i rozwój koralowców. SPECYFIKACJA: Opakowanie 30g, granulki łatwe do aplikacji. DAWKOWANIE: 1 łyżeczka na 100L wody, zalecane karmienie nocą, pokarm należy rozprowadzić bezpośrednio nad wybranymi koralowcami. KARMIENIE: Koralowce powinny być karmione nocą kiedy ich polipy są wysunięte w poszukiwaniu pożywienia, rozpocząć używanie od połowy dawki (nawet 1/4) i obserwować reakcję koralowców, w momencie gdy koralowce będą dobrze reagować i nie będzie oznak przedawkowania, zwiększać dawkę do docelowej. UWAGI: Każde akwarium jest inne i może wymagać indywidualnego dawkowania w zależności od obsady koralowców.",
+    "domain": "seawater",
+    "category": "feeds",
+    "intent": ["feeding", "nutrition", "coral_care", "lps_care", "growth"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/pokarmy-i-suplementacja/af-lps-food/",
+    "tags": ["pokarm", "LPS", "granulki", "białko", "kwasy_tłuszczowe", "30g", "łyżeczka", "nocne_karmienie", "polipy", "wzrost"],
+    "related_items": ["af-energy", "af-amino-mix", "af-growth-boost"],
+    "updated_at": "2025-05-28"
+  }
+  

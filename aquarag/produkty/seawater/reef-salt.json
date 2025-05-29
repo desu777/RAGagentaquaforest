@@ -1,0 +1,16 @@
+{
+    "id": "reef-salt-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Reef Salt – wszechstronna sól morska z aminokwasami i witaminą C",
+    "query_text": "Reef Salt sól morska SPS LPS koralowce miękkie aminokwasy witamina C rozpuszczalność 390g 10L 33ppt 24°C 15 minut ICP-OES refraktometr 3 dni zużyć 2kg 4kg 10kg 20kg 22kg 25kg",
+    "full_content": "Reef Salt to najbardziej wszechstronna sól dedykowana zarówno dla raf mieszanych, jak i SPS. Mieszanka soli jest wzbogacona o aminokwasy i witaminę C. PRZEZNACZENIE: Aquaforest Reef Salt to sól morska najwyższej jakości, stworzona z myślą o wszystkich akwariach rafowych, nawet tych najbardziej wymagających. Dopracowywana latami kompozycja mikro- i makroelementów zapewnia optymalne warunki dla podwodnego życia. Doskonale sprawdzi się zarówno w wymagających akwariach z przewagą koralowców SPS, jak i w hodowli mniej wymagających koralowców miękkich, czy LPS. SKŁADNIKI: Reef Salt oferuje teraz jeszcze lepszy skład i ulepszoną formułę. Został wzbogacony o unikalne składniki, które wspierają zdrowie i wzrost koralowców. Zawiera aminokwasy, które odgrywają znaczącą rolę w rozwoju i polipowaniu koralowców. Dodatek witaminy C, natomiast korzystnie wpływa na odporność i ogólną kondycję wszystkich mieszkańców akwarium. Niewątpliwym atutem Aquaforest Reef Salt jest jego rozpuszczalność, co znacznie ułatwia i przyspiesza przygotowanie wody morskiej. Już po kilku minutach solanka przygotowana przy użyciu Reef Salt jest gotowa do użycia w akwarium. SPOSÓB UŻYCIA: Zacznij od wody RODI, która powinna mieć temperaturę około 24°C. Dla zasolenia 33 ppt (1,025 S.G.), dodaj około 390 g soli do 10 l wody. Energicznie mieszaj przez około 15 minut, aż sól całkowicie się rozpuści i woda stanie się klarowna. Przed użyciem sprawdź uzyskane zasolenie z pomocą refraktometru. Gotowa słona woda jest gotowa do użycia. Pamiętaj o przechowywaniu soli w suchym i ciemnym miejscu. Po rozpuszczeniu sól należy zużyć w ciągu 3 dni. Parowanie może zmienić parametry wody, dlatego przechowuj świeżo zmieszaną słoną wodę w szczelnie zamkniętym pojemniku, jeśli nie używasz jej od razu. JAKOŚĆ: Nasz doświadczony zespół profesjonalistów przeprowadza analizę każdej partii produktu za pomocą dwóch spektrometrów ICP-OES. Jeden do badania zawartości mikroelementów, drugi do badania zawartości makroelementów. To wszystko, aby zweryfikować, czy skład chemiczny mieści się w stałym zakresie i jednocześnie wykluczyć obecność niepożądanych zanieczyszczeń. Wyniki badań są dostępne online dla każdego klienta, gwarantując najwyższą jakość i spójność produktu. ROZMIARY: 2kg, 4kg, 10kg, 20kg, 22kg, 25kg.",
+    "domain": "seawater",
+    "category": "salts",
+    "intent": ["water_preparation", "coral_care", "startup", "maintenance"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/sole-morskie/reef-salt/",
+    "tags": ["sól_morska", "SPS", "LPS", "aminokwasy", "witamina_C", "390g", "10L", "33ppt", "24°C", "15_minut", "3_dni", "ICP-OES", "2kg", "4kg", "10kg", "20kg", "22kg", "25kg"],
+    "related_items": ["hybrid-pro-salt", "probiotic-reef-salt", "refractometer", "af-test-salinity"],
+    "updated_at": "2025-05-29"
+}

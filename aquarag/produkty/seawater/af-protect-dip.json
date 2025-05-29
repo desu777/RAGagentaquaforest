@@ -1,0 +1,16 @@
+{
+    "id": "af-protect-dip-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Protect Dip – preparat profilaktyczny do płukania koralowców",
+    "query_text": "AF Protect Dip preparat profilaktyczny płukanie koralowce kąpiel pasożyty infekcje choroby martwica tkanek bielenie grzybica AEFW Brown Jelly Syndrome kwarantanna nowe koralowce 2.5ml 5L solanka szczoteczka 5 minut 10ml 50ml bez jodu",
+    "full_content": "AF Protect Dip to preparat profilaktyczny służący do płukania koralowców, chroniący przed pasożytami i infekcjami oraz dokładnie oczyszczający powierzchnię koralowca. DZIAŁANIE: Zmniejsza ryzyko rozwoju wielu chorób m.in. martwicy tkanek, bielenia koralowców, grzybicy, AEFW, Brown Jelly Syndrome, dokładnie oczyszcza powierzchnię koralowców, gwarantuje zdrowy wygląd, wzrost i rozwój koralowców. ZASTOSOWANIE: Doskonale sprawdza się przy wprowadzaniu nowych koralowców do zbiornika oraz w przeprowadzaniu kwarantanny, bezpieczny dla koralowców, nie zawiera jodu i związków utleniających. SPECYFIKACJA: Dostępny w pojemnościach 10ml i 50ml, przeznaczony wyłącznie do użycia poza akwarium. DAWKOWANIE: Kąpiel przeprowadzić poza zbiornikiem, przed użyciem wstrząsnąć, rozpuścić 2,5ml AF Protect Dip w 5L solanki lub wody pobranej z akwarium, zanurzyć koralowca w roztworze i delikatnie oczyścić powierzchnię przez opłukiwanie lub szczoteczką, kąpiel prowadzić do 5 minut, następnie wypłukać w czystej solance. UWAGI: Zużyty roztwór nie nadaje się do ponownego użycia, nie wlewać roztworu do akwarium, produkt przeznaczony wyłącznie do użycia poza akwarium.",
+    "domain": "seawater",
+    "category": "water_parameters",
+    "intent": ["coral_care", "maintenance", "health", "quarantine"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/parametry-wody/af-protect-dip/",
+    "tags": ["preparat", "profilaktyczny", "kąpiel", "koralowce", "pasożyty", "AEFW", "Brown_Jelly", "kwarantanna", "2_5ml", "5L", "10ml", "50ml"],
+    "related_items": ["af-iodine", "af-test-kh", "af-test-ph"],
+    "updated_at": "2025-05-28"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "af-nitraphos-minus-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Nitraphos Minus – źródło węgla obniżające składniki odżywcze",
+    "query_text": "AF Nitraphos Minus węgiel azotany azotyny fosforany NO3 NO2 PO4 bakterie probiotyki biomasa koralowce wybarwienie wzrost glony cyjanobakterie Pro Bio S Vitality Amino Mix monitoring parametry dawkowanie sump 250ml 2000ml metoda probiotyczna",
+    "full_content": "AF Nitraphos Minus to unikalna kompozycja opracowana w celu biologicznego usuwania nadmiaru azotanów, azotynów i fosforanów z akwarium morskiego. DZIAŁANIE: Uruchamia procesy metaboliczne i podziały komórkowe wielu gatunków bakterii odpowiedzialnych za usuwanie z wody niekorzystnych dla koralowców nutrientów, specjalna kompozycja różnych form węgla organicznego, aminokwasów i witamin zapewnia bezproblemowe przemiany biochemiczne, bakterie absorbują związki i przekształcają je w biomasę będącą wartościowym pokarmem dla koralowców. KORZYŚCI: Usuwa nadmiar azotanów i fosforanów z wody, przywraca równowagę chemiczną, szybko eliminuje niechciane glony, poprawia wybarwienie i wzrost koralowców, zapobiega powstawaniu niepożądanych glonów oraz rozwojowi cyjanobakterii. SPECYFIKACJA: Opakowania 250ml, 2000ml. DAWKOWANIE: Rozpocząć od połowy zalecanej dawki, prowadzić monitoring stężenia NO3 i PO4 raz lub dwa razy w tygodniu, dostosować dawkę do poziomu parametrów, dozować do sumpa lub panelu, nie bezpośrednio na koralowce. KOMPATYBILNOŚĆ: Może być używany z metodą probiotyczną Aquaforest i Pro Bio S, zalecane równoległe stosowanie z AF Vitality i AF Amino Mix, adsorbery jak Phosphate Minus, Carbon, Zeo Mix mogą zmniejszać wydajność. UWAGI: Nie łączyć z innymi metodami o podobnym zastosowaniu, zapewnić odpowiednie natlenienie i włączyć odpieniacz, przy zmętnieniu zmniejszyć dawkę o połowę.",
+    "domain": "seawater",
+    "category": "probiotics",
+    "intent": ["water_parameters", "maintenance", "coral_care"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/metoda-probiotyczna/af-nitraphos-minus/",
+    "tags": ["NO3", "NO2", "PO4", "azotany", "fosforany", "probiotyki", "bakterie", "węgiel", "koralowce", "250ml", "2000ml", "biomasa", "monitoring"],
+    "related_items": ["pro-bio-s", "af-vitality", "af-amino-mix", "af-test-no3", "af-test-po4"],
+    "updated_at": "2025-05-28"
+}

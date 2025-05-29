@@ -1,0 +1,16 @@
+{
+    "id": "pro-bio-s-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Pro Bio S – probiotyki redukujące azotany i fosforany",
+    "query_text": "Pro Bio S probiotyki bakterie rozkład masa organiczna azotany fosforany duże zbiorniki ryby odpieniacz filtr biologiczny patogenna mikroflora choroby odporność stres bakterioplankton koralowce 1 kropla 100L NP Pro 10ml 50ml",
+    "full_content": "Pro Bio S to probiotyki redukujące azotany i fosforany. Przyspiesza rozkład materii organicznej. DZIAŁANIE: Unikalna kompozycja specjalnie dobranych szczepów bakterii probiotycznych opracowana w celu przyspieszenia rozkładu masy organicznej. Rozkłada substancje toksyczne dla ryb oraz uwalniając makro i mikroelementy zwiększa ich dostępność. Pro Bio S poleca się szczególnie do zbiorników dużych, wymagających i z dużą liczbą ryb. Bakterie obecne w Pro Bio S inicjują proces redukcji szkodliwych azotanów i fosforanów, które w efekcie zostają usunięte z wody przez odpieniacz białek. Pro Bio S tworzy naturalny filtr biologiczny utrudniając rozwój patogennej mikroflory. Stosowanie bakterii probiotycznych znacznie zmniejsza ryzyko wystąpienia chorób u mieszkańców akwarium i podnosi ich odporność na stres. Bakterie są także doskonałym źródłem bakterioplanktonu – najważniejszego pokarmu koralowców. W celu utrzymania bakterii probiotycznych w dobrej kondycji zalecamy stosowanie również -NP Pro jako pożywki. Na powierzchni produktu może formować się naturalny osad. Nie ma to żadnego wpływu na jakość i działanie produktu. DAWKOWANIE: 1 kropla na 100 l wody dziennie. Po otwarciu przechowywać w lodówce, jeżeli temperatura przekracza 24°C. Zalecamy używać w połączeniu z -NP Pro. Przed użyciem wstrząsnąć. BEZPIECZEŃSTWO: Nakrętek nie należy dokręcać zbyt mocno, może to skutkować pęknięciem lub uszkodzeniem opakowania. ROZMIARY: 10ml, 50ml.",
+    "domain": "seawater",
+    "category": "bacteria",
+    "intent": ["water_parameters", "maintenance", "filtration", "fish_health", "coral_care"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/metoda-probiotyczna/pro-bio-s/",
+    "tags": ["probiotyki", "bakterie", "azotany", "fosforany", "rozkład", "duże_zbiorники", "filtr_biologiczny", "bakterioplankton", "1_kropla", "100L", "-NP_Pro", "10ml", "50ml"],
+    "related_items": ["bio-s", "-np-pro", "pro-bio-f", "probiotic-reef-salt"],
+    "updated_at": "2025-05-29"
+}

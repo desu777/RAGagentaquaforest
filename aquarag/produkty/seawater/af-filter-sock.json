@@ -1,0 +1,16 @@
+{
+    "id": "af-filter-sock-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Filter Sock – skarpeta filtracyjna mechaniczna 200μm",
+    "query_text": "AF Filter Sock skarpeta filtracyjna mechaniczna 200 mikronów μm zanieczyszczenia zawiesiny pyły resztki jedzenia pokarmów oczyszczanie wody filtracja sump 30.5cm 10.5cm średnica zewnętrzna wewnętrzna 9.3cm średniej wielkości",
+    "full_content": "AF Filter Sock to skarpeta filtracyjna do mechanicznej filtracji średniej wielkości o rozmiarze 200 μm. DZIAŁANIE: Skutecznie wyłapuje zanieczyszczenia i oczyszcza wodę z wszelkiego rodzaju zawiesin, pyłów i resztek pokarmów, zapewnia mechaniczną filtrację wody w systemie sump. SPECYFIKACJA: Rozmiar filtracji 200 μm, długość 30,5 cm, średnica zewnętrzna 10,5 cm, średnica wewnętrzna 9,3 cm, średniej wielkości skarpeta filtracyjna. ZASTOSOWANIE: Montaż w systemie sump, efektywne usuwanie cząstek stałych z wody, regularna wymiana dla utrzymania optymalnej filtracji. KORZYŚCI: Poprawa klarowności wody, zmniejszenie obciążenia filtracji biologicznej, łatwy montaż i wymiana, skuteczne wychwytywanie drobnych zanieczyszczeń.",
+    "domain": "universal",
+    "category": "equipment",
+    "intent": ["mechanical_filtration", "maintenance", "water_clarity", "equipment_care"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/wyposazenie-akwarium/af-filter-sock/",
+    "tags": ["skarpeta_filtracyjna", "200μm", "filtracja_mechaniczna", "sump", "30.5cm", "zawiesiny", "pyły", "wymiana"],
+    "related_items": ["af-filter-floss", "af-carbon", "mechanical-filter-media"],
+    "updated_at": "2025-05-28"
+  }

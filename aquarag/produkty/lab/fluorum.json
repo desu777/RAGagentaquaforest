@@ -1,0 +1,16 @@
+{
+    "id": "lab-fluorum-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Fluorum – skoncentrowany suplement fluoru dla niebieskiego wybarwienia",
+    "query_text": "Fluorum suplement mikroelement fluor niebieskie białe zabarwienie koralowce SPS fluorescencja kalcyfikacja szkielety fluorek sodu wapnia 10ml 0.1mg/l 100L 1.2-1.4 mg/l ppm 0.3ml dziennie odpieniacz media filtracyjne",
+    "full_content": "Fluorum to skoncentrowany suplement fluoru. Skutecznie wzmacnia niebieskie i białe zabarwienie koralowców SPS, a także podkreśla ich fluorescencję. Suplement zawierający wysoko skoncentrowany fluor. Fluor jest jednym z głównych mikroelementów zawartych w wodzie morskiej. W zamkniętym systemie akwariowym odpieniacz i media filtracyjne usuwają z wody pokłady fluoru, dlatego konieczna jest jego suplementacja. Fluor uczestniczy w procesie kalcyfikacji oraz wspomaga budowę tkanki szkieletowej. Fluorek sodu i fluorek wapnia są budulcami szkieletów koralowców, dlatego suplementacja fluoru jest w akwarium rafowym konieczna. Dzięki zrównoważonej suplementacji fluoru można skutecznie wzmocnić niebieskie i białe wybarwienie koralowców SPS, a także podkreślić fluorescencję większości koralowców. DOZOWANIE: 10 ml produktu podnosi poziom fluoru o 0.1 mg/l (ppm) w 100 litrach wody. Zalecany poziom fluoru w wodzie akwariowej to 1.2-1.4 mg/l (ppm). Zalecana dawka: 0.3 ml/100 l wody dziennie. Maksymalna bezpieczna dawka dzienna wynosi 10 ml na 100 litrów wody. Jeżeli wymagana jest większa dawka, rozbij ją na kilka dni. Rozmiar: 1000 ml.",
+    "domain": "lab",
+    "category": "trace_elements",
+    "intent": ["coral_coloration", "sps_coral_care", "fluorescence_enhancement", "calcification_support", "trace_supplementation"],
+    "difficulty": "advanced",
+    "url": "https://aquaforest.eu/pl/produkty/lab/mikroelementy/fluorum/",
+    "tags": ["Fluorum", "mikroelement", "fluor", "niebieskie_białe_wybarwienie", "SPS", "fluorescencja", "kalcyfikacja", "fluorek_sodu", "fluorek_wapnia", "10ml_0.1mg/l", "1.2-1.4_mg/l", "0.3ml_dziennie", "10ml_maksymalnie", "1000ml", "szkielety"],
+    "related_items": ["ferrum", "borium", "bromium", "component-123", "components-pro", "af-vitality"],
+    "updated_at": "2025-05-29"
+}

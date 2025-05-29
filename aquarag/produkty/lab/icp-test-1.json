@@ -1,0 +1,16 @@
+{
+    "id": "lab-icp-test-1-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "ICP Test 1 – precyzyjny test wody morskiej do analizy 39 parametrów",
+    "query_text": "ICP Test 1 precyzyjny test woda morska RO analiza parametrów fiolka testowa kod laboratorium ICP-OES spektrometr 39 parametrów Li Si I Ba Mo Ni Mn Cr Co Fe Zn Ca Mg K Br B Sr PO4 zasolenie KH NO3 aquaforestlab.com",
+    "full_content": "ICP Test 1 to precyzyjny test wody morskiej do dokładnej analizy parametrów. Zawiera 1 fiolkę testową i kod testowy. Testy ICP-OES zostały stworzone w celu dokładnej analizy parametrów wody morskiej i wody RO. Zestaw zawiera 1 fiolkę testową, indywidualny kod oraz kopertę przeznaczoną do wysyłki testu do naszego laboratorium. Test ICP-OES dostarcza dokładnych wyników analizy 39 parametrów. W naszym laboratorium badamy: Li, Si, I, Ba, Mo, Ni, Mn, Be, Cr, Co, Fe, V, Zn, Hg, Se, Cd, Sn, Sb, As, Al, Pb, Ti, Cu, La, Sc, W, Na, Ca, Mg, K, Br, B, Sr, S, P, PO4 + zasolenie, KH i NO3. ICP-OES (Inductively Coupled Plasma Optical Emission Spectrometry) to technika wykorzystywana do analizy składu próbek ciekłych. Posiadany spektrometr ICP-OES to najwyższej rozdzielczości spektrometr na rynku z unikalnym systemem optycznym. Zakres długości fal 130-770 nm. Analiza całego widma spektralnego w 2 sekundy. Możliwa analiza pierwiastków z częstotliwością próbkowania do 10Hz. Aquaforest Lab posiada dwa wysoko zaawansowane spektrometry, co oznacza szybsze testy i niemal natychmiastowe wyniki. SPOSÓB UŻYCIA: 1. Przed pobraniem próbki dwukrotnie przepłukać fiolkę wodą do analizy. Napełnić i szczelnie zamknąć. 2. Zarejestrować się na www.aquaforestlab.com i użyć kodu fiolki do rejestracji próbki. 3. Wypełnić dane nadawcy na kopercie i wysłać próbkę do laboratorium. 4. Powiadomienie e-mailem gdy wyniki będą dostępne. Zalogować się na www.aquaforestlab.com po raporty. Rozmiar: 1 szt.",
+    "domain": "lab",
+    "category": "testing",
+    "intent": ["water_testing", "laboratory_analysis", "parameter_monitoring", "troubleshooting", "precision_measurement"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/produkty/lab/testy-icp/icp-test-1/",
+    "tags": ["ICP_Test_1", "test_ICP-OES", "39_parametrów", "fiolka_testowa", "spektrometr", "aquaforestlab.com", "Li_Si_I_Ba_Mo", "Ca_Mg_K_PO4", "zasolenie_KH_NO3", "2_sekundy_analiza", "10Hz_próbkowanie", "najwyższa_rozdzielczość", "1szt"],
+    "related_items": ["icp-test-3", "icp-test-5", "test-pro", "reef-salt", "components-pro"],
+    "updated_at": "2025-05-29"
+}

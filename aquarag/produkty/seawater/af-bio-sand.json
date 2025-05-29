@@ -1,0 +1,16 @@
+{
+    "id": "af-bio-sand-001",
+    "content_type": "product", 
+    "lang": "pl",
+    "title": "AF Bio Sand – naturalny piasek z bakteriami nitryfikacyjnymi",
+    "query_text": "AF Bio Sand piasek naturalny biały podłoże akwarium cykl azotowy dojrzewanie bakterie nitryfikacyjne startup nowe akwarium węglan wapnia stabilizacja pH 0.5-1.5mm 1-2mm granulacja zamknięcie cyklu eliminacja amoniak azotyny NH3 NH4 NO2 RODI płukanie 24 godziny temperatura 25-28°C aquascaping substrate sand cycling",
+    "full_content": "AF Bio Sand to naturalny biały piasek pochodzący z najwyższej jakości złóż, wolny od zanieczyszczeń. Zawiera węglan wapnia stabilizujący odczyn wody oraz dołączone butelki z wyizolowanymi laboratoryjnie szczepami bakterii nitryfikacyjnych i pożywką ułatwiającą ich rozwój. DZIAŁANIE: Znacznie przyspiesza proces dojrzewania akwarium i pozwala na szybsze zasiedlenie, gwarantuje zamknięcie cyklu azotowego i eliminację szkodliwych związków chemicznych z wody szybciej niż tradycyjne podłoża, stabilizuje odczyn wody dzięki węglanowi wapnia. ZASTOSOWANIE: Idealny do nowych akwariów jako podstawowe podłoże, doskonały do uzupełnienia podłoża w funkcjonujących zbiornikach, łatwy sposób użycia pozwala na błyskawiczne przygotowanie. GRANULACJA: Dostępny w dwóch rozmiarach 0.5-1.5mm i 1-2mm, opakowania po 7.5kg. INSTRUKCJA: Wypłukać piasek w wodzie RODI przed użyciem aby uniknąć zmętnienia, do 3L zasolonej wody wlać zawartość obu buteleczek i dokładnie wymieszać, dodać do worka z piaskiem i odstawić na 24 godziny bez zamykania worka, optymalna temperatura dojrzewania 25-28°C, nie przechowywać w chłodnych miejscach, po 24h piasek gotowy do użycia, dodawać stopniowo do zbiornika małe ilości dzień po dniu, monitorować parametry. KORZYŚCI: Niezwykle szerokie zastosowanie, bezpieczny dla akwarium, naturalny skład, zawiera gotowe bakterie i pożywkę.",
+    "domain": "seawater",
+    "category": "aquascaping",
+    "intent": ["startup", "aquascaping", "maintenance", "water_parameters"],
+    "difficulty": "beginner", 
+    "url": "https://aquaforest.eu/pl/produkty/seawater/aquascaping/af-bio-sand/",
+    "tags": ["piasek", "podłoże", "bakterie", "cykl_azotowy", "startup", "dojrzewanie", "węglan_wapnia", "granulacja", "0.5-1.5mm", "1-2mm", "Bio_Sand"],
+    "related_items": ["bio-s", "af-test-nh3", "af-test-no2", "af-test-no3", "hybrid-pro-salt"],
+    "updated_at": "2025-05-28"
+  }

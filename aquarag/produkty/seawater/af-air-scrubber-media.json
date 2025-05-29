@@ -1,0 +1,16 @@
+{
+    "id": "af-air-scrubber-media-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Air Scrubber Media – medium pochłaniające CO2",
+    "query_text": "AF Air Scrubber Media medium filtracyjne CO2 dwutlenek węgla pH podnoszenie stabilizacja pellet biały fioletowy wymiana absorpcja kalcyfikacja koralowce fotosynteza jesień zima odpieniacz dKH wahania",
+    "full_content": "AF Air Scrubber Media to medium filtracyjne w formie białych pelletów do pochłaniania CO2 i stabilizacji pH w akwarium rafowym. Zapobiega szkodliwym wahaniom parametrów spowodowanym niskim pH wody. DZIAŁANIE: Podnosi pH o 0.2-0.4 stopnia do zakresu 8.0-8.4, stabilizuje pH w dzień i w nocy, wspomaga kalcyfikację koralowców, redukuje wpływ codziennych wahań CO2 w powietrzu domowym. UŻYTKOWANIE: Szczelnie wypełnia komorę filtra przy zachowaniu przepływu powietrza, zmienia kolor na fioletowy przy absorpcji CO2, wskaźnik zużycia ułatwia wymianę, zalecana wymiana przed całkowitą zmianą koloru. KOMPATYBILNOŚĆ: Dedykowane do AF Air Scrubber, można łączyć z węglem aktywnym Carbon, jednorazowe użycie bez możliwości regeneracji. BEZPIECZEŃSTWO: Całkowicie bezpieczne dla ryb i koralowców, przechowywać w suchym chłodnym miejscu, rękawiczki przy wymianie, dobra wentylacja. POMIARY: pH o stałej porze ze względu na dobowe wahania.",
+    "domain": "seawater",
+    "category": "media",
+    "intent": ["water_parameters", "maintenance", "replacement"],
+    "difficulty": "beginner",
+    "url":"https://aquaforest.eu/pl/produkty/seawater/parametry-wody/af-air-scrubber-media/",
+    "tags": ["pH", "CO2", "medium", "pellet", "fioletowy", "absorpcja", "Air_Scrubber", "kalcyfikacja", "wymiana", "filtry"],
+    "related_items": ["af-air-scrubber", "af-air-scrubber-hose", "af-test-ph"],
+    "updated_at": "2025-05-28"
+  }

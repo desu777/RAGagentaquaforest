@@ -1,0 +1,16 @@
+{
+    "id": "fish-v-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "Fish V – multiwitaminowy suplement dla ryb ozdobnych",
+    "query_text": "Fish V multiwitaminowy pokarm suplement ryby ozdobne słodkowodne morskie odporność stres witaminy B C K E gojenie ran regeneracja krzepnięcie krwi mrożonka 1 kropla kostkę 10ml 50ml",
+    "full_content": "Fish V to multiwitaminowy pokarm uzupełniający stworzony z myślą o wszystkich rybach ozdobnych, zarówno słodkowodnych jak i morskich. Jego unikalna kompozycja została zaprojektowana w celu wzmocnienia odporności ryb akwariowych, zapewniając im kompleksową pielęgnację. DZIAŁANIE: Opierając się na witaminach z grupy B, Fish V wpływa pozytywnie na witalność ryb, zwiększa odporność na stres oraz reguluje funkcjonowanie układu nerwowego. Witaminy z grupy B odgrywają istotną rolę w zapobieganiu ubytkom skóry, łusek i regulacji funkcji błon śluzowych, co przekłada się na ogólną kondycję ryb. Zawiera witaminę C, która przyspiesza proces gojenia się ran i regenerację organizmu ryb, co jest kluczowe w przypadku wszelkich urazów czy drobnych uszkodzeń. Witamina K, z kolei, polecana jest szczególnie w okresie rekonwalescencji po chorobach, odpowiadając za prawidłowe krzepnięcie krwi. Fish V wzbogacony jest także o witaminę E, która ma pozytywny wpływ na ściany naczyń krwionośnych. Produkt ten rekomendowany jest do stosowania z mrożonymi pokarmami, które często nie dostarczają wystarczającej ilości niezbędnych witamin. Fish V stanowi doskonałe uzupełnienie diety ryb, dbając nie tylko o ich zdrowie ogólne, ale także o ich kondycję w sytuacjach stresowych. Wyjątkowa kompozycja pozytywnie wpływa na smak oraz zwiększa łaknienie ryb. CECHY: Pokarm uzupełniający przeznaczony dla wszystkich ryb ozdobnych (zarówno morskich, jak i słodkowodnych), unikalna multiwitaminowa kompozycja wzmacnia odporność ryb akwariowych, poprawia witalność ryb, podnosi odporność na stres i reguluje funkcjonowanie układu nerwowego, zapobiega ubytkom naskórka i łusek, regulują funkcjonowanie błon śluzowych, przyspiesza gojenie się ran i regenerację organizmu, polecany szczególnie w okresie rekonwalescencji, wzmacnia ściany naczyń krwionośnych, idealne uzupełnienie diety przy stosowaniu mrożonych pokarmów. DAWKOWANIE: 1 kropla na kostkę mrożonki. Po otwarciu przechowywać w lodówce, jeśli temperatura przekracza 24°C. ROZMIARY: 10ml, 50ml.",
+    "domain": "universal",
+    "category": "supplements",
+    "intent": ["fish_care", "health", "nutrition", "immunity"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/pokarmy-i-suplementacja/fish-v/",  
+    "tags": ["multiwitaminowy", "witaminy_B", "witamina_C", "witamina_K", "witamina_E", "odporność", "stres", "1_kropla", "mrożonka", "uniwersalny", "10ml", "50ml"],
+    "related_items": ["af-vitality", "af-algae-feed", "af-color-up", "anthias-pro-feed"],
+    "updated_at": "2025-05-29"
+}

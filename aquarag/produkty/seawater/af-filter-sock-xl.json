@@ -1,0 +1,17 @@
+{
+    "id": "af-filter-sock-xl-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Filter Sock XL – duża skarpeta filtracyjna mechaniczna 200μm",
+    "query_text": "AF Filter Sock XL duża skarpeta filtracyjna mechaniczna 200 mikronów μm zanieczyszczenia zawiesiny pyły resztki jedzenia pokarmów oczyszczanie wody filtracja sump 31.5cm długość 18.3cm średnica zewnętrzna wewnętrzna 16.3cm większa XL",
+    "full_content": "AF Filter Sock XL to duża skarpeta filtracyjna do mechanicznej filtracji o rozmiarze 200 μm. DZIAŁANIE: Skutecznie wyłapuje zanieczyszczenia i oczyszcza wodę z wszelkiego rodzaju zawiesin, pyłów i resztek pokarmów, zapewnia mechaniczną filtrację wody w systemie sump, większa pojemność niż standardowa wersja. SPECYFIKACJA: Rozmiar filtracji 200 μm, długość 31,5 cm, średnica zewnętrzna 18,3 cm, średnica wewnętrzna 16,3 cm, duża skarpeta filtracyjna XL. ZASTOSOWANIE: Montaż w systemie sump o większych przepływach, efektywne usuwanie cząstek stałych z wody, regularna wymiana dla utrzymania optymalnej filtracji, idealna do większych akwariów. KORZYŚCI: Większa pojemność filtracyjna, poprawa klarowności wody, zmniejszenie obciążenia filtracji biologicznej, łatwy montaż i wymiana, skuteczne wychwytywanie drobnych zanieczyszczeń.",
+    "domain": "universal",
+    "category": "equipment",
+    "intent": ["mechanical_filtration", "maintenance", "water_clarity", "equipment_care"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/wyposazenie-akwarium/af-filter-sock-xl/",
+    "tags": ["skarpeta_filtracyjna", "XL", "200μm", "filtracja_mechaniczna", "sump", "31.5cm", "18.3cm", "duża", "większa_pojemność"],
+    "related_items": ["af-filter-sock", "af-filter-floss", "af-carbon"],
+    "updated_at": "2025-05-28"
+  }
+  

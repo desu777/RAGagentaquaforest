@@ -1,0 +1,16 @@
+{
+    "id": "af-phyto-mix-001",
+    "content_type": "product",
+    "lang": "pl",
+    "title": "AF Phyto Mix – mieszanka fitoplanktonu dla koralowców miękkich",
+    "query_text": "AF Phyto Mix fitoplankton zooplankton koralowce miękkie gorgonie niefotosyntezujące płynny pokarm białka tłuszcze węglowodany skorupiaki Anthiasy LPS 10 kropli 100L co drugi dzień 250ml lodówka wybarwienie wzrost",
+    "full_content": "AF Phyto Mix to płynny pokarm dedykowany głównie dla koralowców miękkich, gorgonii oraz niefotosyntezujących. SKŁAD: Doskonała równowaga pomiędzy zawartością fitoplanktonu i zooplanktonu, dostarcza wszystkich niezbędnych składników odżywczych takich jak białka, tłuszcze i węglowodany, zawiera najwyższej jakości dodatki pochodzenia zwierzęcego, uzupełniony o dodatek bogatych w wysoko przyswajalne białko skorupiaków. KORZYŚCI: Zapewnia koralowcom dietę zaspokajającą wszystkie potrzeby żywieniowe, chętnie jedzony przez małe ryby takie jak Anthiasy, może być wyłapywany z wody przez koralowce LPS, gwarantuje zdrowy i intensywny wzrost oraz doskonałe wybarwienie. SPECYFIKACJA: Opakowanie 250ml, płynna konsystencja. DAWKOWANIE: 10 kropli na 100L wody co drugi dzień przy średniej obsadzie koralowców, nie rozcieńczać, nie mieszać z innymi produktami, rozpocząć od połowy dawki i obserwować reakcję koralowców. KARMIENIE: Zoanthusy, Ricordee i grzybowieńce karmić w dzień, koralowce SPS i LPS karmić nocą przy zgaszonym świetle, wyłączyć odpieniacz na około godzinę podczas karmienia. PRZECHOWYWANIE: Po otwarciu w lodówce, w chłodnym miejscu z dala od światła, nakrętek nie dokręcać zbyt mocno.",
+    "domain": "seawater",
+    "category": "feeds",
+    "intent": ["feeding", "nutrition", "coral_care", "growth", "color_enhancement"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/produkty/seawater/pokarmy-i-suplementacja/af-phyto-mix/",
+    "tags": ["pokarm", "płynny", "fitoplankton", "koralowce_miękkie", "gorgonie", "niefotosyntezujące", "10_kropli", "250ml", "lodówka", "Anthiasy"],
+    "related_items": ["af-liquid-rotifers", "af-amino-mix", "af-vitality", "af-energy"],
+    "updated_at": "2025-05-28"
+}

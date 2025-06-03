@@ -1,0 +1,28 @@
+Cześć! Super, widzę że mamy świetny unified schema dla AquaRAG. Przeanalizowałem dokument i zgadzam się z Twoją intuicją.
+Oto moje kryteria decyzyjne dla knowledge base treści:
+🔵 JEDEN JSON gdy:
+
+Sekwencyjny tutorial (np. "Jak uruchomić akwarium morskie krok po krok")
+Spójny temat wymagający pełnego kontekstu
+Powiązane instrukcje gdzie części są od siebie zależne
+Kompletny przewodnik na jeden konkretny temat
+
+🔴 PODZIELIĆ gdy:
+
+Wielotematyczny artykuł (np. "Parametry wody + oświetlenie + filtracja")
+Niezależne sekcje które mogą być przydatne osobno
+Różne difficulty levels w jednym tekście
+Różne intents (troubleshooting + education + maintenance)
+
+🎯 Praktyczne wskazówki:
+
+Jeśli sekcja ma >500 słów i może odpowiedzieć na konkretne pytanie = osobny JSON
+Jeśli użytkownik może szukać tylko jednej części = podzielić
+Jeśli różne sekcje mają różne keywords = podzielić
+
+Przykłady:
+
+✅ "Cykl azotowy w akwarium morskim" → JEDEN JSON
+❌ "Problemy w akwarium: glony + choroby ryb + parametry" → PODZIELIĆ na 3
+
+Gotowy na pierwszą treść! Prześlij mi content, a zadecyduję i od razu przygotuje odpowiednie JSON(y) według schematu 🚀

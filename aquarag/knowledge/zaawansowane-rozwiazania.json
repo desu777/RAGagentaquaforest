@@ -1,0 +1,16 @@
+{
+    "id": "zaawansowane-rozwiazania-af-clear-boost-003",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Zaawansowane rozwiązania dla czystej wody - lampa UV i AF Clear Boost",
+    "query_text": "AF Clear Boost lampa UV zielona woda zakwit pierwotniaków krystalicznie czysta woda parametry wody zwiększenie filtracji tymczasowe białe zmętnienie",
+    "full_content": "ZAAWANSOWANE ROZWIĄZANIA DLA CZYSTEJ WODY: Czasami pomimo dbania o akwarium nasze działania nie są wystarczające, a woda nadal pozostaje mętna. CO ROBIĆ GDY PODMIANY NIE WYSTARCZAJĄ: Pierwszym krokiem powinno być sprawdzenie parametrów wody. Pomocne może być również zwiększenie wydajności filtracji poprzez zwiększenie natężenia przepływu filtra akwariowego lub jego wymianę na bardziej wydajny. LAMPA UV: Jeśli zidentyfikujemy przyczynę zmętnienia wody jako zieloną wodę lub zakwit pierwotniaków, lampa UV może być bardzo skuteczna w zmniejszaniu tego rodzaju zanieczyszczeń wody. Należy jednak pamiętać, że działa ona na objawy, a nie na przyczynę, dlatego powinna być stosowana tylko jako rozwiązanie tymczasowe. AF CLEAR BOOST - INNOWACYJNE ROZWIĄZANIE: Doskonałym rozwiązaniem problemu zmętnienia wody jest AF Clear Boost. Ten nowoczesny i specjalistyczny produkt od Aquaforest dedykowany jest każdemu akwaryście, który chce szybko uzyskać krystalicznie czystą wodę w akwarium. To, co wyróżnia ten produkt, to w 100% bezpieczna dla ryb i roślin formuła, która nie wpływa na parametry wody. Działanie produktu polega na wiązaniu niewidocznych cząsteczek brudu w większe agregaty, co ułatwia ich odfiltrowanie. Bezpośrednio po zastosowaniu woda może tymczasowo przybrać biały odcień, ale po pewnym czasie efekt ten ustępuje, odsłaniając idealnie czystą wodę.",
+    "domain": "freshwater",
+    "category": "problems",
+    "intent": ["troubleshooting", "product_usage"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/jak-uzyskac-krystalicznie-czysta-wode-w-akwarium-slodkowodnym/",
+    "tags": ["AF_Clear_Boost", "lampa_UV", "zielona_woda", "zakwit_pierwotniaków", "białe_zmętnienie", "parametry_wody", "zwiększenie_filtracji", "bezpieczny"],
+    "related_items": ["podstawowe-metody-czysta-woda-akwarium-002", "przyczyny-zmetnienia-wody-akwarium-001", "water-clarifiers"],
+    "updated_at": "2025-06-02"
+  }

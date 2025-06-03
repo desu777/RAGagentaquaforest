@@ -1,0 +1,16 @@
+{
+    "id": "knowledge-pl-icp-oes-2-001", 
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "ICP OES 2 Seawater + RO - Porównawczy test wody akwariowej z wodą RO",
+    "query_text": "ICP OES 2 Seawater RO test wody porównawczy czerwona fiolka niebieska fiolka woda RO woda akwariowa dwukrotnie przepłukać analiza laboratoryjna aquaforest lab kod fiolki rejestracja aquaforest.eu/lab dane nadawcy koperta laboratorium email wyniki raporty parametry pierwiastki zanieczyszczenia",
+    "full_content": "ICP OES 2 SEAWATER + RO - INSTRUKCJA PORÓWNAWCZEGO TESTU WODY. KROK 1 - PRZYGOTOWANIE DWÓCH PRÓBEK: Użyj wody RO przeznaczonej do analizy, aby dwukrotnie przepłukać czerwoną fiolkę testową, przed pobraniem właściwej próbki. Przepłucz niebieską fiolkę testową dwa razy wodą akwariową przed pobraniem próbki. Napełnij fiolki i upewnij się, że są szczelnie zamknięte. KROK 2 - REJESTRACJA: Zarejestruj się i zaloguj na stronie aquaforest.eu/lab/. Użyj kodu fiolki, aby zarejestrować swoją próbkę. KROK 3 - WYSYŁKA: Wypełnij dane nadawcy znajdujące się na załączonej kopercie i wyślij próbkę do naszego laboratorium w celu analizy. KROK 4 - OTRZYMANIE WYNIKÓW: Powiadomimy Cię e-mailem, gdy wyniki będą dostępne. Zaloguj się na stronie aquaforest.eu/lab/, aby otrzymać raporty. ICP OES 2 pozwala na porównanie składu wody akwariowej z czystą wodą RO co umożliwia identyfikację zanieczyszczeń i ocenę jakości wody źródłowej.",
+    "domain": "seawater",
+    "category": "education", 
+    "intent": ["water_parameters", "testing", "laboratory", "maintenance", "troubleshooting"],
+    "difficulty": "advanced",
+    "url": "https://aquaforest.eu/pl/kalkulator/",
+    "tags": ["ICP_OES_2", "Seawater_RO", "test_porównawczy", "czerwona_fiolka", "niebieska_fiolka", "woda_RO", "woda_akwariowa", "laboratorium", "aquaforest_lab", "kod_fiolki", "rejestracja", "aquaforest.eu/lab", "analiza", "raporty", "wyniki", "zanieczyszczenia", "jakość_wody"],
+    "related_items": ["icp-oes-1", "aquaforest-lab", "woda-ro", "parametry-wody", "water-quality", "contamination-testing"],
+    "updated_at": "2025-06-03"
+  }

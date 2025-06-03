@@ -1,0 +1,16 @@
+{
+    "id": "stone-fix-krzemiany-problem-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Stone Fix uwalnia krzemiany - czy to problem i jak rozwiązać?",
+    "query_text": "Stone Fix krzemiany podwyższony poziom uwalnia materiały mineralne skały kleje piasek krzem woda podmiany Phosphate Minus rozwiązanie",
+    "full_content": "PYTANIE: Używam Stone Fix i zauważyłem podwyższony poziom krzemianów w wodzie. Po testach okazało się, że Stone Fix je uwalnia. Czy mam się martwić i jak to rozwiązać? ODPOWIEDŹ: Stone Fix a krzemiany – to zjawisko może występować, szczególnie w nowo zakładanych zbiornikach. Większość materiałów mineralnych, takich jak skały, kleje czy piasek, może uwalniać pewne ilości krzemu do wody, co skutkuje podwyższonym poziomem krzemianów. Nie jest to powód do niepokoju – jest to proces naturalny i zazwyczaj tymczasowy. Aby obniżyć poziom krzemianów, zalecamy regularne podmiany wody oraz zastosowanie Phosphate Minus – medium, które redukuje nie tylko fosforany, ale również krzemiany. ROZWIĄZANIE PROBLEMU: Zjawisko naturalne, szczególnie w nowych zbiornikach. Materiały mineralne mogą uwalniać krzem do wody. Proces zazwyczaj tymczasowy, nie ma powodu do niepokoju. Regularne podmiany wody obniżą poziom krzemianów. Phosphate Minus redukuje krzemiany oprócz fosforanów.",
+    "domain": "seawater",
+    "category": "problems",
+    "intent": ["troubleshooting", "water_parameters"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/uzywam-stone-fix-i-zauwazylem-podwyzszony-poziom-krzemianow-w-wodzie-po-testach-okazalo-sie-ze-stone-fix-je-uwalnia-czy-mam-sie-martwic-i-jak-to-rozwiazac/",
+    "tags": ["Stone_Fix", "krzemiany", "krzem", "materiały_mineralne", "podwyższony_poziom", "Phosphate_Minus", "podmiany_wody", "nowe_zbiorniki"],
+    "related_items": ["carbon-1000ml-waga-001", "phosphate-minus-spadek-parametrow-001", "water-changes", "aquascaping"],
+    "updated_at": "2025-06-02"
+  }

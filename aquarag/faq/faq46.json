@@ -1,0 +1,17 @@
+{
+    "id": "knowledge-pl-component-123-zamarzniety-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Component 1+2+3+ zamrożony - czy bezpieczne użycie po rozmrożeniu?",
+    "query_text": "Component 1+2+3+ zamrożony rozmrożenie bezpiecznie używać sole nieorganiczne niskie temperatury osady strącenia zmiany fizyczne jakość preparat skuteczność stabilność AF Aquaforest",
+    "full_content": "PYTANIE: Otrzymałem Component 1+2+3+, który był zamrożony. Czy mogę go bezpiecznie używać po rozmrożeniu?\n\nODPOWIEDŹ: Component 1+2+3+ zawiera sole nieorganiczne, które zazwyczaj są odporne na działanie niskich temperatur – dlatego sam proces zamrożenia nie powinien wpłynąć negatywnie na ich właściwości. Po rozmrożeniu zaleca się dokładną ocenę produktu pod kątem ewentualnych zmian fizycznych, takich jak pojawienie się osadów lub strąceń, które wcześniej nie występowały. Obecność takich zmian może świadczyć o pogorszeniu jakości preparatu. Dla zachowania pełnej skuteczności i stabilności, zaleca się unikanie zamrażania tego typu produktów.",
+    "domain": "seawater",
+    "category": "equipment",
+    "intent": ["product_info", "troubleshooting"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/otrzymalem-component-123-ktory-byl-zamrozony-czy-moge-go-bezpiecznie-uzywac-po-rozmrozeniu/",
+    "tags": ["Component_123", "zamrożenie", "rozmrożenie", "sole_nieorganiczne", "osady", "strącenia", "zmiany_fizyczne", "jakość", "skuteczność", "stabilność", "AF"],
+    "related_items": ["af-component-1-2-3", "knowledge-component-strong-zamarzniety", "knowledge-przechowywanie-produktow"],
+    "updated_at": "2025-06-02"
+  }
+  

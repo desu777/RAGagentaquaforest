@@ -1,0 +1,16 @@
+{
+    "id": "knowledge-pl-component-c-icp-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Component C a korekta jodu i fluoru po analizie ICP",
+    "query_text": "Component C ICP analiza jod fluor korekta poziom pierwiastki śladowe Iodum Fluorum linia Lab precyzyjne uzupełnianie dawkowanie AF Aquaforest",
+    "full_content": "PYTANIE: Czy mogę użyć Component C do wyrównania poziomu jodu (I) i fluoru (F) po analizie ICP? ODPOWIEDŹ: Nie, Component C nie jest przeznaczony do korekty poziomu tych pierwiastków po analizie ICP. W celu precyzyjnego uzupełniania jodu i fluoru zalecamy użycie dedykowanych produktów z linii Lab, takich jak Iodum i Fluorum. Pozwalają one dokładnie dobrać dawkę i podnieść poziom konkretnych pierwiastków do oczekiwanej wartości.",
+    "domain": "seawater",
+    "category": "equipment",
+    "intent": ["product_info", "troubleshooting"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/czy-moge-uzyc-component-c-do-wyrownania-poziomu-jodu-i-i-fluoru-f-po-analizie-icp/",
+    "tags": ["Component_C", "ICP", "analiza", "jod", "fluor", "korekta", "Iodum", "Fluorum", "linia_Lab", "pierwiastki_śladowe", "precyzyjne_dawkowanie", "AF"],
+    "related_items": ["af-component-c", "af-iodum", "af-fluorum", "knowledge-analiza-icp", "af-components-strong"],
+    "updated_at": "2025-06-02"
+  }

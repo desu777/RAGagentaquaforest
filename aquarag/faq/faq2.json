@@ -1,0 +1,17 @@
+{
+    "id": "faq-pl-003",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Czy wyłączać odpieniacz podczas dozowania? Kiedy dozować? Objawy przedawkowania?",
+    "query_text": "odpieniacz dozowanie wyłączać skimmer kiedy dozować światła włączone wyłączone przedawkowanie objawy nalot szyby piasek skały produkty biologiczne pora dozowania",
+    "full_content": "PYTANIE: Czy powinienem wyłączyć odpieniacz podczas dozowania? Jeśli tak, to jak długo? Czy ma znaczenie, czy światła są włączone, czy wyłączone? Jeśli tak, kiedy powinienem to dawkować? Jakie są objawy przedawkowania? ODPOWIEDŹ: Odpieniacz nie musi być wyłączony podczas dozowania. Nie ma znaczenia pora podawania produktu. Jak każdy produkt biologiczny oznakami przedawkowania jest nalot na szybach lub piasku oraz skałach.",
+    "domain": "seawater",
+    "category": "maintenance",
+    "intent": ["maintenance", "troubleshooting"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/czy-powinienem-wylaczyc-maszyne-do-golenia-gdy-robie-to-przez-jak-dlugi-czas/",
+    "tags": ["odpieniacz", "skimmer", "dozowanie", "produkty_biologiczne", "przedawkowanie", "nalot", "procedury"],
+    "related_items": ["odpieniacz", "dozowanie-preparatów", "produkty-biologiczne", "maintenance-akwarium"],
+    "updated_at": "2025-06-02"
+  }
+  

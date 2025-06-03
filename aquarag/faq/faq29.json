@@ -1,0 +1,16 @@
+{
+    "id": "phosphate-minus-spadek-parametrow-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Phosphate Minus - wpływ na spadek KH, magnezu i wapnia",
+    "query_text": "Phosphate Minus spadek KH magnez wapń materiał filtracyjny fosforany twardość węglanowa parametry kontrola suplementy stabilność",
+    "full_content": "PYTANIE: Używam Phosphate Minus. Po wymianie materiału filtracyjnego zauważam spadek KH, magnezu i wapnia. Czy medium może to powodować? Dlaczego? ODPOWIEDŹ: Tak, Phosphate Minus a spadek KH to znane zjawisko. Jako medium filtracyjne, Phosphate Minus skutecznie pochłania fosforany, ale jego stosowanie może mieć niewielki wpływ na poziom KH (twardości węglanowej). Na poziom magnezu i wapnia nie powinien mieć bezpośredniego wpływu – ich spadki mogą wynikać z innych czynników, takich jak zużycie biologiczne lub różnice w pomiarze. Regularna kontrola parametrów i odpowiednie dozowanie suplementów pozwolą utrzymać stabilność. KLUCZOWE INFORMACJE: Phosphate Minus może powodować spadek KH - to znane zjawisko. Nie ma bezpośredniego wpływu na magnez i wapń. Spadki Mg i Ca mogą wynikać z zużycia biologicznego. Ważna jest regularna kontrola parametrów wody. Odpowiednie dozowanie suplementów utrzymuje stabilność.",
+    "domain": "seawater",
+    "category": "parameters",
+    "intent": ["troubleshooting", "water_parameters", "maintenance"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/uzywam-phosphate-minus-po-wymianie-materialu-filtracyjnego-zauwazam-spadek-kh-magnezu-i-wapnia-czy-medium-moze-to-powodowac-dlaczego/",
+    "tags": ["Phosphate_Minus", "KH", "magnez", "wapń", "fosforany", "materiał_filtracyjny", "parametry_wody", "twardość_węglanowa", "suplementy"],
+    "related_items": ["np-pro-pro-bio-s-mieszanie-001", "phosphate-control", "water-parameters", "trace-elements"],
+    "updated_at": "2025-06-02"
+  }

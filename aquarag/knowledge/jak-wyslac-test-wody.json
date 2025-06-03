@@ -1,0 +1,16 @@
+{
+    "id": "knowledge-pl-icp-oes-1-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "ICP OES 1 - Jak wysłać test wody akwariowej do badania laboratoryjnego",
+    "query_text": "ICP OES 1 test wody akwarium badanie laboratoryjne aquaforest lab fiolka testowa przepłukać próbka woda kод fiolki rejestracja aquaforest.eu/lab wypełnić dane nadawcy koperta wyślij laboratorium powiadomienie email wyniki raporty analiza parametrów pierwiastki",
+    "full_content": "ICP OES 1 - INSTRUKCJA WYSYŁANIA TESTU WODY DO BADANIA. KROK 1 - PRZYGOTOWANIE PRÓBKI: Przepłucz fiolkę testową dwa razy wodą przeznaczoną do analizy przed pobraniem właściwej próbki. Napełnij fiolkę wodą i upewnij się, że szczelnie ją zamkniesz. KROK 2 - REJESTRACJA: Zarejestruj się i zaloguj na stronie aquaforest.eu/lab/. Użyj kodu fiolki, aby zarejestrować swoją próbkę. KROK 3 - WYSYŁKA: Wypełnij dane nadawcy znajdujące się na załączonej kopercie i wyślij próbkę do naszego laboratorium w celu analizy. KROK 4 - OTRZYMANIE WYNIKÓW: Powiadomimy Cię e-mailem, gdy wyniki będą dostępne. Zaloguj się na stronie aquaforest.eu/lab/, aby otrzymać raporty. ICP OES 1 to test podstawowy wody akwariowej analizujący kompletny skład chemiczny w tym makroelementy i mikroelementy dla pełnej diagnostyki parametrów.",
+    "domain": "universal",
+    "category": "education",
+    "intent": ["water_parameters", "testing", "laboratory", "maintenance"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/kalkulator/",
+    "tags": ["ICP_OES_1", "test_wody", "laboratorium", "aquaforest_lab", "fiolka_testowa", "kod_fiolki", "rejestracja", "aquaforest.eu/lab", "próbka", "analiza", "raporty", "wyniki", "email", "parametry_wody", "badanie"],
+    "related_items": ["icp-oes-2", "aquaforest-lab", "parametry-wody", "af-test-kits", "water-analysis"],
+    "updated_at": "2025-06-03"
+  }

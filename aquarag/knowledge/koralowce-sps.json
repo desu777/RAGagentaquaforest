@@ -1,0 +1,17 @@
+{
+    "id": "koralowce-sps-charakterystyka-wymagania-004",
+    "content_type": "knowledge",
+    "lang": "pl", 
+    "title": "Koralowce SPS - charakterystyka i zaawansowane wymagania",
+    "query_text": "koralowce SPS krótkopolipowe Acropora Montipora Stylophora silne oświetlenie stabilne parametry NO3 PO4 KH wapń magnez Balling",
+    "full_content": "KORALOWCE SPS (Small Polyp Stony Corals): Charakteryzują się małymi polipami i zazwyczaj gęstymi, nieregularnymi kształtami kolonii. Są bardziej wymagające w hodowli niż koralowce LPS, potrzebują silnego oświetlenia, stabilnych parametrów wody, niskiego poziomu nutrientów i umiarkowanego lub silnego prądu. Przedstawiciele tej grupy to: Acropora, Montipora, Stylophora. WYMAGANIA HODOWLANE: Woda - preferują czystą wodę, z niską zawartością NO3 i PO4. Stabilność parametrów wody jest kluczowa, zwłaszcza kluczowych parametrów takich jak KH, wapń oraz magnez. Oświetlenie - potrzebują silnego oświetlenia, aby wspierać fotosyntezę. Cyrkulacja - filtracja i częsta wymiana filtrów jest bardzo ważna. Umiarkowany do silnego prąd wody jest niezbędny dla ich zdrowia. Suplementacja - wymagana jest suplementacja wapnia, magnezu, oraz regulacja KH, aby wspierać ich wzrost. Niemalże obowiązkowe w hodowli koralowców SPS jest stosowanie metody Ballinga.",
+    "domain": "seawater",
+    "category": "education",
+    "intent": ["learning", "maintenance"],
+    "difficulty": "expert",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/rodzaje-koralowcow-w-akwarium-morskim-blog-o-akwarystyce-zasoby-aquaforest/",
+    "tags": ["SPS", "krótkopolipowe", "Acropora", "Montipora", "Stylophora", "silne_oświetlenie", "NO3", "PO4", "KH", "wapń", "magnez", "Balling"],
+    "related_items": ["koralowce-lps-charakterystyka-wymagania-003", "sps-corals", "balling-method"],
+    "updated_at": "2025-06-02"
+  }
+  

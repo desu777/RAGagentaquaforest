@@ -1,0 +1,16 @@
+{
+    "id": "knowledge-pl-af-build-wapń-ph-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "AF Build - nie podnosi wapnia, podnosi pH",
+    "query_text": "AF Build wapń poziom nie podnosi pH podnosi nie stosować do wapnia funkcja działanie",
+    "full_content": "CZY AF BUILD PODNOSI POZIOM WAPNIA? AF Build nie podnosi poziomu wapnia i nie powinien być stosowany do podnoszenia poziomu wapnia. AF Build podnosi pH.",
+    "domain": "seawater",
+    "category": "product_info",
+    "intent": ["product_info", "troubleshooting"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/czy-af-build-podnosi-poziom-wapnia/",
+    "tags": ["AF_Build", "wapń", "nie_podnosi", "pH", "podnosi", "funkcja", "działanie", "nie_stosować"],
+    "related_items": ["af-build", "knowledge-parametry-wody", "knowledge-suplementy-wapnia", "knowledge-regulacja-ph"],
+    "updated_at": "2025-06-02"
+  }

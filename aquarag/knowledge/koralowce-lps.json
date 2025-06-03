@@ -1,0 +1,16 @@
+{
+    "id": "koralowce-lps-charakterystyka-wymagania-003",
+    "content_type": "knowledge", 
+    "lang": "pl",
+    "title": "Koralowce LPS - charakterystyka i wymagania hodowlane",
+    "query_text": "koralowce LPS długopolipowe Euphylia Goniopora Caulastrea oświetlenie parametry wody pokarm dokarmianie Scolymia Acanthastrea",
+    "full_content": "KORALOWCE LPS (Large Polyp Stony): To grupa koralowców charakteryzująca się dużymi polipami i zazwyczaj nieregularnymi kształtami kolonii. Są mniej wymagające w hodowli niż koralowce SPS, potrzebują umiarkowanego oświetlenia i prądu. Ich tempo wzrostu jest umiarkowane, co pozwala na stopniowe kształtowanie kolonii w akwarium. Przedstawiciele tej grupy to np. Euphylia glabrescens, Goniopora, Euphyllia lub Caulastrea. WYMAGANIA HODOWLANE: Oświetlenie - wymagają średniego do silnego oświetlenia, aby prawidłowo rosnąć. Parametry wody - potrzebują czystej wody, a także stabilnych parametrów, takich jak pH, KH i zasolenie. Pokarm - wymagają regularnego dokarmiania, szczególnie gatunki takie jak Scolymia czy Acanthastrea. Koralowce LPS są bardziej wymagające niż koralowce miękkie ale mniej od SPS.",
+    "domain": "seawater",
+    "category": "education",
+    "intent": ["learning", "maintenance"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/rodzaje-koralowcow-w-akwarium-morskim-blog-o-akwarystyce-zasoby-aquaforest/",
+    "tags": ["LPS", "długopolipowe", "Euphylia", "Goniopora", "Caulastrea", "oświetlenie", "dokarmianie", "Scolymia", "Acanthastrea"],
+    "related_items": ["koralowce-miekkie-rodzaje-wymagania-002", "lps-corals", "coral-feeding"],
+    "updated_at": "2025-06-02"
+  }

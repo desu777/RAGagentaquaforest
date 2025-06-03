@@ -1,0 +1,18 @@
+
+{
+  "id": "knowledge-pl-abev-odpieniacz-001",
+  "content_type": "knowledge",
+  "lang": "pl",
+  "title": "ABEV a odpieniacz - czy wyłączyć podczas aplikacji suplementów?",
+  "query_text": "ABEV odpieniacz skimmer wyłączyć wyłączenie aplikacja podawanie suplementy składniki aktywne koralowce absorpcja filtracja godzina czas AF Aquaforest",
+  "full_content": "PYTANIE: Czy podczas stosowania suplementów ABEV należy wyłączyć odpieniacz? ODPOWIEDŹ: Tak, ABEV a odpieniacz to kwestia istotna przy podawaniu suplementów. Zalecamy wyłączenie odpieniacza na około godzinę po aplikacji ABEV. Pozwoli to koralowcom efektywniej zaabsorbować składniki aktywne, zanim zostaną one usunięte przez filtrację. Po tym czasie odpieniacz można bezpiecznie uruchomić ponownie.",
+  "domain": "seawater",
+  "category": "equipment",
+  "intent": ["maintenance", "product_info"],
+  "difficulty": "intermediate",
+  "url": "https://aquaforest.eu/pl/baza-wiedzy/czy-podczas-stosowania-suplementow-abev-nalezy-wylaczyc-odpieniacz/",
+  "tags": ["ABEV", "odpieniacz", "skimmer", "wyłączenie", "aplikacja", "suplementy", "składniki_aktywne", "koralowce", "absorpcja", "filtracja", "AF"],
+  "related_items": ["af-build", "af-vitality", "af-energy", "af-aminomix", "knowledge-odpieniacz", "knowledge-filtracja"],
+  "updated_at": "2025-06-02"
+}
+  

@@ -1,0 +1,16 @@
+{
+  "id": "knowledge-pl-component-strong-zamarzniety-001",
+  "content_type": "knowledge",
+  "lang": "pl",
+  "title": "Component Strong zamarzł w transporcie - czy można używać?",
+  "query_text": "Component Strong zamarzł zamrożenie transport niskie temperatury osad wytrącenie zmętnienie skoncentrowany wstrząsnąć parametry wody kontrola AF Aquaforest",
+  "full_content": "PYTANIE: Zamówione Component Strong zamarzły w czasie transportu. Czy mogę ich użyć? ODPOWIEDŹ: Tak, Component Strong po zamrożeniu może być nadal stosowany. Niskie temperatury mogą spowodować wytrącenie się osadu lub lekkie zmętnienie – nie jest to niebezpieczne. Skład może być minimalnie mniej skoncentrowany, dlatego przed użyciem dobrze wstrząśnij produkt i kontroluj parametry wody w akwarium.",
+  "domain": "seawater",
+  "category": "equipment",
+  "intent": ["product_info", "troubleshooting"],
+  "difficulty": "beginner",
+  "url": "https://aquaforest.eu/pl/baza-wiedzy/zamowione-component-strong-zamarzly-w-czasie-transportu-czy-moge-ich-uzyc/",
+  "tags": ["Component_Strong", "zamrożenie", "transport", "osad", "wytrącenie", "zmętnienie", "koncentracja", "wstrząsanie", "kontrola_parametrów", "AF"],
+  "related_items": ["af-component-1-2-3-strong", "knowledge-przechowywanie-produktow", "knowledge-parametry-wody"],
+  "updated_at": "2025-06-02"
+}

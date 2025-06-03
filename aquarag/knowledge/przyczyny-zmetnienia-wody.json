@@ -1,0 +1,16 @@
+{
+    "id": "przyczyny-zmetnienia-wody-akwarium-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Przyczyny zmętnienia wody w akwarium słodkowodnym",
+    "query_text": "zmętnienie wody przyczyny mikroorganizmy bakterie glony azotany fosforany NO3 PO4 cząstki organiczne niestabilne podłoże piasek żwir przekarmienie",
+    "full_content": "PRZYCZYNY ZMĘTNIENIA WODY W AKWARIUM: Zmętnienie lub odbarwienie wody w akwarium może mieć różne przyczyny, z których każda wymaga innych działań i rozwiązań. MIKROORGANIZMY: Zakwit bakterii jest zmorą akwarystów i może wystąpić w każdym akwarium. Powstaje w wyniku nadmiaru składników odżywczych obecnych w wodzie akwariowej. Niedoświadczony akwarysta może doprowadzić do takiego stanu poprzez dodanie zbyt dużej ilości bakterii startowych do nowego akwarium. Problem jednak zazwyczaj ustępuje po ustabilizowaniu się ekosystemu zbiornika. GLONY: Nieodpowiedni poziom składników odżywczych w akwarium, zwłaszcza azotanów NO3 i fosforanów PO4, może prowadzić do szybkiego wzrostu glonów. Niewłaściwe obchodzenie się z akwarium obejmuje: dozowanie nieodpowiednich ilości nawozów bez weryfikacji testami wody, zbyt duże zapełnienie akwarium, przekarmienie, nieefektywną filtrację. CZĄSTKI ORGANICZNE: Obejmują pływające cząstki pokarmu dla ryb, odpady i rozkładające się rośliny. Problem gromadzi się szczególnie w akwariach z niewydajną filtracją mechaniczną. NIESTABILNE PODŁOŻE: Częsty problem w akwariach z bardzo luźnym podłożem, takim jak drobny piasek lub żwir. W połączeniu z rybami zamieszkującymi dno podłoże jest często wzburzone, co powoduje mętnienie wody.",
+    "domain": "freshwater",
+    "category": "problems",
+    "intent": ["troubleshooting"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/jak-uzyskac-krystalicznie-czysta-wode-w-akwarium-slodkowodnym/",
+    "tags": ["zmętnienie_wody", "bakterie", "glony", "NO3", "PO4", "cząstki_organiczne", "podłoże", "piasek", "przekarmienie", "filtracja"],
+    "related_items": ["filtracja-mechaniczna-filtry-porowosc-003", "water-quality", "troubleshooting"],
+    "updated_at": "2025-06-02"
+  }

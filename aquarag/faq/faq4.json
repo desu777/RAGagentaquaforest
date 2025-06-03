@@ -1,0 +1,16 @@
+{
+    "id": "faq-pl-005",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Czy można stosować -NP Pro i Pro Bio S razem z NitraPhos Minus?",
+    "query_text": "-NP Pro Pro Bio S NitraPhos Minus razem łączyć kompatybilność produkty AF metoda probiotyczna azotany fosforany redukcja obserwacja akwarium",
+    "full_content": "PYTANIE: Czy mogę stosować -NP Pro i Pro Bio S razem z NitraPhos Minus? ODPOWIEDŹ: Pro Bio S i -NP Pro są szczególnie dedykowane dla Metody Probiotycznej Aquaforest. Jesteśmy świadomi tego, że nie wszyscy stosują pełną Metodę Probiotyczną, dlatego idąc za głosem naszych klientów, stworzyliśmy produkt, który będzie odpowiedni do wszystkich rodzajów akwariów. NitraPhos Minus został zaprojektowany w taki sposób, aby szybko redukować wysoki poziom azotanów i fosforanów. Możesz używać tych produktów razem, ale poziom azotanów i fosforanów zostanie drastycznie zredukowany, dlatego musisz uważnie obserwować swoje akwarium.",
+    "domain": "seawater",
+    "category": "maintenance",
+    "intent": ["maintenance", "product_info"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/czy-moge-uzywac-np-pro-i-pro-bio-s-razem-z-nitraphos-minus/",
+    "tags": ["-NP_Pro", "Pro_Bio_S", "NitraPhos_Minus", "metoda_probiotyczna", "kompatybilność", "azotany", "fosforany", "redukcja", "produkty_AF"],
+    "related_items": ["np-pro", "pro-bio-s", "nitraphos-minus", "metoda-probiotyczna", "azotany-fosforany"],
+    "updated_at": "2025-06-02"
+  }

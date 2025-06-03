@@ -1,0 +1,16 @@
+{
+    "id": "cotygodniowy-harmonogram-dawkowania-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Cotygodniowy harmonogram dawkowania produktów Aquaforest",
+    "query_text": "harmonogram dawkowania tygodniowy AF Amino Mix AF Vitality AF Energy AF Build AF Power Food Ricco Food AF Growth Boost AF Pure Food AF LPS Food przerwa",
+    "full_content": "COTYGODNIOWY HARMONOGRAM DAWKOWANIA AQUAFOREST: PONIEDZIAŁEK: AF Amino Mix, AF Vitality. WTOREK: AF Energy, AF Build, AF Power Food. ŚRODA: AF Amino Mix, AF Vitality, Ricco Food. CZWARTEK: AF Energy, AF Build, AF Growth Boost. PIĄTEK: AF Amino Mix, AF Vitality, AF Pure Food. SOBOTA: AF Energy, AF Build, AF LPS Food. NIEDZIELA: PRZERWA. ZASADY HARMONOGRAMU: Rotacja między produktami aminokwasowymi (AF Amino Mix, AF Vitality) a energetycznymi (AF Energy, AF Build). Różnorodne pokarmy w zależności od dnia. Jeden dzień przerwy w tygodniu dla regeneracji.",
+    "domain": "seawater",
+    "category": "parameters",
+    "intent": ["maintenance", "feeding", "product_usage"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/cotygodniowy-harmonogram-dawkowania/",
+    "tags": ["harmonogram", "dawkowania", "AF_Amino_Mix", "AF_Vitality", "AF_Energy", "AF_Build", "AF_Power_Food", "Ricco_Food", "AF_Growth_Boost", "AF_Pure_Food", "AF_LPS_Food", "tygodniowy", "przerwa"],
+    "related_items": ["af-growth-boost-dawkowanie-001", "af-power-elixir-czestotliwosc-dawkowania-001", "coral-feeding", "supplements-schedule"],
+    "updated_at": "2025-06-02"
+  }

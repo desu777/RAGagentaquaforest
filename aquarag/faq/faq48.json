@@ -1,0 +1,16 @@
+{
+    "id": "knowledge-pl-af-build-wapn-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "AF Build a poziom wapnia - wyjaśnienie zastosowania",
+    "query_text": "AF Build wapń calcium poziom podnoszenie zastosowanie pH suplement koralowce szkielet AF Aquaforest różnica",
+    "full_content": "PYTANIE: Czy AF Build podnosi poziom wapnia? ODPOWIEDŹ: AF Build nie podnosi poziomu wapnia i nie powinien być stosowany do podnoszenia poziomu wapnia. AF Build podnosi pH.",
+    "domain": "seawater",
+    "category": "equipment",
+    "intent": ["product_info"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/czy-af-build-podnosi-poziom-wapnia/",
+    "tags": ["AF_Build", "wapń", "calcium", "pH", "suplement", "zastosowanie", "koralowce", "różnica"],
+    "related_items": ["af-build", "af-calcium", "knowledge-wysokie-ph-akwarium", "af-components"],
+    "updated_at": "2025-06-02"
+  }

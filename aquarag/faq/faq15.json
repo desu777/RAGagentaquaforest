@@ -1,0 +1,16 @@
+{
+    "id": "knowledge-pl-016",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "AF Life Source - trwałość po otwarciu i warunki przechowywania",
+    "query_text": "AF Life Source trwałość po otwarciu 6 miesięcy przechowywanie szczelnie zamknięte opakowanie chłodne suche miejsce właściwości pogorszenie skuteczność działania termin ważności dozowanie",
+    "full_content": "AF LIFE SOURCE TRWAŁOŚĆ PO OTWARCIU: AF Life Source trwałość po otwarciu wynosi do 6 miesięcy, pod warunkiem że produkt jest przechowywany w szczelnie zamkniętym opakowaniu, w chłodnym i suchym miejscu. Po tym czasie jego właściwości mogą ulec pogorszeniu, dlatego zalecamy zużyć całość w ciągu pół roku od otwarcia, aby zapewnić pełną skuteczność działania.",
+    "domain": "universal",
+    "category": "products",
+    "intent": ["reference", "maintenance"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/ile-czasu-po-otwarciu-moge-dozowac-produkt-af-life-source/",
+    "tags": ["AF_Life_Source", "trwałość", "6_miesięcy", "przechowywanie", "szczelnie_zamknięte", "chłodne_miejsce", "suche_miejsce", "skuteczność", "termin_ważności", "dozowanie"],
+    "related_items": ["af-life-source", "przechowywanie-produktów", "produkty-aquaforest", "dozowanie-suplementów", "instrukcje-produktów"],
+    "updated_at": "2025-06-02"
+}

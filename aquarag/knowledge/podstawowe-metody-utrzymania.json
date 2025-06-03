@@ -1,0 +1,16 @@
+{
+    "id": "podstawowe-metody-czysta-woda-akwarium-002",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Podstawowe metody utrzymania krystalicznie czystej wody w akwarium",
+    "query_text": "czysta woda podmiany wody 30% filtracja mechaniczna biologiczna prawidłowe żywienie rośliny akwariowe tlen stabilność biologiczna",
+    "full_content": "PODSTAWOWE METODY UTRZYMANIA CZYSTEJ WODY: Istnieje kilka kluczowych elementów, które określają jakość wody w akwarium. Woda powinna być nie tylko czysta, ale także stabilna biologicznie, wolna od toksyn i nadmiaru zanieczyszczeń. REGULARNE PODMIANY WODY: Konserwacja akwarium to najlepszy sposób na utrzymanie akwarium w czystości. Za optymalną ilość wody wymienianej podczas podmiany uważa się 30% objętości zbiornika. Ilość ta zapewnia, że stabilność zbiornika nie jest zagrożona. WŁAŚCIWA FILTRACJA: Podczas dostosowywania filtracji należy wziąć pod uwagę wielkość akwarium i jego mieszkańców. Konieczne jest wyposażenie w odpowiednie media filtracyjne. Filtracja mechaniczna wychwytuje większe odpady ryb. Filtracja biologiczna sprzyja namnażaniu się pożytecznych bakterii nitryfikacyjnych odpowiedzialnych za stabilność biologiczną zbiornika. PRAWIDŁOWE ŻYWIENIE: Początkujący akwaryści mają tendencję do przekarmiania ryb. Resztki niezjedzonego pokarmu rozkładają się na małe cząsteczki, powodując zmętnienie wody. Optymalna ilość pokarmu to taka, którą ryby są w stanie zjeść w ciągu kilku minut. ROŚLINY: Rośliny są sprzymierzeńcami w walce z mętnieniem wody i rozwojem glonów. Wykorzystują te same substancje, którymi żywią się glony. Dodatkowo produkują tlen, co poprawia jakość wody.",
+    "domain": "freshwater",
+    "category": "maintenance",
+    "intent": ["maintenance", "learning"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/jak-uzyskac-krystalicznie-czysta-wode-w-akwarium-slodkowodnym/",
+    "tags": ["podmiany_wody", "30_procent", "filtracja_mechaniczna", "filtracja_biologiczna", "żywienie", "rośliny_akwariowe", "tlen", "bakterie_nitryfikacyjne"],
+    "related_items": ["przyczyny-zmetnienia-wody-akwarium-001", "filtracja-biologiczna-bakterie-akwarium-001", "water-changes"],
+    "updated_at": "2025-06-02"
+  }

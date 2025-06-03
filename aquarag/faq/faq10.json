@@ -1,0 +1,16 @@
+{
+    "id": "faq-pl-011",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Czy wyłączać odpieniacz i usuwać węgiel aktywny podczas stosowania Pro Bio S?",
+    "query_text": "Pro Bio S odpieniacz wyłączyć węgiel aktywny Carbon usunąć wkład kompatybilność równolegle skuteczność filtracja procedura dozowanie",
+    "full_content": "PYTANIE: Czy podczas stosowania Pro Bio S należy wyłączyć odpieniacz i usunąć wkład z węglem aktywnym (Carbon)? ODPOWIEDŹ: Nie, podczas stosowania Pro Bio S nie ma potrzeby wyłączania odpieniacza ani usuwania węgla aktywnego (Carbon). Oba elementy mogą działać równolegle z preparatem, nie wpływając negatywnie na jego skuteczność.",
+    "domain": "seawater",
+    "category": "maintenance",
+    "intent": ["maintenance", "product_info"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/czy-podczas-stosowania-pro-bio-s-nalezy-wylaczyc-odpieniacz-i-usunac-wklad-z-weglem-aktywnym-carbon/",
+    "tags": ["Pro_Bio_S", "odpieniacz", "skimmer", "węgiel_aktywny", "Carbon", "kompatybilność", "równolegle", "skuteczność", "filtracja"],
+    "related_items": ["pro-bio-s", "odpieniacz", "wegiel-aktywny", "carbon", "dozowanie-preparatów", "metoda-probiotyczna"],
+    "updated_at": "2025-06-02"
+}

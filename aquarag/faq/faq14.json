@@ -1,0 +1,16 @@
+{
+    "id": "faq-pl-007",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Czy AF Power Elixir może przywrócić spłowiałe anemony do pełnego koloru? Jak często używać?",
+    "query_text": "AF Power Elixir anemony spłowiałe kolor przywrócić barwienie bąbelkowe długie czułki dywanowe rurkowe anemony morskie jak często używać częstotliwość parametry wody pokarm choroba koralowce zdrowy",
+    "full_content": "PYTANIE: Czy AF Power Elixir może przywrócić spłowiałe anemony do pełnego koloru? Czy korzystanie z tego produktu poprawi kolor morskich anemon: bąbelkowych, długich czułków, dywanowych i rurkowych? Jak często powinniśmy używać tego produktu? ODPOWIEDŹ: Wszystko zależy od przyczyn blaknięcia koloru którego powodem mogą być: złe parametry wody, nie odpowiedni pokarm, choroba itp. AF Power Elixir wspomaga barwienie koralowców jednak przy założeniu, że koralowiec jest zdrowy.",
+    "domain": "seawater",
+    "category": "maintenance",
+    "intent": ["troubleshooting", "maintenance", "product_info"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/jak-czesto-nalezy-uzywac-tego-produktu/",
+    "tags": ["AF_Power_Elixir", "anemony", "spłowiałe", "barwienie", "kolor", "anemony_bąbelkowe", "anemony_dywanowe", "anemony_rurkowe", "parametry_wody", "pokarm", "choroba", "częstotliwość", "koralowce"],
+    "related_items": ["af-power-elixir", "anemony", "barwienie-koralowców", "parametry-wody", "pokarm-koralowców", "troubleshooting-akwarium"],
+    "updated_at": "2025-06-02"
+}

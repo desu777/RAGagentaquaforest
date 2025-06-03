@@ -1,0 +1,16 @@
+{
+  "id": "knowledge-pl-power-elixir-vitamin-c-001",
+  "content_type": "knowledge",
+  "lang": "pl",
+  "title": "AF Power Elixir - czy zawiera witaminę C? - składniki produktu",
+  "query_text": "AF Power Elixir witamina C kwas askorbinowy zawiera składniki skład antyoksydanty vitamins AF Aquaforest dodatki suplementy akwarium morskie",
+  "full_content": "PYTANIE: Czy AF Power Elixir zawiera witaminę C? ODPOWIEDŹ: Nie, AF Power Elixir nie posiada witaminy C.",
+  "domain": "seawater",
+  "category": "equipment",
+  "intent": ["product_info"],
+  "difficulty": "beginner",
+  "url": "https://aquaforest.eu/pl/baza-wiedzy/czy-af-power-elixir-zawiera-witamine-c/",
+  "tags": ["AF_Power_Elixir", "witamina_C", "kwas_askorbinowy", "składniki", "skład", "dodatki", "suplementy", "AF"],
+  "related_items": ["af-power-elixir", "af-vita-pro", "af-amino-mix", "af-energy"],
+  "updated_at": "2025-06-02"
+}

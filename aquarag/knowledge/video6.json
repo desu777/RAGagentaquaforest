@@ -1,0 +1,16 @@
+{
+    "id": "knowledge-pl-livestock-care-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Specjalne składniki pokarmów hodowla błazenków małże olbrzymie - zwierzęta akwariowe i ich opieka",
+    "query_text": "specjalne składniki formuły pokarmów hodowla błazenków małże olbrzymie tridacna chemia akwarium z małżami clownfish breeding livestock care zwierzęta akwariowe",
+    "full_content": "Linki są odnośnikiem do wideo tutoriali. Specjalne składniki w formułach pokarmów dla ryb: https://aquaforest.eu/pl/baza-wiedzy/specjalne-skladniki-w-formulach-pokarmow-dla-ryb/ Hodowla błazenków: https://aquaforest.eu/pl/baza-wiedzy/hodowla-blazenkow/ Małże olbrzymie i ich potrzeby: https://aquaforest.eu/pl/baza-wiedzy/malze-olbrzymie-i-ich-potrzeby/ Chemia w akwariach z małżami: https://aquaforest.eu/pl/baza-wiedzy/chemia-w-akwariach-z-malzami/",
+    "domain": "seawater",
+    "category": "education",
+    "intent": ["learning", "maintenance"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/specjalne-skladniki-w-formulach-pokarmow-dla-ryb/",
+    "tags": ["błazenki", "hodowla", "małże_olbrzymie", "tridacna", "clownfish", "breeding", "livestock"],
+    "related_items": ["ryby-morskie", "hodowla-ryb", "małże-akwariowe", "zwierzęta-morskie"],
+    "updated_at": "2025-06-02"
+  }

@@ -1,0 +1,16 @@
+{
+    "id": "faq-pl-002",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Czy można zainstalować sump AF980 na macie poziomującej mimo pianki antywibracyjnej?",
+    "query_text": "sump AF980 mata poziomująca pianka antywibracyjna instalacja czy można zainstalować sump mata akwarium poziomowanie instalacja sprzętu",
+    "full_content": "PYTANIE: Sump AF980 ma na dnie piankę antywibracyjną. Czy można zainstalować sump na macie poziomującej akwarium? Można, ale nie jest to obowiązkowe, czy w ogóle nie jest zalecane? ODPOWIEDŹ: Można użyć maty poziomującej do akwarium.",
+    "domain": "universal",
+    "category": "equipment",
+    "intent": ["maintenance", "equipment_selection"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/sump-af980-ma-na-dnie-pianke-antywibracyjna-czy-mozna-zainstalowac-sump-na-macie-poziomujacej-akwarium-mozna-ale-nie-jest-to-obowiazkowe-czy-w-ogole-nie-jest-zalecane/",
+    "tags": ["AF980", "sump", "mata_poziomująca", "pianka_antywibracyjna", "instalacja", "montaż"],
+    "related_items": ["af980-sump", "instalacja-sump", "mata-poziomująca", "osprzęt-akwarium"],
+    "updated_at": "2025-06-02"
+  }

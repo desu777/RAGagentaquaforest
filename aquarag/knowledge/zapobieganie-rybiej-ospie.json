@@ -1,0 +1,16 @@
+{
+    "id": "knowledge-pl-011",
+    "content_type": "knowledge",
+    "lang": "pl", 
+    "title": "Zapobieganie ospie rybiej - kwarantanna i profilaktyka w akwarium",
+    "query_text": "zapobieganie ospa rybia kwarantanna ryby rosliny czas kwarantanny 4-6 tygodni temperatura woda stres parametry wody dieta pokarm przepływ woda dziko zebrane akcesoria kamienie drewno dezynfekcja profilaktyka aklimatyzacja",
+    "full_content": "ZAPOBIEGANIE OSPIE RYBIEJ: Oczywiście zawsze lepiej jest zapobiegać niż leczyć. KWARANTANNA: Jak każdy, kto kupuje nową rybkę, pewnie chciałbyś zobaczyć ją jak najszybciej w swoim akwarium. Zdrowym podejściem jest umieszczanie nowych ryb i roślin w osobnych zbiornikach. Czas kwarantanny, w zależności od temperatury wody, powinien wynosić, w przypadku ryb, od 4 do 6 tygodni, a w przypadku roślin 2-3 tygodnie. Warto jednak przetrzymać je trochę dłużej, ponieważ ospa rybia to nie jedyna choroba, którą można zarazić akwarium. Kwarantanna pomaga chronić akwarium przed szeregiem innych chorób i pasożytów. Podniesienie temperatury wody może przyspieszyć kwarantannę, natomiast pamiętaj, że może to zwiększyć stres u ryb. A to z kolei może doprowadzić do spadku ich odporności. KONTROLA STRESU: Wspomniany stres u ryb wywołuje szereg problemów, które mogą sprawić, że ryby są bardziej podatne na choroby. Dlatego ważne jest, aby dbać o odpowiednie parametry wody w akwarium. GŁÓWNE CZYNNIKI PROWADZĄCE DO ZWIĘKSZENIA STRESU: nieodpowiednia dieta, zła jakość pokarmu; zbyt słaby lub zbyt silny przepływ wody; nieodpowiednie parametry wody w zbiorniku. UNIKANIE ZAGROŻEŃ: Unikaj wprowadzania do akwarium dziko zebranych akcesoriów takich jak: kamienie, drewno, korzenie. Mogą one zawierać niebezpieczne pasożyty, a także wpływać na parametry wody.",
+    "domain": "universal",
+    "category": "maintenance", 
+    "intent": ["prevention", "maintenance"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/ospa-rybia-w-akwarium-jak-zapobiegac-i-jak-leczyc-biale-plamki-u-ryb/",
+    "tags": ["zapobieganie", "kwarantanna", "profilaktyka", "4-6_tygodni", "stres_ryb", "parametry_wody", "dieta", "przepływ_wody", "dziko_zebrane", "dezynfekcja", "aklimatyzacja", "odporność"],
+    "related_items": ["kwarantanna-ryb", "aklimatyzacja-ryb", "parametry-wody", "stress-ryb", "maintenance-akwarium"],
+    "updated_at": "2025-06-02"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "knowledge-pl-advanced-chemistry-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Zeo Mix NitraPhos Minus AF Perfect Water Komponenty Pro - zaawansowana chemia akwarium",
+    "query_text": "zeo mix nitraphos minus af perfect water komponenty pro zeolity azotany fosforany zaawansowana chemia samouczek instrukcja jak stosować",
+    "full_content": "Linki są odnośnikiem do wideo tutoriali. Jak stosować Zeo Mix: https://aquaforest.eu/pl/baza-wiedzy/jak-stosowac-zeo-mix/ Samouczek NitraPhos Minus: https://aquaforest.eu/pl/baza-wiedzy/samouczek-nitraphos-minus/ AF Perfect Water: https://aquaforest.eu/pl/baza-wiedzy/af-perfect-water/ Komponenty Pro: https://aquaforest.eu/pl/baza-wiedzy/komponenty-pro/",
+    "domain": "seawater",
+    "category": "maintenance",
+    "intent": ["learning", "maintenance", "troubleshooting"],
+    "difficulty": "advanced",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/jak-stosowac-zeo-mix/",
+    "tags": ["zeo_mix", "nitraphos_minus", "perfect_water", "komponenty_pro", "zeolity", "azotany", "fosforany"],
+    "related_items": ["parametry-wody-zaawansowane", "suplementacja-pro", "chemia-zaawansowana"],
+    "updated_at": "2025-06-02"
+  }

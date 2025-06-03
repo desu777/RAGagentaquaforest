@@ -1,0 +1,16 @@
+{
+    "id": "rodzaje-koralowcow-wprowadzenie-001",
+    "content_type": "knowledge",
+    "lang": "pl", 
+    "title": "Rodzaje koralowców w akwarium morskim - wprowadzenie i podział",
+    "query_text": "rodzaje koralowców akwarium morskie podział miękkie twarde LPS SPS polipy szkielet węglan wapnia rafa koralowa",
+    "full_content": "Koralowce to fascynujące stworzenia, które są kluczowym elementem ekosystemów raf koralowych. W akwariach morskich stanowią nie tylko ozdobę, ale także pełnią bardzo ważną rolę w biologicznej równowadze. Koralowce to kolonie polipów, czyli małych, miękkich stworzeń z twardym szkieletem zewnętrznym. Ten właśnie szkielet zbudowany z węglanu wapnia tworzy struktury, które znamy jako rafy koralowe. Koralowce w akwarium możemy podzielić na dwie lub trzy grupy. W akwarystyce morskiej najpopularniejszy jest podział na koralowce miękkie, koralowce długopolipowe LPS, oraz krótkopolipowe koralowce SPS. W rzeczywistości jednak dwie ostatnie grupy możemy połączyć w jedną, uogólniając je do kategorii koralowców twardych. PODZIAŁ KORALOWCÓW: Koralowce miękkie - nie posiadają twardego szkieletu z węglanu wapnia, zbudowane z substancji rogowej, najprostsze w hodowli, odporne na wahania parametrów. Koralowce twarde - posiadają twardy szkielet z węglanu wapnia, bardziej wymagające w hodowli, potrzebują stabilnych warunków wodnych.",
+    "domain": "seawater",
+    "category": "education", 
+    "intent": ["learning", "understanding"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/rodzaje-koralowcow-w-akwarium-morskim-blog-o-akwarystyce-zasoby-aquaforest/",
+    "tags": ["koralowce", "podział", "miękkie", "twarde", "LPS", "SPS", "polipy", "szkielet", "węglan_wapnia", "rafa"],
+    "related_items": ["life-bio-fil-ph-wody-001", "coral-care", "reef-aquarium"],
+    "updated_at": "2025-06-02"
+  }

@@ -1,0 +1,16 @@
+{
+    "id": "filtracja-biologiczna-bakterie-akwarium-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Filtracja biologiczna w akwarium - bakterie nitryfikacyjne i ich rola",
+    "query_text": "filtracja biologiczna bakterie nitryfikacyjne Nitrosomonas Nitrospira amoniak azotyny azotany cykl azotowy bio kulki gąbka ceramiczne Life Bio Fil AF Bio Sand",
+    "full_content": "FILTRACJA BIOLOGICZNA: Filtracja biologiczna jest najważniejszym elementem utrzymania zdrowego środowiska dla ryb i innych organizmów w akwarium. Proces ten opiera się na wykorzystaniu bakterii nitryfikacyjnych: Nitrosomonas i Nitrospira przetwarzają one szkodliwe substancje, takie jak amoniak i jony amonowe, na bezpieczniejsze dla ryb jony azotanowe. NAJLEPSZE MIEJSCA DO ROZWOJU BAKTERII NITROSPIRA: bio kulki, gąbka, wkład filtracyjny AF Filter Floss, wkłady ceramiczne, podłoża AF Bio Sand. MIEJSCA BEZTLENOWE DLA BAKTERII NITROSOMONAS: wkłady ceramiczne, skała wulkaniczna. WSPARCIE BAKTERII: Rekomendujemy użycie środków zawierających bakterie nitryfikacyjne np. Life Bio Fil, pozwoli to na przyspieszenie rozwoju bakterii oraz stworzy przyjazne środowisko dla mieszkańców akwarium. KONTROLA CYKLU: Aby upewnić się, że w akwarium praca bakterii ruszyła pełną parą i jest możliwe wprowadzanie zwierząt do zbiornika, należy przeprowadzić testy na zawartość: amoniaku, azotynów i azotanów.",
+    "domain": "universal",
+    "category": "bacteria",
+    "intent": ["learning", "startup", "maintenance"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/metody-filtracji-w-akwarium-biologiczna-chemiczna-mechaniczna/",
+    "tags": ["filtracja_biologiczna", "bakterie_nitryfikacyjne", "Nitrosomonas", "Nitrospira", "amoniak", "azotyny", "azotany", "Life_Bio_Fil", "AF_Bio_Sand", "cykl_azotowy"],
+    "related_items": ["af-bio-sand-cykl-azotowy-nowe-akwarium-001", "life-bio-fil-ph-wody-001", "nitrogen-cycle"],
+    "updated_at": "2025-06-02"
+  }

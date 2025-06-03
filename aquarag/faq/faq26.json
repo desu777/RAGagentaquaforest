@@ -1,0 +1,16 @@
+{
+    "id": "af-energy-fosforany-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Czy AF Energy podnosi poziom fosforanów?",
+    "query_text": "AF Energy fosforany poziom podnosi dawkowanie zalecenia akwarium suplementy zbyt duże dawki parametry wody",
+    "full_content": "PYTANIE: Czy AF Energy podnosi poziom fosforanów? ODPOWIEDŹ: Dawkowanie zgodnie z zaleceniami i potrzebami akwarium nie powoduje podniesienia poziomu fosforanów. Oczywiście należy pamiętać, że każdy z suplementów dostępnych na rynku będzie podnosił fosforany jeżeli będzie dozowany w zbyt dużych dawkach. KLUCZOWE ZASADY: Stosowanie zgodnie z zaleceniami nie podnosi fosforanów. Każdy suplement może podnosić fosforany przy przedawkowaniu. Ważne jest przestrzeganie zalecanego dawkowania. Dostosowanie dawki do potrzeb konkretnego akwarium.",
+    "domain": "seawater",
+    "category": "parameters",
+    "intent": ["troubleshooting", "product_usage", "water_parameters"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/czy-af-energy-podnosi-poziom-fosforanow/",
+    "tags": ["AF_Energy", "fosforany", "PO4", "parametry_wody", "dawkowanie", "suplementy", "przedawkowanie"],
+    "related_items": ["af-growth-boost-dawkowanie-001", "cotygodniowy-harmonogram-dawkowania-001", "water-parameters", "phosphate-control"],
+    "updated_at": "2025-06-02"
+  }

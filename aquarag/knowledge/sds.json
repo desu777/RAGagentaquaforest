@@ -1,0 +1,16 @@
+{
+    "id": "knowledge-pl-sds-safety-sheets-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "SDS Safety Data Sheets karty charakterystyki produktów Aquaforest - składy chemiczne i bezpieczeństwo",
+    "query_text": "sds safety data sheets karty charakterystyki składy chemiczne bezpieczeństwo produktów aquaforest strontium stone fix sea salt reef salt komponenty skład instrukcje bezpieczeństwa przebadane certyfikowane",
+    "full_content": "SDS - Safety Data Sheets wszystkie karty charakterystyki produktów: https://aquaforest.eu/pl/baza-wiedzy-tag/sds-pl/ Oficjalne karty charakterystyki produktów Aquaforest zawierające informacje o składach chemicznych, instrukcjach bezpieczeństwa i właściwościach produktów.",
+    "domain": "universal",
+    "category": "education",
+    "intent": ["learning", "product_info", "safety"],
+    "difficulty": "expert",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy-tag/sds-pl/",
+    "tags": ["sds", "safety_data_sheets", "karty_charakterystyki", "składy_chemiczne", "bezpieczeństwo", "certyfikowane", "przebadane", "dokumentacja_techniczna"],
+    "related_items": ["produkty-chemiczne", "bezpieczeństwo-produktów", "składy-produktów", "certyfikacja"],
+    "updated_at": "2025-06-02"
+  }

@@ -1,0 +1,16 @@
+{
+    "id": "faq-pl-004",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Produkt Bio S zamarzł podczas transportu. Czy mogę go mimo to używać?",
+    "query_text": "Bio S zamarzł zamrożenie transport bakterie mikroorganizmy wydajność obniżona formy przetrwalnikowe czy można używać zamrożony produkt bakteryjny niebezpieczny temperatura mrożenie",
+    "full_content": "PYTANIE: Produkt Bio S zamarzł podczas transportu. Czy mogę go mimo to używać? ODPOWIEDŹ: Tak, można używać, nic niebezpiecznego tam nie powstało – natomiast wydajność bakterii mogła zostać obniżona. Część mikroorganizmów mogła przetrwać w formach przetrwalnikowych. Lepiej unikać zamrażania produktu.",
+    "domain": "universal",
+    "category": "bacteria",
+    "intent": ["troubleshooting", "product_info"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/produkt-bio-s-zamarzl-podczas-transportu-czy-mimo-to-moge-go-uzywac/",
+    "tags": ["Bio_S", "zamrożenie", "zamarzł", "transport", "bakterie", "mikroorganizmy", "wydajność", "formy_przetrwalnikowe", "przechowywanie"],
+    "related_items": ["bio-s", "bakterie-nitryfikacyjne", "przechowywanie-produktów", "mikroorganizmy", "produkty-bakteryjne"],
+    "updated_at": "2025-06-02"
+}

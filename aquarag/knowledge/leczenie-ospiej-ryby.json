@@ -1,0 +1,16 @@
+{
+    "id": "knowledge-pl-012",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Leczenie ospy rybiej w akwarium słodkowodnym - metody i preparaty",
+    "query_text": "leczenie ospa rybia akwarium słodkowodne Ichthyophthirius temperatura podwyższona kąpiel sól akwariowa zasolenie 10-15g zieleń malachitowa formalina błękit metylenowy nadmanganian potasu AF Purify substancje toksyczne napowietrzanie podmiany wody",
+    "full_content": "LECZENIE OSPY RYBIEJ W AKWARIUM SŁODKOWODNYM: Jeżeli zaobserwowałeś rozwój choroby, musisz podjąć szybkie działania. Niestety, bez leczenia, pasożyt sam nie opuści akwarium. Dodatkowo bardzo szybko się rozmnaża i rozprzestrzenia na kolejne ryby. Pierwsze co powinieneś zrobić to oddzielić zarażone ryby od tych zdrowych i bardzo dokładnie zdezynfekować akwarium, w którym wystąpiły pasożyty. Podczas leczenia ważne jest częste napowietrzanie i podmiany wody. Skontaktuj się także z lekarzem weterynarii, który specjalizuje się w rybach akwariowych i stosuj się do jego zaleceń. METODA TEMPERATUROWA: Do domowych sposobów można zaliczyć kąpiel w wodzie z podwyższoną temperaturą. Zacznij stopniowo i powoli zwiększać temperaturę w akwarium. Warto jednak zaznaczyć, że ten sposób może zwiększyć stres u ryb. Dowiedz się wcześniej, czy Twoje ryby są w stanie przetrwać w wodzie ze zwiększoną temperaturą. Zwiększona temperatura powoduje obumarcie wszystkich rozwojowych form pierwotniaka. METODA SOLNA: Innym naturalnym sposobem jest zwiększanie zasolenia wody, poprzez dodawanie soli akwariowej. Maksymalne stężenie nie powinno przekraczać 10-15g soli na każde 10 litrów wody. Po 3-4 dniach należy zamienić wodę słoną na słodką. Natomiast tak jak w poprzednim przypadku, nie nada się ten sposób do wszystkich ryb. Niektóre z nich nie będą w stanie żyć w takich warunkach. SUBSTANCJE CHEMICZNE: Istnieją substancje, na które pasożyt ten jest szczególnie wyczulony i mogą pomóc w pozbyciu się go z akwarium: Zieleń malachitowa, Formalina, Błękit metylenowy, Nadmanganian potasu. Należy jednak pamiętać, że substancje te są toksyczne w wysokich stężeniach. Usuwając pasożyty, mogą równocześnie zniszczyć biologię w akwarium. Samodzielne dawkowanie tych substancji nie zaleca się początkującym akwarystom. AF PURIFY: Aby ułatwić stosowanie, stworzyliśmy AF Purify, który zawiera zieleń malachitową i błękit metylenowy w bezpiecznym dla ryb stężeniu. Jest to środek dedykowany do akwariów słodkowodnych, które zmagają się z problemem ospy rybiej. Dodatkowo wspiera odporność Twoich podopiecznych. Najlepiej jest używać go w zbiorniku kwarantannowym, ponieważ może barwić dekoracje.",
+    "domain": "freshwater",
+    "category": "problems",
+    "intent": ["troubleshooting", "treatment"],
+    "difficulty": "intermediate", 
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/ospa-rybia-w-akwarium-jak-zapobiegac-i-jak-leczyc-biale-plamki-u-ryb/",
+    "tags": ["leczenie", "akwarium_słodkowodne", "Ichthyophthirius", "temperatura", "kąpiel", "sól_akwariowa", "zasolenie", "zieleń_malachitowa", "formalina", "błękit_metylenowy", "nadmanganian_potasu", "AF_Purify", "napowietrzanie", "substancje_toksyczne"],
+    "related_items": ["af-purify", "leczenie-ryb", "choroby-słodkowodne", "temperatura-akwarium", "sól-akwariowa"],
+    "updated_at": "2025-06-02"
+}

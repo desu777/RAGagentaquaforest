@@ -1,0 +1,16 @@
+{
+    "id": "faq-pl-010",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Kiedy włączyć odpieniacz po dozowaniu AF Life Source?",
+    "query_text": "AF Life Source odpieniacz kiedy włączyć timing 15 minut po dodaniu dozowanie skimmer kolejność procedura zadziałać przed filtracją",
+    "full_content": "PYTANIE: Dozuję AF Life Source do mojego zbiornika i zastanawiam się, kiedy powinienem włączyć odpieniacz? ODPOWIEDŹ: AF Life Source i odpieniacz powinny być stosowane z zachowaniem odpowiedniej kolejności. Odpieniacz należy włączyć 15 minut po dodaniu AF Life Source. Pozwala to produktowi zadziałać w wodzie, zanim zostanie wychwycony przez system filtracyjny.",
+    "domain": "seawater",
+    "category": "maintenance",
+    "intent": ["maintenance", "product_info"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/dozuje-af-life-source-do-mojego-zbiornika-i-zastanawiam-sie-kiedy-powinienem-wlaczyc-odpieniacz/",
+    "tags": ["AF_Life_Source", "odpieniacz", "skimmer", "timing", "15_minut", "kolejność", "dozowanie", "procedura"],
+    "related_items": ["af-life-source", "odpieniacz", "dozowanie-preparatów", "procedury-dozowania"],
+    "updated_at": "2025-06-02"
+  }

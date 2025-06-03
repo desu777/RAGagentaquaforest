@@ -1,0 +1,16 @@
+{
+    "id": "carbon-1000ml-waga-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Jaka jest waga Carbon 1000 ml?",
+    "query_text": "Carbon 1000ml waga opakowanie 650g wilgotność powietrza pakowanie węgiel aktywny specyfikacja",
+    "full_content": "PYTANIE: Jaka jest waga Carbon 1000 ml? ODPOWIEDŹ: Waga Carbon 1000 ml wraz z opakowaniem wynosi około 650 g. Może się nieznacznie różnić w zależności od wilgotności powietrza i sposobu pakowania, ale typowo mieści się właśnie w tym zakresie. SPECYFIKACJA: Waga z opakowaniem: około 650g. Możliwe nieznaczne różnice zależne od wilgotności powietrza. Różnice mogą wynikać ze sposobu pakowania. Typowy zakres wagi dla tego produktu.",
+    "domain": "universal",
+    "category": "equipment",
+    "intent": ["product_info"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/jaka-jest-waga-carbon-1000-ml/",
+    "tags": ["Carbon", "1000ml", "waga", "650g", "opakowanie", "wilgotność", "węgiel_aktywny", "specyfikacja"],
+    "related_items": ["phosphate-minus-spadek-parametrow-001", "filtration-media", "carbon-filtration"],
+    "updated_at": "2025-06-02"
+  }

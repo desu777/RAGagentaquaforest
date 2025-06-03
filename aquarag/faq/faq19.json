@@ -1,0 +1,16 @@
+{
+    "id": "knowledge-pl-021",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "AF Power Elixir - jak przechowywać dla maksymalnej trwałości",
+    "query_text": "AF Power Elixir przechowywać przechowywanie lodówka 6 miesięcy po otwarciu temperatura pokojowa 30 dni wydłużenie przydatność użycia zalecamy metody przechowywania",
+    "full_content": "JAK PRZECHOWYWAĆ AF POWER ELIXIR: W celu wydłużenia przydatności do użycia zalecamy przechowywanie w lodówce do 6 miesięcy po otwarciu. W temperaturze pokojowej AF Power Elixir może być przechowywany do 30 dni.",
+    "domain": "universal",
+    "category": "products",
+    "intent": ["reference", "maintenance"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/jak-przechowywac-af-power-elixir/",
+    "tags": ["AF_Power_Elixir", "przechowywanie", "lodówka", "6_miesięcy", "temperatura_pokojowa", "30_dni", "wydłużenie", "przydatność", "po_otwarciu", "zalecamy", "metody_przechowywania"],
+    "related_items": ["af-power-elixir", "przechowywanie-produktów", "produkty-aquaforest", "instrukcje-produktów", "suplementy-akwarium", "trwałość-produktów"],
+    "updated_at": "2025-06-02"
+}

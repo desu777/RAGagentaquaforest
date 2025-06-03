@@ -1,0 +1,16 @@
+{
+  "id": "knowledge-pl-sea-salt-reef-salt-001",
+  "content_type": "knowledge",
+  "lang": "pl",
+  "title": "Sea Salt vs Reef Salt - różnice między solami akwariowymi AF",
+  "query_text": "Sea Salt Reef Salt różnice porównanie pierwiastki śladowe mikroelementy zbiornik ryby koralowce akwarium rafowe mieszać proporcje 50/50 parametry długoterminowo AF Aquaforest sól akwariowa",
+  "full_content": "PYTANIE: Przypadkowo zamówiłem Sea Salt zamiast Reef Salt. Czy jest między nimi duża różnica? ODPOWIEDŹ: Sea Salt a Reef Salt różnią się głównie zawartością pierwiastków śladowych. Sea Salt jest przeznaczona do zbiorników z rybami, natomiast Reef Salt zawiera dodatkowe mikroelementy, niezbędne w akwariach rafowych. Jeśli planujesz zmieszać Sea Salt z Reef Salt w proporcjach 50/50, nie powinno to wpłynąć negatywnie na parametry w akwarium. Jednak długoterminowo do zbiorników z koralowcami zalecamy stosowanie pełnowartościowej Reef Salt.",
+  "domain": "seawater",
+  "category": "equipment",
+  "intent": ["product_info", "troubleshooting"],
+  "difficulty": "beginner",
+  "url": "https://aquaforest.eu/pl/baza-wiedzy/przypadkowo-zamowilem-sea-salt-zamiast-reef-salt-czy-jest-miedzy-nimi-duza-roznica/",
+  "tags": ["Sea_Salt", "Reef_Salt", "różnice", "pierwiastki_śladowe", "mikroelementy", "akwarium_rafowe", "zbiornik_ryby", "koralowce", "mieszać", "proporcje", "AF", "sól_akwariowa"],
+  "related_items": ["af-sea-salt", "af-reef-salt", "af-probiotic-salt", "knowledge-parametry-wody"],
+  "updated_at": "2025-06-02"
+}

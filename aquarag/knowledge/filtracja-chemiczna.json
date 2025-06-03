@@ -1,0 +1,16 @@
+{
+    "id": "filtracja-chemiczna-media-produkty-002",
+    "content_type": "knowledge",
+    "lang": "pl", 
+    "title": "Filtracja chemiczna w akwarium - węgiel aktywny, zeolit, żywica",
+    "query_text": "filtracja chemiczna węgiel aktywny Carbon zeolit żywica Phosphate Minus fosforany amoniak chlor zapachy przebarwienia metale ciężkie",
+    "full_content": "FILTRACJA CHEMICZNA: Filtracja chemiczna jest typem filtracji, który można stosować jako uzupełnienie filtracji mechanicznej i biologicznej. Wielkim plusem jest to, że możemy usunąć wiele niepotrzebnych substancji naraz lub pojedynczo, w zależności od produktu. WĘGIEL AKTYWNY CARBON: Jeden z najczęściej wybieranych produktów. Drobinki węgla posiadają setki małych porów, które działają jak pułapka na zanieczyszczenia. Usuwa: chlor i chloraminę, rozpuszczone białka, brzydkie zapachy, przebarwienia wody. ZEOLIT: Posiada wiele małych porów, ale działa inaczej. Pobiera amoniak i zamienia go w sód przez wymianę jonową. Głównym celem jest usunięcie amoniaku. ŻYWICA: Używana do usunięcia odpadów chemicznych łącznie z fosforanami, metalami ciężkimi i azotanami. Wymaga specjalnego worka ze względu na małe kawałki. PHOSPHATE MINUS: Rekomendacja na pozbycie się zbyt wysokiego poziomu fosforanów i krzemianów. Zalecany do nowych akwariów zapobiegnie zbyt wysokiemu stężeniu fosforanów. WAŻNE: Żadne chemiczne media filtracyjne nie są wieczne - trzeba je wymieniać, inaczej mogą zwracać zanieczyszczenia do akwarium.",
+    "domain": "universal",
+    "category": "equipment",
+    "intent": ["maintenance", "troubleshooting", "product_usage"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/metody-filtracji-w-akwarium-biologiczna-chemiczna-mechaniczna/",
+    "tags": ["filtracja_chemiczna", "węgiel_aktywny", "Carbon", "zeolit", "żywica", "Phosphate_Minus", "fosforany", "amoniak", "chlor", "media_filtracyjne"],
+    "related_items": ["filtracja-biologiczna-bakterie-akwarium-001", "phosphate-minus-carbon-jeden-worek-001", "phosphate-minus-spadek-parametrow-001"],
+    "updated_at": "2025-06-02"
+  }

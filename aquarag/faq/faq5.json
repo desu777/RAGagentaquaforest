@@ -1,0 +1,16 @@
+{
+    "id": "faq-pl-006",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Czy odpieniacz musi być włączony podczas stosowania AF Life Source?",
+    "query_text": "AF Life Source odpieniacz włączony wyłączony skimmer stosowanie dozowanie biologiczno-mineralny charakter procedura użycia",
+    "full_content": "PYTANIE: Czy odpieniacz musi być włączony podczas stosowania AF Life Source? ODPOWIEDŹ: Nie, AF Life Source i odpieniacz to połączenie, które nie wymaga jednoczesnej pracy urządzenia. Odpieniacz nie jest konieczny podczas stosowania tego produktu. Można go pozostawić włączonego lub wyłączyć na krótki czas — nie wpłynie to negatywnie na działanie AF Life Source, który ma charakter biologiczno-mineralny i nie jest natychmiast usuwany przez odpieniacz.",
+    "domain": "seawater",
+    "category": "maintenance",
+    "intent": ["maintenance", "product_info"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/czy-odpieniacz-musi-byc-wlaczony-podczas-stosowania-af-life-source/",
+    "tags": ["AF_Life_Source", "odpieniacz", "skimmer", "dozowanie", "procedura", "biologiczno-mineralny", "kompatybilność"],
+    "related_items": ["af-life-source", "odpieniacz", "dozowanie-preparatów", "produkty-biologiczne"],
+    "updated_at": "2025-06-02"
+  }

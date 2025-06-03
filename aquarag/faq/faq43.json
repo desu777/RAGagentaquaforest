@@ -1,0 +1,16 @@
+{
+    "id": "knowledge-pl-mieszadla-calcium-mg-kh-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Czy potrzeba mieszadeł magnetycznych do Calcium, Magnesium i KH Buffer AF?",
+    "query_text": "mieszadła magnetyczne Calcium Magnesium KH Buffer rozpuszczanie rozpuścić przygotowanie roztwór mieszanie łyżka potrząsanie AF Aquaforest jak przygotować",
+    "full_content": "PYTANIE: Chcę zacząć korzystać z produktów Aquaforest: Magnesium, KH Buffer i Calcium. Czy potrzebuję specjalnych mieszadeł magnetycznych, aby je rozpuścić?\n\nODPOWIEDŹ: Rozpuszczanie Calcium, Magnesium i KH Buffer nie wymaga użycia mieszadeł magnetycznych. Substancje te są dobrze rozpuszczalne w wodzie, dlatego wystarczy zwykłe mieszanie łyżką lub delikatne potrząsanie naczyniem. Oczywiście mieszadła mogą przyspieszyć proces przygotowania roztworu, ale nie są one konieczne do prawidłowego rozpuszczenia produktów.",
+    "domain": "seawater",
+    "category": "equipment",
+    "intent": ["product_info", "maintenance"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/chce-zaczac-korzystac-z-produktow-aquaforest-magnesium-kh-buffer-i-calcium-czy-potrzebuje-specjalnych-mieszadel-magnetycznych-aby-je-rozpuscic/",
+    "tags": ["mieszadła_magnetyczne", "Calcium", "Magnesium", "KH_Buffer", "rozpuszczanie", "przygotowanie", "roztwór", "mieszanie", "łyżka", "AF"],
+    "related_items": ["af-calcium", "af-magnesium", "af-kh-buffer", "knowledge-przygotowanie-roztworow"],
+    "updated_at": "2025-06-02"
+  }

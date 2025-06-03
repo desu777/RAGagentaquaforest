@@ -1,0 +1,16 @@
+{
+    "id": "faq-pl-009",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Czy można rozcieńczyć małe opakowania -NP Pro jak duże 2000ml?",
+    "query_text": "-NP Pro rozcieńczenie 10ml 50ml 2000ml proporcje 50ml na 1 litr wody RO dozowanie precyzja przechowywanie ciemne chłodne miejsce mieszanka",
+    "full_content": "PYTANIE: Czy jest możliwość rozcieńczenia 10 ml lub 50 ml -NP Pro, aby uzyskać taki sam efekt jak przy opakowaniu 2000 ml? ODPOWIEDŹ: Tak, rozcieńczenie -NP Pro w mniejszych objętościach, takich jak 10 ml lub 50 ml, jest możliwe i skuteczne. Rekomendowane proporcje to 50 ml -NP Pro na 1 litr wody RO. Tak przygotowany roztwór można następnie dozować z precyzją porównywalną do większego opakowania. Należy pamiętać, aby przygotowaną mieszankę przechowywać w ciemnym i chłodnym miejscu.",
+    "domain": "seawater",
+    "category": "maintenance",
+    "intent": ["maintenance", "product_info"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/czy-jest-mozliwosc-rozcienczenia-10-ml-lub-50-ml-np-pro-aby-uzyskac-taki-sam-efekt-jak-przy-opakowaniu-2000-ml/",
+    "tags": ["-NP_Pro", "rozcieńczenie", "proporcje", "50ml_na_1L", "woda_RO", "dozowanie", "precyzja", "przechowywanie"],
+    "related_items": ["np-pro", "dozowanie-preparatów", "woda-ro", "metoda-probiotyczna"],
+    "updated_at": "2025-06-02"
+}

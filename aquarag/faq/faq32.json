@@ -1,0 +1,16 @@
+{
+    "id": "life-bio-fil-kwarantanna-miedz-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Czy Life Bio Fil można stosować podczas kwarantanny z leczeniem miedzią?",
+    "query_text": "Life Bio Fil kwarantanna leczenie miedź bezpiecznie stosować kuracja wymiana złoża pozostałości metalu filtracja biologiczna",
+    "full_content": "PYTANIE: Czy Life Bio Fil można bezpiecznie stosować podczas kwarantanny z leczeniem miedzią? ODPOWIEDŹ: Tak, Life Bio Fil można stosować podczas kuracji z użyciem miedzi. Należy jednak pamiętać, że po zakończeniu leczenia zaleca się wymianę złoża na nowe, aby uniknąć ewentualnych pozostałości metalu i zapewnić pełną skuteczność filtracji biologicznej. WAŻNE ZASADY: Bezpieczne stosowanie podczas kuracji z miedzią. Po zakończeniu leczenia wymień złoże na nowe. Unikanie pozostałości metalu w złożu. Zapewnienie pełnej skuteczności filtracji biologicznej po leczeniu.",
+    "domain": "seawater",
+    "category": "problems",
+    "intent": ["troubleshooting", "maintenance", "treatment"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/czy-life-bio-fil-mozna-bezpiecznie-stosowac-podczas-kwarantanny-z-leczeniem-miedzia/",
+    "tags": ["Life_Bio_Fil", "kwarantanna", "leczenie", "miedź", "kuracja", "wymiana_złoża", "filtracja_biologiczna", "pozostałości_metalu"],
+    "related_items": ["stone-fix-krzemiany-problem-001", "quarantine-treatment", "biological-filtration"],
+    "updated_at": "2025-06-02"
+  }

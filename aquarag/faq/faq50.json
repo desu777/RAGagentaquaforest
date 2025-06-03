@@ -1,0 +1,16 @@
+{
+    "id": "knowledge-pl-af-power-elixir-fluor-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "AF Power Elixir - brak fluoru w składzie",
+    "query_text": "AF Power Elixir fluor fluorek skład składniki bezpieczny organizmów morskich brak dodatków niepożądanych akwarium suplement",
+    "full_content": "CZY W AF POWER ELIXIR ZNAJDUJE SIĘ FLUOR? Nie, fluor w AF Power Elixir nie występuje. Produkt nie zawiera fluoru ani jego związków. Skład jest bezpieczny dla organizmów morskich i pozbawiony dodatków niepożądanych w akwarium.",
+    "domain": "seawater",
+    "category": "product_info",
+    "intent": ["product_info"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/czy-w-af-power-elixir-znajduje-sie-fluor/",
+    "tags": ["AF_Power_Elixir", "fluor", "fluorek", "skład", "składniki", "bezpieczny", "organizmów_morskich", "brak_dodatków", "suplement"],
+    "related_items": ["af-power-elixir", "knowledge-suplementy-akwarium", "knowledge-bezpieczeństwo-produktów", "knowledge-składniki-akwarystyczne"],
+    "updated_at": "2025-06-02"
+  }

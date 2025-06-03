@@ -1,0 +1,16 @@
+{
+    "id": "koralowce-miekkie-rodzaje-wymagania-002",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Koralowce miękkie - rodzaje i wymagania hodowlane",
+    "query_text": "koralowce miękkie skórzaste gąbczaste pióropuszowe Sarcopython Sinularia Briareum Anthelia Clavularia oświetlenie cyrkulacja",
+    "full_content": "RODZAJE KORALOWCÓW MIĘKKICH: Koralowce skórzaste - charakteryzują się miękkimi, skórzastymi polipami i zazwyczaj mają nieregularne kształty. Przedstawiciele tej grupy to np. Sarcopython lub Sinularia. Koralowce gąbczaste - wbrew nazwie nie są to koralowce zbudowane z gąbek. Posiadają mocno porowatą strukturę przypominającą gąbkę, czemu zawdzięczają nazwę swojej grupy. Koralowce pióropuszowe - posiadają długie, cienkie polipy przypominające pióra. Przykłady to Briareum, Anthelia sp. oraz Clavularia. WYMAGANIA HODOWLANE: Woda - nie wymagają ultra czystej wody i dobrze radzą sobie w warunkach z wykrywalnymi nutrientami. Oświetlenie - preferują umiarkowane oświetlenie, które sprzyja ich wzrostowi. Cyrkulacja - dobrze rozwijają się w akwariach z dobrą cyrkulacją wody, co zapobiega gromadzeniu się nadmiaru detrytusu. Koralowce miękkie są jednymi z najłatwiejszych do hodowli.",
+    "domain": "seawater",
+    "category": "education",
+    "intent": ["learning", "startup"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/rodzaje-koralowcow-w-akwarium-morskim-blog-o-akwarystyce-zasoby-aquaforest/",
+    "tags": ["koralowce_miękkie", "Sarcopython", "Sinularia", "Briareum", "Anthelia", "Clavularia", "oświetlenie", "cyrkulacja", "początkujący"],
+    "related_items": ["rodzaje-koralowcow-wprowadzenie-001", "soft-corals", "beginner-corals"],
+    "updated_at": "2025-06-02"
+  }

@@ -1,0 +1,17 @@
+{
+    "id": "knowledge-pl-af-power-elixir-witamina-c-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "AF Power Elixir - brak witaminy C w składzie",
+    "query_text": "AF Power Elixir witamina C nie zawiera brak skład składniki suplement witaminy akwarium",
+    "full_content": "CZY AF POWER ELIXIR ZAWIERA WITAMINĘ C? Nie, AF Power Elixir nie posiada witaminy C.",
+    "domain": "seawater",
+    "category": "product_info",
+    "intent": ["product_info"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/czy-af-power-elixir-zawiera-witamine-c/",
+    "tags": ["AF_Power_Elixir", "witamina_C", "nie_zawiera", "brak", "skład", "składniki", "suplement", "witaminy"],
+    "related_items": ["af-power-elixir", "knowledge-witaminy-akwarium", "knowledge-suplementy-akwarium", "knowledge-składniki-akwarystyczne"],
+    "updated_at": "2025-06-02"
+  }
+  

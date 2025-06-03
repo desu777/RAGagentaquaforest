@@ -1,0 +1,16 @@
+{
+    "id": "filtracja-mechaniczna-filtry-porowosc-003",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Filtracja mechaniczna w akwarium - rodzaje filtrów i porowatość", 
+    "query_text": "filtracja mechaniczna filtry porowatość grubo średnio drobnoporowate prefiltr resztki pokarmu odchody pył mętna woda wkładka gąbka skarpeta filtracyjna",
+    "full_content": "FILTRACJA MECHANICZNA: Polega na zasysaniu wody i przepuszczenie jej przez filtry o określonej porowatości. Pomaga z usunięciem wizualnych zanieczyszczeń takich jak: resztki pokarmu i roślin, odchody, pył, mętna woda. RODZAJE FILTRÓW WEDŁUG POROWATOŚCI: Bardzo grubo porowate - najlepiej jako prefiltry, aby filtry o mniejszej porowatości nie musiały filtrować dużych kawałków. Grubo porowate - podobnie dobrze się sprawdzą jako prefiltr. Średnio porowate - przy tym filtrze będzie nieco bardziej przejrzysta woda. Drobnoporowate - idealny wybór dla krystalicznej wody, świetnie w połączeniu z grubszymi filtrami. Bardzo drobnoporowate - najbardziej przejrzysta woda, ale najczęściej czyszczony. PRODUKTY DO FILTRACJI MECHANICZNEJ: Wkładka filtracyjna, Włóknina filtracyjna, Gąbka, Skarpeta filtracyjna. WAŻNE UWAGI: Filtry mechaniczne wymagają uwagi - zanieczyszczenia mogą rozpocząć proces gnilny i skutkować skokiem azotanów. Podczas czyszczenia pamiętaj o bakteriach biologicznych osadzonych na filtrach - nie używaj wody kranowej lub chemikaliów.",
+    "domain": "universal", 
+    "category": "equipment",
+    "intent": ["maintenance", "learning"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/metody-filtracji-w-akwarium-biologiczna-chemiczna-mechaniczna/",
+    "tags": ["filtracja_mechaniczna", "porowatość", "prefiltr", "grubo_porowate", "drobnoporowate", "wkładka_filtracyjna", "gąbka", "skarpeta_filtracyjna", "czyszczenie"],
+    "related_items": ["filtracja-chemiczna-media-produkty-002", "mechanical-filtration", "filter-maintenance"],
+    "updated_at": "2025-06-02"
+  }

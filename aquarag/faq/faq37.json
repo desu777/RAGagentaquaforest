@@ -1,0 +1,17 @@
+{
+    "id": "af-bio-sand-cykl-azotowy-nowe-akwarium-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Cykl azotowy z AF Bio Sand - kiedy akwarium jest gotowe?",
+    "query_text": "AF Bio Sand nowe akwarium cykl azotowy amoniak azotyny azotany 3 dni gotowe 14-30 dni Life Bio Fil bakterie zamknięcie cyklu",
+    "full_content": "PYTANIE: Właśnie założyłem nowe akwarium, używając AF Bio Sand. Podążałem za instrukcją podczas używania piasku, po 3 dniach zrobiłem pierwszy test na występowanie amoniaku i azotyny. Wyniki pokazały mi, że nie występują w moim akwarium, natomiast azotany już tak. Czy to znaczy, że moje akwarium jest gotowe? Ile trwa cykl azotowy z użyciem AF Bio Sand? ODPOWIEDŹ: Nie ma jednoznacznej odpowiedzi na to pytanie. Każdy zbiornik dojrzewa inaczej. Użycie AF Bio Sand przyśpiesza domknięcie się cyklu azotowego, ale mimo wszystko dla bezpieczeństwa zalecamy wprowadzać życie po upływie minimum 14-30 dni. 3 dni to stanowczo za wcześnie. Dla nowego zbiornika zalecamy również użycie medium filtracyjnego Life Bio Fil który zawiera wyselekcjonowane szczepy bakterii co również wpływa na sprawniejsze zamknięcie cyklu azotowego. KLUCZOWE INFORMACJE: AF Bio Sand przyśpiesza cykl azotowy ale nie oznacza natychmiastowej gotowości. Minimum 14-30 dni przed wprowadzeniem życia do akwarium. 3 dni to zdecydowanie za wcześnie. Każdy zbiornik dojrzewa w różnym tempie. Life Bio Fil dodatkowo wspiera zamknięcie cyklu azotowego.",
+    "domain": "seawater",
+    "category": "bacteria",
+    "intent": ["startup", "troubleshooting"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/wlasnie-zalozylem-nowe-akwarium-uzywajac-af-bio-sand-postepowalem-zgodnie-z-instrukcja-i-po-3-dniach-przeprowadzilem-pierwszy-test-na-obecnosc-amoniaku-i-azotynow-wyniki-wykazaly-brak-amoniaku-ale/",
+    "tags": ["AF_Bio_Sand", "cykl_azotowy", "nowe_akwarium", "amoniak", "azotyny", "azotany", "Life_Bio_Fil", "14-30_dni", "bakterie", "dojrzewanie"],
+    "related_items": ["af-rock-roznice-inne-skaly-001", "life-bio-fil-ph-wody-001", "nitrogen-cycle", "aquarium-startup"],
+    "updated_at": "2025-06-02"
+  }
+  

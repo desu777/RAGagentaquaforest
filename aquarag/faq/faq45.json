@@ -1,0 +1,16 @@
+{
+  "id": "knowledge-pl-component-b-micro-e-001",
+  "content_type": "knowledge",
+  "lang": "pl",
+  "title": "Component B vs Micro E - różnice w stężeniu pierwiastków śladowych",
+  "query_text": "Component B Micro E różnica porównanie stężenie pierwiastki śladowe mikroelementy wymagające systemy akwarystyczne intensywna suplementacja AF Aquaforest",
+  "full_content": "PYTANIE: Jaka jest różnica między Component B a Micro E? ODPOWIEDŹ: Główna różnica między Component B a Micro E polega na stężeniu pierwiastków śladowych. Micro E zawiera wyższe stężenie mikroelementów, dzięki czemu lepiej sprawdza się w bardziej wymagających systemach akwarystycznych, gdzie potrzebna jest intensywniejsza suplementacja.",
+  "domain": "seawater",
+  "category": "equipment",
+  "intent": ["product_info"],
+  "difficulty": "intermediate",
+  "url": "https://aquaforest.eu/pl/baza-wiedzy/jaka-jest-roznica-miedzy-component-b-a-micro-e/",
+  "tags": ["Component_B", "Micro_E", "różnica", "stężenie", "pierwiastki_śladowe", "mikroelementy", "wymagające_systemy", "suplementacja", "AF"],
+  "related_items": ["af-component-b", "af-micro-e", "af-component-1-2-3", "knowledge-pierwiastki-sladowe"],
+  "updated_at": "2025-06-02"
+}

@@ -1,0 +1,16 @@
+{
+    "id": "knowledge-pl-maintenance-dosing-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Cotygodniowy harmonogram dawkowania - maintenance i rutynowa pielęgnacja akwarium",
+    "query_text": "cotygodniowy harmonogram dawkowania maintenance rutyna pielęgnacja akwarium schedule dawkowanie tygodniowe routine weekly dosing",
+    "full_content": "Linki są odnośnikiem do wideo tutoriali. Cotygodniowy harmonogram dawkowania: https://aquaforest.eu/pl/baza-wiedzy/cotygodniowy-harmonogram-dawkowania/",
+    "domain": "seawater",
+    "category": "maintenance",
+    "intent": ["learning", "maintenance"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/cotygodniowy-harmonogram-dawkowania/",
+    "tags": ["harmonogram", "dawkowanie", "cotygodniowy", "maintenance", "schedule", "routine"],
+    "related_items": ["dawkowanie-preparatów", "maintenance-akwarium", "rutyna-pielęgnacji"],
+    "updated_at": "2025-06-02"
+  }

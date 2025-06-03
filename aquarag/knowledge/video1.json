@@ -1,0 +1,16 @@
+{
+    "id": "knowledge-pl-oceanguard-controllers-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Instrukcje obsługi OceanGuard AF275 AF435 AF605 AF790 AF980 - kompletne przewodniki wideo sterowników pomp falowych",
+    "query_text": "oceanguard af275 af435 af605 af790 af980 instrukcja obsługi wideo sterownik pompa falowa wave mode pulse mode feed mode programowanie ustawienia synchronizacja wireless master slave troubleshooting błąd er-01 reset circulation flow controller wave pump programming",
+    "full_content": "Linki są odnośnikiem do wideo tutoriali. INSTRUKCJE OBSŁUGI OCEANGUARD. Instrukcja obsługi af275: https://aquaforest.eu/pl/baza-wiedzy/instrukcja-obslugi-wideo-oceanguard-af275/ Instrukcja obsługi af435: https://aquaforest.eu/pl/baza-wiedzy/instrukcja-obslugi-wideo-oceanguard-af435/ Instrukcja obsługi af605: https://aquaforest.eu/pl/baza-wiedzy/instrukcja-obslugi-wideo-oceanguard-af605/ Instrukcja obsługi af790: https://aquaforest.eu/pl/baza-wiedzy/instrukcja-obslugi-wideo-oceanguard-af790/ Instrukcja obsługi af980: https://aquaforest.eu/pl/baza-wiedzy/instrukcja-obslugi-wideo-oceanguard-af980/ Seria OceanGuard to sterowniki pomp falowych do akwariów morskich dostępne w różnych modelach.",
+    "domain": "seawater",
+    "category": "equipment",
+    "intent": ["learning", "maintenance", "startup", "troubleshooting"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/instrukcja-obslugi-wideo-oceanguard-af435/",
+    "tags": ["oceanguard", "af275", "af435", "af605", "af790", "af980", "sterownik", "pompa_falowa", "wave_mode", "pulse_mode", "feed_mode", "programming", "synchronizacja", "video_tutorial", "instrukcja"],
+    "related_items": ["pompy-falowe", "circulation-pumps", "wave-makers", "af-controllers"],
+    "updated_at": "2025-06-02"
+  }

@@ -1,0 +1,16 @@
+{
+    "id": "knowledge-pl-fish-care-feeding-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Odporność ryb podstawy żywienia pokarm dieta - opieka i karmienie ryb akwariowych",
+    "query_text": "odporność ryb podstawy żywienia pokarm dieta składniki zdrowie ryb karmienie jak wybierać wysokiej jakości pokarm niezbędne składniki fish care feeding",
+    "full_content": "Linki są odnośnikiem do wideo tutoriali. Odporność ryb: https://aquaforest.eu/pl/baza-wiedzy/odpornosc-ryb/ Podstawy żywienia ryb: https://aquaforest.eu/pl/baza-wiedzy/podstawy-zywienia-ryb/ Jak wybrać wysokiej jakości pokarm dla ryb: https://aquaforest.eu/pl/baza-wiedzy/jak-wybrac-wysokiej-jakosci-pokarm-dla-ryb/ Niezbędne składniki w diecie ryb: https://aquaforest.eu/pl/baza-wiedzy/niezbedne-skladniki-w-diecie-ryb/",
+    "domain": "universal",
+    "category": "education",
+    "intent": ["learning", "maintenance"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/odpornosc-ryb/",
+    "tags": ["odporność_ryb", "żywienie", "pokarm", "dieta", "składniki", "zdrowie_ryb", "karmienie"],
+    "related_items": ["ryby-akwariowe", "karmienie-ryb", "zdrowie-ryb", "pokarm-dla-ryb"],
+    "updated_at": "2025-06-02"
+  }

@@ -1,0 +1,16 @@
+{
+    "id": "faq-pl-004",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Które produkty AF najlepiej podnoszą pH w akwarium?",
+    "query_text": "pH podnieść podwyższyć produkty AF Air Scrubber Media reaktor CO2 dwutlenek węgla niskie pH korekta parametrów wody alkaliczność",
+    "full_content": "PYTANIE: Moje pH wynosi X, chciałbym je podwyższyć, które produkty od AF mogą mi w tym najlepiej pomóc? ODPOWIEDŹ: Do podniesienia poziomu pH najlepszy będzie AF Air Scrubber z wkładem AF Air Scrubber Media.",
+    "domain": "universal",
+    "category": "parameters",
+    "intent": ["troubleshooting", "product_info"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/moj-poziom-ph-wynosi-x-chcialbym-go-podniesc-ktore-produkty-z-af-moga-mi-w-tym-pomoc/",
+    "tags": ["pH", "AF_Air_Scrubber", "AF_Air_Scrubber_Media", "podnoszenie_pH", "parametry_wody", "korekta_pH"],
+    "related_items": ["af-air-scrubber", "af-air-scrubber-media", "parametry-wody", "pH-akwarium", "reaktor-co2"],
+    "updated_at": "2025-06-02"
+}

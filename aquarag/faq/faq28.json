@@ -1,0 +1,16 @@
+{
+    "id": "np-pro-pro-bio-s-mieszanie-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Czy mogę wymieszać NP Pro z Pro Bio S?",
+    "query_text": "NP Pro Pro Bio S mieszać wymieszać pojemnik dozujący nie należy produkty kombinacja",
+    "full_content": "PYTANIE: Czy mogę wymieszać NP Pro z Pro Bio S? ODPOWIEDŹ: Nie, tych dwóch produktów nie należy mieszać. WAŻNE ZASADY: Produkty NP Pro i Pro Bio S należy stosować oddzielnie. Nie mieszać w tym samym pojemniku dozującym. Każdy produkt wymaga osobnego dozowania. Przestrzeganie tej zasady zapewnia skuteczność obu produktów.",
+    "domain": "seawater",
+    "category": "bacteria",
+    "intent": ["product_usage", "troubleshooting"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/czy-mozna-mieszac-np-pro-i-pro-bio-s-w-tym-samym-pojemniku-dozujacym/",
+    "tags": ["NP_Pro", "Pro_Bio_S", "mieszanie", "pojemnik_dozujący", "produkty_bakteryjne", "osobne_dozowanie"],
+    "related_items": ["af-ferrum-lab-vs-af-iron-roznice-001", "bacterial-supplements", "dosing-containers"],
+    "updated_at": "2025-06-02"
+  }

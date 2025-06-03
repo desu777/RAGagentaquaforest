@@ -1,0 +1,16 @@
+{
+    "id": "knowledge-pl-010",
+    "content_type": "knowledge", 
+    "lang": "pl",
+    "title": "Ospa rybia w akwarium - rozpoznawanie objawów i przyczyny zakażenia",
+    "query_text": "ospa rybia Ichthyophthirius multifiliis Cryptocaryon irritans białe kropki punkty plamki ryby objawy rozpoznawanie diagnoza kulorzęsek trophont tomont theront etapy rozwoju przyczyny zakażenia kwarantanna jakość wody odporność ryb saprolegnioza pleśniawka różnica",
+    "full_content": "CO TO JEST OSPA RYBIA: Ospa rybia wygląda podobnie w akwarium morskim, jak i w słodkowodnym. Natomiast jest wywoływana przez dwa różne rodzaje orzęska. W przypadku akwarium słodkowodnego, chorobę tę wywołuje pasożyt znany jako kulorzęsek podnabłonkowy (Ichthyophthirius multifiliis), a w akwarium morskim pasożyta tego nazywamy Cryptocaryon irritans. Te niebezpieczne pierwotniaki mogą zainfekować każdy gatunek ryb w zbiorniku. ETAPY ROZWOJU PASOŻYTA: TROPHONT – Etap ten jest dobrze zauważalny, charakteryzuje się białymi kropkami na ciele ryby. Najczęściej na tym etapie pasożyt zostaje wprowadzony do akwarium. Pływki po przeniknięciu, osiągają dojrzałość, po czym uwalniają do wody kolejne pokolenie. TOMONT – Po zamknięciu się w cystach, pływki rozwijają się w nich. Cysty osadzają się najczęściej na podłożu (niestety, w tym stadium, są odporne na działanie leków). THERONT – Następnie, kiedy wydostaną się z nich, zaczynają szukać żywiciela, czyli rybę. Pływki starają się przeniknąć do skóry i skrzeli ryb. Na tym etapie można je wyleczyć, ponieważ nie mają już warstwy ochronnej w postaci cysty. JAK ROZPOZNAĆ CHOROBĘ: Istnieje szansa na błędną diagnozę. Ichtioftirioza często jest mylona z saprolegniozą — pleśniawką, która jest podobna do objawów ospy rybiej. GŁÓWNE OZNAKI: 1. Małe, białe kropki występujące na ciele, skrzelach i na płetwach ryb. Wysypka przypomina kaszę manną lub drobinki soli. 2. Utrata apetytu. 3. Pojawiają się problemy z oddychaniem. 4. Można zaobserwować ocieranie się chorych ryb o elementy w akwarium. 5. Ryby mogą wydawać się ospałe, bez siły. 6. Nagła śmierć ryb w akwarium. SZYBKOŚĆ ROZWOJU: Choroba postępuje szybko, potrafi zabić rybę w ciągu 5-7 dni. Dodatkowo pasożyt rozprzestrzeni się także na inne osobniki. PRZYCZYNY ZAKAŻENIA: 1. Najczęstszą z przyczyn zarażenia akwarium jest wprowadzenie zarażonego wcześniej kompana do akwarium. 2. Jeżeli używasz wody z innego akwarium, istnieje ryzyko, że przeniesiesz chorobę do swojego akwarium. 3. Kupując używany sprzęt do akwarium, pamiętaj, aby go również zdezynfekować przed wprowadzeniem do swojego zbiornika. 4. Jakość wody też jest bardzo ważna, wpływa na odporność ryb. Obsada, która żyje w niskiej jakości wodzie, może być mniej odporna na choroby.",
+    "domain": "universal",
+    "category": "problems",
+    "intent": ["learning", "troubleshooting"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/ospa-rybia-w-akwarium-jak-zapobiegac-i-jak-leczyc-biale-plamki-u-ryb/",
+    "tags": ["ospa_rybia", "Ichthyophthirius_multifiliis", "Cryptocaryon_irritans", "białe_kropki", "kulorzęsek", "objawy", "rozpoznawanie", "diagnoza", "etapy_rozwoju", "trophont", "tomont", "theront", "przyczyny_zakażenia"],
+    "related_items": ["choroby-ryb", "diagnostyka", "kwarantanna-ryb", "jakość-wody", "troubleshooting-akwarium"],
+    "updated_at": "2025-06-02"
+}

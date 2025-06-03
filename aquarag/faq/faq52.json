@@ -1,0 +1,16 @@
+{
+    "id": "knowledge-pl-iron-rdzawy-kolor-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Iron - rdzawy kolor jest normalny",
+    "query_text": "Iron rdzawy kolor normalne związki żelaza jakość skuteczność przechowywanie zalecenia zmiana koloru produktu",
+    "full_content": "PRODUKT IRON MA RDZAWY KOLOR – CZY TO NORMALNE? Tak, rdzawy kolor może pojawić się z czasem i jest to zjawisko typowe dla produktów zawierających związki żelaza. Nie wpływa to negatywnie na jakość ani skuteczność preparatu, o ile był przechowywany zgodnie z zaleceniami.",
+    "domain": "seawater",
+    "category": "product_info",
+    "intent": ["product_info", "troubleshooting"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/produkt-iron-ma-rdzawy-kolor-czy-to-normalne/",
+    "tags": ["Iron", "rdzawy_kolor", "normalne", "związki_żelaza", "jakość", "skuteczność", "przechowywanie", "zmiana_koloru", "żelazo"],
+    "related_items": ["af-iron", "knowledge-przechowywanie-suplementów", "knowledge-pierwiastki-śladowe", "knowledge-suplementy-akwarium"],
+    "updated_at": "2025-06-02"
+  }

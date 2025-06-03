@@ -1,0 +1,16 @@
+{
+    "id": "knowledge-pl-component-b-wanad-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Component B - zawiera wanad",
+    "query_text": "Component B wanad vanadium zawiera składniki pierwiastki śladowe suplement akwarium morskie mikroelementy",
+    "full_content": "CZY COMPONENT B ZAWIERA WANAD? Tak, Component B zawiera wanad.",
+    "domain": "seawater",
+    "category": "product_info",
+    "intent": ["product_info"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/czy-component-b-zawiera-wanad/",
+    "tags": ["Component_B", "wanad", "vanadium", "zawiera", "składniki", "pierwiastki_śladowe", "suplement", "mikroelementy"],
+    "related_items": ["af-component-b", "knowledge-pierwiastki-śladowe", "knowledge-suplementy-akwarium", "knowledge-składniki-akwarystyczne"],
+    "updated_at": "2025-06-02"
+  }

@@ -1,0 +1,16 @@
+{
+    "id": "knowledge-pl-013", 
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Leczenie ospy rybiej w akwarium morskim - miedź, kwarantanna i sterylizatory UV",
+    "query_text": "leczenie ospa rybia akwarium morskie Cryptocaryon irritans miedź medykamenty toksyczna koralowce bezkręgowce zbiornik kwarantannowy głodówka pasożyta 4-8 tygodni sterylizatory UV wysoko odżywczy pokarm wymarcie z głodu",
+    "full_content": "LECZENIE OSPY RYBIEJ W AKWARIUM MORSKIM: W przypadku Cryptocaryon irritans sprawdzoną metodą jest użycie medykamentów na bazie miedzi. Pamiętaj, że miedź jest toksyczna dla koralowców i bezkręgowców, dlatego podczas używania tych preparatów przenieś swoje ryby do zbiornika kwarantannowego. Stosuj leki według zaleceń producenta. Aby pomóc przetrwać rybom okres choroby, stosuj wysoko odżywczy pokarm. METODA GŁODÓWKI PASOŻYTA: Ospa ta nie jest szkodliwa dla koralowców, więc dobrym rozwiązaniem jest zabrać ryby z zarażonego akwarium i pozwolić pasożytowi na wymarcie z głodu. Okres taki może trwać 4-8 tygodni. STERYLIZATORY UV: Do wspomagania tych sposobów warto użyć sterylizatorów UV. Nie są one aż tak skuteczne, jak poprzednie metody, natomiast warto je wziąć pod uwagę.",
+    "domain": "seawater",
+    "category": "problems", 
+    "intent": ["troubleshooting", "treatment"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/ospa-rybia-w-akwarium-jak-zapobiegac-i-jak-leczyc-biale-plamki-u-ryb/",
+    "tags": ["leczenie", "akwarium_morskie", "Cryptocaryon_irritans", "miedź", "medykamenty", "toksyczna", "koralowce", "bezkręgowce", "zbiornik_kwarantannowy", "głodówka_pasożyta", "4-8_tygodni", "sterylizatory_UV", "wysoko_odżywczy_pokarm"],
+    "related_items": ["choroby-morskie", "miedź-akwarium", "kwarantanna-ryb", "sterylizatory-uv", "pokarm-ryb", "leczenie-ryb"],
+    "updated_at": "2025-06-02"
+}

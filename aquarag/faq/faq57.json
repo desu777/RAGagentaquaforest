@@ -1,0 +1,17 @@
+
+{
+    "id": "knowledge-pl-sea-salt-aminokwasy-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Sea Salt - brak aminokwasów w składzie",
+    "query_text": "Sea Salt aminokwasy nie zawiera odtworzenie parametrów wody morskiej dodatki organiczne sól akwarystyczna skład",
+    "full_content": "CZY SEA SALT ZAWIERA AMINOKWASY? Nie, Sea Salt nie zawiera aminokwasów. Jest to produkt przeznaczony do odtworzenia parametrów wody morskiej, ale nie zawiera dodatków organicznych takich jak aminokwasy.",
+    "domain": "seawater",
+    "category": "product_info",
+    "intent": ["product_info"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/czy-sea-salt-zawiera-aminokwasy/",
+    "tags": ["Sea_Salt", "aminokwasy", "nie_zawiera", "parametry_wody_morskiej", "dodatki_organiczne", "sól_akwarystyczna", "skład"],
+    "related_items": ["af-sea-salt", "af-reef-salt", "knowledge-przygotowanie-wody-morskiej", "knowledge-składniki-akwarystyczne"],
+    "updated_at": "2025-06-02"
+  }

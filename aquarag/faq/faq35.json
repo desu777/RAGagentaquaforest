@@ -1,0 +1,16 @@
+{
+    "id": "life-bio-fil-ph-wody-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Czy Life Bio Fil zwiększa pH wody?",
+    "query_text": "Life Bio Fil pH woda zwiększa wpływ zalecenia bezpieczny produkt biologiczny filtracja równowaga chemiczna akwarium",
+    "full_content": "PYTANIE: Czy Life Bio Fil zwiększa pH wody? ODPOWIEDŹ: Stosowany zgodnie z zaleceniami, Life Bio Fil nie wpływa na wzrost pH wody. To bezpieczny produkt biologiczny, który wspiera filtrację bez zakłócania równowagi chemicznej akwarium. KLUCZOWE INFORMACJE: Nie wpływa na wzrost pH przy prawidłowym stosowaniu. Bezpieczny produkt biologiczny dla akwarium. Wspiera filtrację biologiczną. Nie zakłóca równowagi chemicznej akwarium. Stosowanie zgodnie z zaleceniami jest kluczowe.",
+    "domain": "universal",
+    "category": "parameters",
+    "intent": ["product_usage", "water_parameters"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/czy-life-bio-fil-zwieksza-ph-wody/",
+    "tags": ["Life_Bio_Fil", "pH", "woda", "filtracja_biologiczna", "równowaga_chemiczna", "bezpieczny", "zalecenia"],
+    "related_items": ["di-resin-mieszanka-zywic-001", "life-bio-fil-kwarantanna-miedz-001", "biological-filtration", "water-parameters"],
+    "updated_at": "2025-06-02"
+  }

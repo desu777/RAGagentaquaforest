@@ -1,0 +1,16 @@
+{
+    "id": "af-ferrum-lab-vs-af-iron-roznice-001",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Różnice między AF Ferrum Lab a AF Iron - porównanie produktów żelaza",
+    "query_text": "AF Ferrum Lab AF Iron różnica stężenie dozowanie żelazo akwarium rafowe porównanie produkty wybór forma",
+    "full_content": "PYTANIE: Czy istnieje jakaś różnica między produktami Ferrum, a Iron poza stężeniem? ODPOWIEDŹ: Oba produkty są źródłem żelaza dla zbiorników rafowych. Różną się stężeniem, a także sposobem dozowania – dajemy klientom możliwość wyboru jaka forma będzie dla nich wygodniejsza. PORÓWNANIE PRODUKTÓW: Oba dostarczają żelazo dla akwariów rafowych. Główna różnica to stężenie składnika aktywnego. Różny sposób dozowania każdego produktu. Możliwość wyboru formy wygodniejszej dla użytkownika. AF Ferrum Lab 200ml vs AF Iron 50ml - różne pojemności i koncentracje.",
+    "domain": "seawater",
+    "category": "parameters",
+    "intent": ["product_info", "comparison"],
+    "difficulty": "beginner",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/czy-jest-jakas-roznica-miedzy-af-ferrum-lab-200ml-a-af-iron-50ml-oprocz-stezenia/",
+    "tags": ["AF_Ferrum_Lab", "AF_Iron", "żelazo", "stężenie", "dozowanie", "porównanie", "akwarium_rafowe", "mikroelementy"],
+    "related_items": ["af-energy-fosforany-001", "trace-elements", "iron-supplementation"],
+    "updated_at": "2025-06-02"
+  }

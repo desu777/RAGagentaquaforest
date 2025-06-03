@@ -1,0 +1,16 @@
+{
+    "id": "knowledge-pl-022",
+    "content_type": "knowledge",
+    "lang": "pl",
+    "title": "Calcium, KH Buffer i Magnesium - czy można sporządzać mocniejsze roztwory?",
+    "query_text": "Calcium KH Buffer Magnesium rozcieńczyć mniejsza ilość wody mocniejszy roztwór limit odparowuje mało wody zalecana dawka silniejsze roztwory 2-3 razy mocniejsze wyższe stężenie zatkanie pompy nasycony roztwór",
+    "full_content": "MOCNIEJSZE ROZTWORY SUPLEMENTÓW: Pytanie: Czy mogę rozpuścić Calcium, KH Buffer i Magnesium w mniejszej ilości wody, aby uzyskać mocniejszy roztwór? Jeśli tak, jaki jest limit? Z mojego zbiornika odparowuje mało wody i jeśli użyję zalecanej dawki, dodam dużo wody do mojego akwarium. Odpowiedź: Tak, możliwe jest sporządzenie silniejszych roztworów wapnia i magnezu. W trosce o bezpieczeństwo zalecamy przygotowanie dawek maksymalnie 2-3 razy mocniejszych. Roztwór o wyższym stężeniu może spowodować zatkanie pompy. KH Buffer jest roztworem nasyconym, dlatego nie można uzyskać wyższego stężenia.",
+    "domain": "seawater",
+    "category": "products",
+    "intent": ["reference", "troubleshooting"],
+    "difficulty": "intermediate",
+    "url": "https://aquaforest.eu/pl/baza-wiedzy/czy-moge-rozcienczyc-calcium-kh-buffer-i-magnesium-mniejsza-iloscia-wody-aby-uzyskac-mocniejszy-roztwor-jesli-tak-jaki-jest-limit-powodem-jest-to-ze-moj-zbiornik-nie-paruje-zbyt-wiele-a-jesli-u/",
+    "tags": ["Calcium", "KH_Buffer", "Magnesium", "mocniejszy_roztwór", "rozcieńczyć", "mniejsza_ilość_wody", "limit", "2-3_razy_mocniejsze", "wyższe_stężenie", "zatkanie_pompy", "roztwór_nasycony", "odparowuje_mało", "zalecana_dawka", "silniejsze_roztwory"],
+    "related_items": ["calcium-aquaforest", "kh-buffer", "magnesium-aquaforest", "suplementy-akwarium", "dawkowanie-suplementów", "stężenie-roztworów", "parowanie-wody"],
+    "updated_at": "2025-06-02"
+}
